@@ -1,0 +1,751 @@
+7/14/2011	4579 Hampshire Pl, San Jose, CA 95136 
+7/14/2011	3307 Arqueado Dr, San Jose, CA 95148
+7/15/2011	2123 Louis Rd, Palo Alto, CA 94303
+7/15/2011	296 Palo Alto Ave, Mountain View, CA 94041
+7/16/2011	251 Puffin Ct, Foster City, California 94404
+7/16/2011	842 Magellan Ln, Foster City, CA 94404
+7/20/2011	555 E Meadow Dr, Palo Alto, CA 94306
+7/23/2011	1959 Annette Ln, Los Altos, CA 94024
+7/23/2011	 212 Village Lane, Foster City, CA 94404
+7/25/2011	1111 Compass Ln 204, Foster City, CA 94404
+7/26/2011	18108 Dorcich Ct, Saratoga, CA 95070
+7/26/2011	1232 Poplar Ave, Sunnyvale, CA 94086
+7/26/2011	1305 Darryl Dr, San Jose, CA 95130
+7/27/2011	45844 Cheyenne Pl, Fremont, CA 94539
+7/28/2011	1436 Hoffman Ln, Campbell, CA 95008
+7/28/2011	112 Hilary Ave, Mountain View, CA 94040
+7/28/2011	777 San Antonio Rd 137, Palo Alto, CA 94303
+7/28/2011	328 Smithwood St, Milpitas, CA 95035
+7/28/2011	927 Washington St, Mountain View, CA 94043
+8/2/2011	20237 Bollinger Road, Cupertino, CA 95014
+8/3/2011	6239 Cloverhill Dr, San Jose, CA 95120
+8/3/2011	6239 Cloverhill Dr, San Jose, CA 95120
+8/3/2011	991 Lundy Ln, Los Altos, CA 94024
+8/4/2011	13141 Pfeifle Ave, San Jose, CA 95111
+8/5/2011	869 Alderbrook Ln, Cupertino, CA 95014
+8/10/2011	671 Maud Avenue, San Leandro, CA 94577
+8/12/2011	1475 Gretel Ln, Mountain View, CA 94040
+8/13/2011	200 Las Miradas Dr, Los Gatos, CA 95032
+8/13/2011	1920 Bluewood Circle, San Jose, CA 95132
+8/17/2011	1203 Andre Ave, Mountain View, CA 94040
+8/19/2011	26776 Almaden Ct, Los Altos Hills, CA 94022
+8/19/2011	10624 Gascoigne Dr, Cupertino
+8/19/2011	18761 Pendergast Ave, Cupertino, CA 95014
+8/19/2011	6367 Myrtlewood Dr, Cupertino, CA 95014
+8/22/2011	106 2nd St, Los Altos, CA 94022
+8/23/2011	2382 Glen Way, East Palo Alto, CA 94303
+8/24/2011	1427 Willow St, Oakland, CA 94607	84
+
+8/25/2011	2824 Alhambra Dr, Belmont, CA 94002
+8/25/2011	1627 Parkwood Dr, San Mateo, CA 94403
+8/25/2011	2193 Hicks Ave, San Jose, CA 95125 
+8/26/2011	7220 Glenview Dr, San Jose, CA 95120
+8/26/2011	7220 Glenview Dr, San Jose, CA 95120
+8/26/2011	7220 Glenview Dr, San Jose, CA 95120
+8/26/2011	7220 Glenview Dr, San Jose, CA 95120
+8/29/2011	20147 Las Ondas Way, Cupertino, CA 95014.
+8/31/2011	2100 Eaton Ave, San Carlos, CA 94070
+9/2/2011	22685 Medina Ct, Cupertino, CA 95014
+9/7/2011	2169 Barrett Ave, San Jose, CA 95124	Andrea Schultz
+9/7/2011	41047 Pementel Ct, Fremont, CA 94539	Maggie Paul
+9/8/2011	5568 Shadowcrest Way, San Jose, CA 95123	James Price
+9/8/2011	731 Fremont St 	Sue Sherwood
+9/8/2011	372 Loreto St, Mountain View, CA 94041	Michael Galli
+9/8/2011	707 Concord Way, Burlingame, CA 94010	Kathy McKenzie
+9/9/2011	537 N 16th St, San Jose, CA 95112	Jerry Kwok
+9/9/2011	537 N 16th St, San Jose, CA 95112	Jerry Kwok
+9/12/2011	1659 Silvertree Dr, San Jose, CA 95131	Brad Hung Le
+9/13/2011	737 Winstead Ter, Sunnyvale, CA 94087	Mary Tan
+9/14/2011	22294 Carta Blanca St, Cupertino, CA 95014	Steven Askari
+9/14/2011	951 S 12th St Apt 114, San Jose, CA 95112	Jerry Kwok
+9/15/2011	503 South Park Dr. San Jose, CA 95129	Kevin Garvey
+9/15/2011	2410 Booksin Ave, San Jose, CA 95125	Edward Tran
+9/16/2011	26776 Almaden Ct. Los Altos Hills	Andrei
+9/17/2011	3644 Cody Ct, Santa Clara, CA 95051	Mary Tan
+9/17/2011	366 Colville Dr, San Jose, CA 95123	Jerry Kwok
+9/22/2011	1453 Alma Loop, San Jose, CA 95125	Jerry Kwok
+9/22/2011	2149 Junction Ave Apt 5, Mountain View, CA 94043	Sandy Clow- Raimondo
+9/22/2011	32 Heritage Ct, Belmont, CA 94002	Adele DellaSantina
+9/22/2011	1127 Holenbeck Ave, Sunnyvale, CA 94087	Jerry Kwok
+9/23/2011	11530 Murano Cir, Cupertino, CA 95014	Mary Tan
+9/28/2011	1305 Vernal Dr, San Jose, CA 95130	William
+9/28/2011	237 Prairie Dog Ln, Fremont, CA 94539	Barb
+9/28/2011	237 Prairie Dog Ln, Fremont, CA 94539	Barb
+9/29/2011	963 Smith Ave, Campbell, CA 95008	Kathy Liu 
+10/1/2011	618 Orange Ave, Los Altos, CA 94022	Sean Foley
+10/1/2011	2487 Golf Links Cir, Santa Clara, CA 95050	Mary Tan
+10/1/2011	10400 Scenic Blvd, Cupertino, CA 95014	Mary Tan
+10/4/2011	1604 Trollman Ave, San Mateo, CA 94401	Donna Black
+10/5/2011	406 Pepper Ave, Palo Alto, CA 94306	Judy OBrien
+10/7/2011	1155 La Rochelle Ter, Unit D, Sunnyvale, CA 94089	Patrick Johnson
+10/7/2011	1472 Carrington Cir, San Jose, CA 95125	Barb Williams
+10/7/2011	3167 Allen Way, Santa Clara, CA 95051	Mary Tan
+10/8/2011	5682 Turban Ct, Fremont, CA 94538	Cindy Liu
+10/11/2011	6292 Vegas Dr, San Jose, CA 95120	Karen Lin
+10/11/2011	731 Fremont St, Unit 3, Menlo Park, CA 94025	Pacific Peninsula
+10/11/2011	190 Douglas Ct, Milpitas, CA 95035	Natalie Liu 
+10/13/2011	18871 Arata Way, Cupertino, CA 95014	Jinny Ahn
+10/14/2011	4289 Maple Ave, Oakland, CA 94602	Jimmy Tam
+10/15/2011	27408 Hemlock Ranch Rd., Hayward	Virginia Supnet
+10/17/2011	21861 Alcazar Ave, Cupertino, CA 95014	Mary Tan
+10/18/2011	 681 Vinemaple Ave, Sunnyvale, CA 94086	Rita McKeany
+10/19/2011	1400 Bowe Ave Apt 608, Santa Clara, CA 95051	Vicky Le
+10/21/2011	1110 Hunterston Pl, Cupertino, CA 95014	Jinny Ahn
+10/24/2011	2350 109th Ave, Oakland, CA 94603	Angelou Masters
+10/26/2011	8 Westcliff Ct, Pacifica, CA 94044	Linda Li
+10/27/2011	1452 Madera Way, Millbrae, CA 94030	Cathy Lubke
+10/31/2011	491 Pariso Ter, Fremont, CA 94539	Maggie Paul
+11/1/2011	6360 Myrtlewood Dr, Cupertino, CA 95014	Patrick Johnson
+11/3/2011	3051 Birdsall Ave, Oakland, CA 94619	Bobbi Vogel
+11/3/2011	2615 Cowper St, Palo Alto, CA 94306	Dennis Wu
+11/4/2011	1225 Locust St, San Jose, CA 95110	Jerry Kwok
+11/5/2011	3381 Ivan Way, Mountain View, CA 94040	Surjit Kaur
+11/8/2011	32509 Deborah Dr, Union City, CA 94587	Joe Metz
+11/9/2011	64 Chester Cir, Los Altos, CA 94022	Howard Bloom
+11/9/2011	1119 Timberpine Ct, Sunnyvale, CA 94086	Sheila Benson
+11/15/2011	1386 W. Hedding, San Jose 95126	James Fucillo
+11/16/2011	2051 Emerson St, Palo Alto, CA 94301	Virginia Supnet
+11/16/2011	1116 Hollyburne, Menlo Park, CA 94025	Bob Williams
+11/18/2011	104 Brisbane Ter, Sunnyvale, CA 94086	Julie Fernandez
+11/21/2011	1251 Sevier Ave, Menlo Park, CA 94025	Bob Williams
+12/7/2011	722 Nutmeg Ave, Sunnyvale, CA 94087	Jack Earl
+12/8/2011	2365 Stratford Dr, San Jose, CA 95124	Karen Lin
+12/9/2011	1483 Mount Palomar Dr, San Jose, CA 95127	Jerry Kwok
+12/13/2011	473 Costa Mesa Ter Apt C, Sunnyvale, CA 94085	Jinny Ahn
+12/19/2011	630 Woodside Dr, Woodside, CA 94062	Sean Foley
+12/23/2011	7644 Burnham Way Dublin, Ca 94568	Joe Metz
+1/6/2012	3515 69th Ave. Oakland, Ca 94605	Jenny Wu
+1/6/2012	595 E Olive Ave Sunnyvale, CA 94086	Sophie Shen
+1/11/2012	1006 North Second St. San Jose, Ca 95112	Jerry Kwok
+1/11/2012	1415 Carmel Dr, San Jose, CA 95125	Jerry Kwok
+1/11/2012	185 Walter Hays Dr Palo Alto, CA 94303	Delia Fei
+1/13/2012	245 Casper St, Milpitas, CA 95035	Tim Yeager
+1/13/2012	15525 Via Eduardo, Morgan Hill, CA 95037	Norman Lam
+1/13/2012	15500 Madrone Hill Rd, Saratoga, CA 95070	Beirne Shuffle
+1/16/2012	3680 Pruneridge Ave, Santa Clara, CA 95051	Jennifer Zhang
+1/16/2012	578 Ironwood Ter Apt 5, Sunnyvale, CA 94086	Elizabeth Tucker
+1/17/2012	45 S 23rd St, San Jose, CA 95116	Jerry Kwok
+1/19/2012	464 Dempsey Rd, Unit 264, Milpitas, CA 95035 	Brad Hung Le
+1/19/2012	116 Adrian Pl, Los Gatos, CA 95032	Aimee Smith
+1/25/2012	10362 Scenic Cir, Cupertino, CA 95014	Roberta Murai
+1/25/2012	10362 Scenic Cir, Cupertino, CA 95014	Roberta Murai
+1/25/2012	1322 Egret Dr, Sunnyvale, CA 94087	Howard Bloom
+1/26/2012	565 Evangeline Way, Hayward, CA 94544	Wendy Wu
+1/27/2012	2920 Dolores Way, Burlingame, CA 94010	Art Sharif
+1/27/2012	1831 Sheri Ann Cir, San Jose, CA 95131	Royce Cablayan
+1/30/2012	565 Evangeline Way, Hayward, CA 94544	Wendy Wu
+1/31/2012	20120130 565EvangelineWay	
+2/1/2012	106 Lyell St, Los Altos, CA 94022	Terri Cambouris
+2/1/2012	5525 Sunspring Cir, San Jose, CA 95138	William Chen
+2/1/2012	8 Politzer Dr, Menlo Park, CA 94025	Eloise Pollock
+2/4/2012	1555 Keesling Ave, San Jose, CA 95125	Leeland Wong
+2/8/2012	9100 Avezan Way, Gilroy, CA 95020	Ben JIang	502/8/2012	1671 Zinnia Ln, San Jose, CA 95124	Roberta Murai	not free	50+20 Distance
+2/9/2012	252 Las Miradas Dr, Los Gatos, CA 95032	Richard Zhou	not free	50
+2/9/2012	25 Warmwood Way, Hillsborough, CA 94010	Stanley Lo	free	50+25 Distance
+2/9/2012	285 Stierlin Rd, Mountain View, CA 94043	Andrew Griscom	not free	50
+2/10/2012	597 Valley Forge Way Apt 4, San Jose, CA 95117	Afsie Mina	not free	50
+2/10/2012	904 Camille Ln, Mountain View, CA 94040	Veronica Young	not free	50
+2/10/2012	21730 Alcazar Ave, Cupertino, CA 95014	Mary Tan		50+20
+2/14/2012	1479 Petal Way, San Jose, CA 95129	Elaine Yang	not free	50
+2/14/2012	5631 Ravenna Ct, San Jose, CA 95118	Sheila Benson	not free	50+10 Size
+2/14/2012	1479 Petal Way, San Jose, CA 95129	Elaine Yang	not free	
+2/15/2012	10234 Parlett Pl, Cupertino, CA 95014	Rachel Pong	not free	50+20 Distance
+2/15/2012	1627 Benton Ct, Sunnyvale, CA 94087	Betty Lin	not free	50
+2/15/2012	44113 Glendora Dr, Fremont, CA 94539	Jinny Ahn	not free	50+20 Distance
+2/16/2012	1666 E 32nd St, Oakland, CA 94602	Vinny MaNguyen	not free	50+20 Distance
+2/16/2012	6253 Lean Ave, San Jose, CA 95123	Terry Hong	not free	50
+2/16/2012	1114 Clark St, San Jose, CA 95125	Jerry Kwok	not free	50
+2/18/2012	10072 Imperial Ave, Cupertino, CA 95014	Rachel Pong	not free	50
+2/18/2012	966 Candlewood Dr, Cupertino, CA 95014	Lydia Wang	not free	50
+2/20/2012	1292 Phyllis Ave, Mountain View, CA 94040	Judy OBrien	not free	50
+2/22/2012	2278 Euclid Ave, East Palo Alto, CA 	Clara Lee		50
+2/23/2012	1299 Ocaso Camino, Fremont, CA 94539	Lihong Zhong	not free	50
+2/24/2012	1520 Melba Ct, Mountain View, CA 94040	Shilpa Merchant	not free	50
+2/25/2012	1520 Melba Ct, Mountain View, CA 94040	Shilpa Merchant	not free	25
+2/25/2012	1548 Wheatley Pl, San Jose, CA 95121	Greta Liu	not free	50+35 Distance +size
+2/25/2012	41091 Bernie St, Fremont, CA 94539	Maggie Paul	not free	50+15 Distance
+2/27/2012	945 Los Altos Ave, Los Altos, CA 94022	Susan Enzmann	not free	50
+2/29/2012	7794 Huntridge Ln, Cupertino, CA 95014	Mary Tan		50
+3/1/2012	4025 Jackie Ct, Pleasanton, CA 94588	Karen Lin	not free	50+20 Travel
+3/1/2012	784 Gailen Ave, Palo Alto, CA 94303	Katrina Edwards	not free	50+20 Distance
+3/2/2012	1746 Rock St, Mountain View, CA 94043	Christy Ying	not free	50
+3/2/2012	3131 Madeline St, Oakland, CA 94602	Vinny MaNguyen	not free	50+20 Travel
+3/3/2012	14188 Perata Ct, Saratoga, CA 95070	Kathy Liu	not free	50+40 Distance Size
+3/5/2012	2140 Santa Cruz Ave, Menlo Park, CA 94025	Beth Leathers	not free	50+$25 Distance
+3/6/2012	2140 Santa Cruz Ave, Menlo Park, CA 94025	Beth Leathers	not free	50+$25 Distance
+3/6/2012	TEST TEST TEST	TEST TEST	free	50
+3/7/2012	3131 Madeline St, Oakland, CA 94602	Vinny MaNguyen	not free	50+20 Distance
+3/7/2012	10440 Oakville Ave, Cupertino, CA 95014	Randy Leo	not free	50+10Distance
+3/7/2012	1668 Mendenhall Dr, San Jose, CA 95130	Alan Huang	not free	50
+3/8/2012	10570 Foothill Blvd, Cupertino, CA 94024	Mary Tan		50+20 Distance+10 size
+3/8/2012	2211 Latham St Unit 122, Mountain View, CA 94040	Barbara Williams	not free	50+20 Distance
+3/8/2012	1122 Banyan Way, Pacifica, CA 94044	Virginia Supnet	not free	50+35 Distance
+3/9/2012	238 Crestview Dr, San Carlos, CA 94070	Adele DellaSantina	not free	50+30 Distance size
+3/9/2012	812 Andromeda Ln, Foster City, CA, 94404	Stella Zhu	not free	50
+3/10/2012	10239 Ainsworth Dr, Cupertino, CA 95014	Mary Tan		50+20+25 Size Distance
+3/13/2012	1242 Greenwood Ave, Palo Alto, CA 94301	Valerie Lo		50
+3/13/2012	2076 Alameda Way, San Jose, CA 95126	Rob Godar		50+25 Size, Studio in backyard 
+3/13/2012	4871 Lago Vista Cir, San Jose, CA 95129	Jinny Ahn	not free	50
+3/13/2012	40377 Loro Pl, Fremont, CA 94539	Kari Kuang	not free	50+20 Distance
+3/14/2012	10385 Rivercrest Ct, Cupertino, CA 95014	Mary Tan		50
+3/14/2012	153 Fairbanks Ave, San Carlos, CA 94070	Lynne Mercer	not free		50+20 Distance3/16/2012	819 Hooshang Ct, Cupertino, CA 95014	Terry Hong	not free	50+30 Distance 
+3/16/2012	1040 Happy Valley Ave, San Jose, CA 95129	Georgie Huff	not free	50+10 Size
+3/16/2012	667 Princess Pl, Milpitas, CA 95035	Julie Tsai-Law	not free	50
+3/17/2012	6244 Running Springs Rd, San Jose, CA 95135	Todd Zebb		50+30 Distance size
+3/17/2012	2824 Paseo Ln, San Jose, CA 95124	Kathy Liu	not free	50+10 Size
+3/20/2012	18931 Barnhart Ave, Cupertino, CA 95014	Mary Tan	not free	50+20 Distance
+3/20/2012	1153 Loyola Dr, Santa Clara, CA 95051	Bridgette Akunal	not free	50+20 return
+3/20/2012	7907 Hillmont Dr, Oakland, CA 94605	Vinny MaNguyen	not free	50+20 Distance
+3/20/2012	13522 Debbie Ln, Saratoga, CA 95070	Jinny Ahn	not free	20 reschedule 
+3/21/2012	1450 Mercer Ave, San Jose, CA 95125	Sara Greenwood	not free	50+20 Distance Size
+3/21/2012	13522 Debbie Ln, Saratoga, CA 95070	Jinny Ahn	not free	50
+3/21/2012	1450 Mercer Ave, San Jose, CA 95125	Sara Greenwood	not free	50+30 Distance size
+3/22/2012	34134 Auden Ct, Fremont, CA 94555	Alice Hou	not free	50
+3/22/2012	2743 Wemberly Dr, Belmont, CA 94002	Adele DellaSantina	not free	50+30 Distance 
+3/23/2012	2226 Zoria Cir, San Jose, CA 95131	Brad Hung Le	not free	50
+3/23/2012	13522 Debbie Ln, Saratoga, CA 95070	Jinny Ahn	not free	0
+3/23/2012	616 Stendhal Ln, Cupertino, CA 95014	Mary Tan		50
+3/24/2012	138 Smith Ranch Ct, Los Gatos, CA 95032	Ady Wunderman	not free	50+30 Distance 
+3/26/2012	5967 Pala Mesa Dr, San Jose, CA 95123	Jeff Peng	free	50
+3/27/2012	10387 Amistad Ct, Cupertino, CA 95014	Mary Tan		50+20 Distance
+3/27/2012	3718 Morrie Dr, San Jose, CA 95127	Kathy Liu	not free	50+30 Distance size
+3/28/2012	126 Ferne Ave, Palo Alto, CA 94306	Howard Bloom		50+20 Distance
+3/28/2012	760 Luce Ct, Mountain View, CA 94041	William Chen	not free	50
+3/28/2012	805 Pitkin Loop, San Jose, CA 95125	Shilpa Merchant and 	not free	50
+3/28/2012	17930 Bucknall Rd, San Jose, CA 95130	Alex Lo	free	50
+3/28/2012	6318 Skywalker Dr, San Jose, CA 95135	Howard Bloom		50+35 Distance Size
+3/30/2012	465 Fathom Drive Unit 212, San Mateo CA 94404	Alex Wang	not free	50+10Distance
+3/30/2012	333 Santana Row Unit 310	Eric Greenwood		50
+3/30/2012	21741 Alcazar Ave, Cupertino, CA 95014	Mary Tan		50+10Distance
+4/2/2012	3480 Tracy Dr, Santa Clara, CA 95051	Lisa Leung	not free	50
+4/3/2012	542 Mariposa Ave, Mountain View, CA 94041	Nisha Sharma		50
+4/3/2012	21910 Hermosa Ave, Cupertino, CA 95014	Nancy Sun	not free	50
+4/4/2012	1587 Prosperity Ct, San Jose, CA 95131	Cindy Liu	not free	50
+4/5/2012	134 Azalea Dr, Mountain View, CA 94041	Keith Robertson	not free	50+5 toll +5 Size
+4/6/2012	12280 Country Squire Ln, Saratoga, CA 95070	Mary Tan		50
+4/7/2012	905 Raintree Ct, San Jose, CA 95129	Lydia Wang	not free	50
+4/7/2012	Anthony	Keith Robertson	not free	50
+4/9/2012	21910 Hermosa Ave, Cupertino, CA 95014	Nancy Sun	free	50
+4/11/2012	20543 Ashley Way, Saratoga, CA 95070	Julie Tsai-Law	not free	50+25 Size
+4/11/2012	20543 Ashley Way, Saratoga, CA 95070	Julie Tsai-Law	not free	50
+4/11/2012	1027 Hiawatha Ct, Sunnyvale, CA 94087	Coco Tan	not free	50
+4/13/2012	7848 Jeanette Ct, Cupertino, CA 95014	Mary Tan		50+25 Size
+4/15/2012	1234 Main St, Oakland, CA 94403	John Smith		50
+4/15/2012	1234 Main St, Oakland, CA 94403	John Smith		50+20
+4/15/2012	1234 Main St, Oakland, CA 94403	John Smith		50+20
+4/16/2012	22360 Santa Paula Ave, Cupertino, CA 95014	Cindy Hsu		50+40 Size
+4/17/2012	7848 Jeanette Ct, Cupertino, CA 95014	Mary Tan		50
+4/17/2012	419 Hogarth Ter, Sunnyvale, CA 94087	Alex Wang		50+5
+4/17/2012	22360 Santa Paula Ave, Cupertino, CA 95014	Cindy Hsu		0
+4/17/2012	2434 Alvin St, Mountain View, CA 94043	Lynne Mercer		50
+4/18/2012	5425 Borgia Rd, Fremont, CA 94538	Annie Ling Zhou		50
+4/18/2012	3831 May Ct, Palo Alto, CA 94303	Delie Fei		50+5
+4/19/2012	1550 Mariposa Ave, Palo Alto, CA 94306	Caitlin Darke		50+5
+4/20/2012	1456 Murwood Dr, Walnut Creek, CA 94596 	Joe Metz		50+15 Distance
+4/21/2012	1381 Warner Ave, Sunnyvale, CA 94087	Jinny Ahn		50+15 Distance
+4/21/2012	202 Castilian Way, San Mateo, CA 94402	Joann Weber		50+15 Distance
+4/21/2012	851 San Marco Ave, Fremont, CA 94539	Dennis Liu		50+10 Size
+4/23/2012	5581 Butano Park Dr, Fremont, CA 94538	Cindy Liu		50
+4/23/2012	10201 Nile Dr, Cupertino, CA 95014	Jane Wang		50
+4/23/2012	180 Warwick Dr, Campbell, CA, 95008	Bridgette Akunal		50
+4/24/2012	777 San Antonio Rd Apt 19, Palo Alto, CA 94303	Roberta Murai		50+5 Dist
+4/25/2012	864 Bauer Dr, San Carlos, CA 94070	Doug Gonzalez		50+10 Distance
+4/25/2012	513 Kenilworth Ct, Sunnyvale, CA 94087	Gladys Morais		50
+4/25/2012	10201 Nile Dr, Cupertino, CA 95014	Jane Wang		50
+4/25/2012	3961 Hamilton Park Dr, San Jose, CA 95130	Stephanie Zhu		50
+4/26/2012	833 Sonoma Terrace, Stanford, CA 94305	Ron Kucera		50+10 Distance
+4/26/2012	3821 Abbey Ct, Campbell, CA 95008	Tommy Tse		50
+4/27/2012	2835 Schooner Ct, San Jose, CA 95148	Len Ha		50+15
+4/27/2012	11256 Palos Verdes Ct, Cupertino, CA 95014	Mary Tan		50+10 Distance
+4/30/2012	3432 65th Ave, Oakland, CA 94605	Jenny Wu		50+15 Distance
+5/1/2012	1238 Loyola Dr, Santa Clara, CA 95051	Bridgette Akunal		50
+5/1/2012	10140 Mello Pl, Cupertino, CA 95014	Grace Wu		50
+5/2/2012	575 Bobolink Cir, Sunnyvale, CA 94087	Michael Frangadakis		50+5
+5/2/2012	315 Loreto St, Mountain View, CA 94041	Tori Corbett		30
+5/2/2012	579 Mccarty Ave, Mountain View, CA 94041	Howard Bloom		50+5 Distance
+5/2/2012	3424 Cowper Ct, Palo Alto, CA 94306	Deepak Sainanee		50+25 Size+20 Travel
+5/2/2012	4353 Watson Cir, Santa Clara, CA 95054	Dennis Wu		50
+5/3/2012	3767 Ruby St, Oakland, CA 94609	Bobbi Vogel		30
+5/5/2012	1601 Deerfield Dr, San Jose, CA 95129	Albert Ho		50+15 Distance
+5/9/2012	68 E Younger Ave, San Jose, CA 95112	Yes		50
+5/12/2012	1486 Thunderbird Ave, Sunnyvale, CA 94087	Yes		107
+6/16/2012	40 Bishop Oak Ct, Menlo Park, CA 94025	Tom Correia		50+15Size +15Distance
+6/16/2012	10823 E Estates Dr, Cupertino, CA 95014	Lydia Wang		75+20 reschedule 
+6/18/2012	8011 Sunkist Dr, Oakland, CA 94605	Vinny MaNguyen		50+15 Distance +10 Size
+6/19/2012	405 Chesley Ave, Mountain View, CA 94040	Todd Zebb		50+5 distance +15 size
+6/19/2012	7794 Huntridge Ln, Cupertino, CA 95014	Mary Tan		50
+6/19/2012	1090 Moreno Ave, Palo Alto, CA 94303	Sebastian Wong		(50+30 Size 6/18)+ (50+15 size 6/19) (+40 travel 6/18-6/19) 
+6/20/2012	2943 Vineyard Park Dr, San Jose, CA 95148	Ravi Shah		50
+6/20/2012	4451 Jacinto Dr, Fremont, CA 94536	Grace Li		50
+6/20/2012	1349 Zurich Ter, Sunnyvale, CA 94087	Susan Enzmann		50+10 distance
+6/21/2012	10416 Johnson Ave, Cupertino, CA 95014	Nemo How		50+10 distance +5 Size
+6/22/2012	975 Planetree Pl, Sunnyvale, CA 94086	Sheila Benson		50
+6/22/2012	2671 Sugarplum Dr, San Jose, CA 95148	Ravi Shah		50
+6/25/2012	4375 Darwin Dr, Fremont, CA 94555	Cindy Liu		50+5 Size
+6/25/2012	14829 Sutton Dr, San Jose, CA 95124	Priscilla Wang		50+45 size 
+6/25/2012	1024 Smith Ave, Campbell, CA 95008	Olga Dorf		50
+6/26/2012	1448 Regalo Ct, San Jose, CA 95128	Bridgette Akunal		50
+6/26/2012	6467 Hidden Creek Ct, San Jose, CA 95120	Leslie Zhong		50
+6/27/2012	923 The Dalles Ave, Sunnyvale, CA 94087	Jinny Ahn		50+10 distance
+6/28/2012	1683 Cherry Grove Dr, San Jose, CA 95125	Katie Duus		50
+6/29/2012	1395 Delfino Way, Menlo Park, CA 94025	Holly Stockman		50+10 distance
+7/4/2012	10630 Stokes Ave, Cupertino, CA 95014	Ella Sun		50
+7/4/2012	19337 Sakura Way, Cupertino, CA 95014	Byong Nowatzki		50
+7/5/2012	985 Elsinore Dr, Palo Alto, CA 94303	Grace Wu		50+20 Travel
+7/6/2012	2255 Showers Dr Apt 154, Mountain View, CA 94040	Michael Galli		50+20 for front shots of (1696ViaCampagna)
+7/6/2012	3200 Madeline St, Oakland, CA 94602 	Jerry Tran		50+20 Distance
+7/6/2012	4271 Suzanne Dr, Palo Alto, CA 94306	Grace Wu		50+10 distance +5 Size
+7/9/2012	4277 Park Blvd, Palo Alto, CA 94306	Jerry Kwok		50+10
+7/10/2012	43395 Luzon Ct, Fremont, CA 94539	Eric Soderlund		50+40 Size
+7/11/2012	234 Peppermint Tree Ter Unit 1, Sunnyvale, CA 94086	Alex Wang		50
+7/12/2012	2188 Northampton Dr, San Jose, CA 95124	Roberta Murai		50+15Dist +10time2hrs + 30 for 4sites UnionCityHayardComm Dist on 20120711
+7/13/2012	21353 Vai Ave, Cupertino, CA 95014	Mary Tan		50+10 distance + 20 Size/time 2hrs
+7/14/2012	10706 Par Three Dr, Cupertino, CA 95014	Mary Tan		50+10 distance
+7/17/2012	2995 Melendy Dr Apt 3, San Carlos, CA 94070	Jaime Gonzalez		50+20 Distance
+7/17/2012	1630 Peacock Ave, Sunnyvale, CA 94087	Olivia Lee		50
+7/17/2012	42461 Olive Ct, Fremont, CA 94539	Charlene Pien		50
+7/17/2012	2015 Saint Julien Ct, Mountain View, CA 94043	Howard Bloom		50
+7/17/2012	6770 Charlene Ct, San Jose, CA 95129	Lydia Wang		50+20 Size
+7/18/2012	1157 Blair Ave, Sunnyvale, CA 94087	Sheila Benson		85
+7/19/2012	139 Centre St, Mountain View, CA 94041	Cynthia Chang		50
+7/19/2012	1157 Blair Ave, Sunnyvale, CA 94087	Sheila Benson		85
+7/20/2012	10334 Alpine Dr Unit B, Cupertino, CA 95014 	Betty Lin		50+30 Travel
+7/20/2012	23214 Maud Ave, Hayward, CA 94541	Joe Metz		50+25 Travel
+7/20/2012	936 Colonial Ln, Palo Alto, CA 94303	Anita Hunter		50+20 Size
+7/20/2012	4245 Rickeys Way Unit K, Palo Alto, CA 94306	Jinny Ahn		50+10 distance
+7/21/2012	699 Waltham St, Mountain View, CA 94022	Todd Zebb		50+25 Size
+7/21/2012	4608 Batten Way, San Jose, CA 95135	Mark Wong		50+20 Distance+20 Size
+7/21/2012	5811 Killarney Cir, San Jose, CA 95138	Terry Jarrouche		50
+7/21/2012	35703 Ballantine Pl, Fremont, CA 94536 	Danli Liu		50+10 Detail
+7/23/2012	670 Market St Santa Cruz, CA 95065	Aruna Batra		50+35 Distance
+7/23/2012	5000 Camden St, Oakland, CA 94619	Vinny MaNguyen		30+15 Distance
+7/23/2012	1029 Cervantez Ct, Milpitas, CA 95035	Fred Lam		50+40 Size
+7/24/2012	125 Llagas Road, Morgan Hill, CA 95037	 Christine LeQuang		50+40 Size+15 Park 
+7/24/2012	3560 Butcher Dr, Santa Clara, CA 95051	Leslie Zeisler		50
+7/24/2012	3826 West St, Oakland, CA 94608	Jenny Wu	50+25 Travel
+7/26/2012	TEST TEST TEST	Julia Li		50
+7/26/2012	5000 Camden St, Oakland, CA 94619	Vinny MaNguyen		50+20 Distance
+7/26/2012	1015 Yorktown Dr, Sunnyvale, CA 94087	Julia Li		50
+7/30/2012	2861 Stevenson St, Santa Clara, CA 95051	Mary Tan		50+35 Size ( Square Feet: 2,163 )
+7/31/2012	829 Lily Ave, Cupertino, CA 95014	Steven Askari		50
+8/1/2012	845 Nectarine Ave, Sunnyvale, CA 94087	Albert Kao		50
+8/1/2012	1 Waterside Circle, Redwood Shores, CA 94065	Atma Dayal		50 +35 Size (  2,001-3,000 is not listed so Im assuming is within this range- let me know other wise, thanks )
+8/2/2012	5538 Carnegie Loop, Livermore, CA 94550	Karen Lin		50+25 Distance
+8/2/2012	601 W Remington Dr, Sunnyvale, CA 94087	Erick Fernandez		50 + 20 (size 1,660 )
+8/3/2012	604 Oregon Ave, Palo Alto, CA 94301	Tim Foy		50+ 15 Distance
+8/3/2012	3945 Whittle Ave, Oakland, CA 94602	Vinny MaNguyen		50
+8/6/2012	3729 Phunglau Ct, San Jose, CA 95117	Lydia Wang		50
+8/7/2012	903 Hazelnut Ct, Sunnyvale, CA 94087	Tori Corbett		50 +35 ( Size 2,055 )
+8/9/2012	1545 Lincoln Ave, Capitola, CA 95010	Peter Tiemann		50+35 Distance
+8/9/2012	477 Lassen St Apt 7, Los Altos, CA 94022	Todd Zebb		50+15 Distance
+8/9/2012	2258 Montezuma Dr, Campbell, CA 95008	Howard Bloom		50+35 (Size 2,328)
+8/9/2012	3441 Walton Way, San Jose, CA 95117	Martin Ku		50+20 (Size 1,800)
+8/10/2012	1041 W Hill Ct, Cupertino, CA 95014	Mary Tan		50+35 (Size 2,755)
+8/10/2012	829 Lily Ave, Cupertino, CA 95014	64
+8/13/2012	3068 San Andreas Dr, Union City, CA 94587	Jane Chen		50+10 distance
+8/14/2012	1733 Kinglet Ct, Sunnyvale, CA 94087	Roberta Murai		50 +10 (Size 1,606 )
+8/17/2012	2889 Fresno St, Santa Clara CA 95051	Jinny Ahn		50+35 (size 2,719 )
+8/17/2012	6344 Malory Dr, San Jose, CA 95123	Carl Yeung		50+ 35 (Size 2,186 ) 
+8/18/2012	1123 Sevier Ave, Menlo Park, CA 94025	Henri Pessah		50 + 10 distance
+8/21/2012	144 Holly Terrace, Sunnyvale, CA 94086	Alex Wang		
+8/21/2012	1070 Heatherstone Way, Sunnyvale, CA 94087	Sheila Benson		50
+8/22/2012	3281 El Sobrante St, Santa Clara, CA 95051	Tram Lily Bui		50 +35 (Size 2,906 )
+8/22/2012	4214 Juniper Ln, Palo Alto, CA 94306	FREE Delia Fei		50+15 Distance
+8/22/2012	144 Holly Terrace, Sunnyvale, CA 94086	Alex Wang		50 + 10 (size 1,740 )
+8/22/2012	144 Holly Terrace, Sunnyvale, CA 94086	Alex Wang		130 +20 (size 1,740 ) VIDEO
+8/22/2012	290 Hans Ave, Mountain View, CA 94040	Todd Zebb		50
+8/23/2012	1592 Ballantree Way, San Jose, CA 95118	Betty Lin		50 + 10 (Size 1,734  )
+8/23/2012	47363 Yucatan Dr, Fremont, CA 94539	Dennis Bower		
+8/23/2012	1223 Mcintosh Ave, Sunnyvale, CA 94087	Dave Clark		50+ 10 (size 1,727 )
+8/24/2012	1492 Carnot Dr, San Jose, CA 95126	Mary Ann Wallace		50
+8/29/2012	1233 Hazlett Ct, San Jose, CA 95131	Judy Wang		50+10 (Size 1,578 )
+8/30/2012	1181 Cranberry Ave, Sunnyvale, CA 94087	Sheila Benson		85
+8/30/2012	4720 Torrey Pines Circle, San Jose, CA 95124	Ruth Mistry		50+ 20 Distance +10 Size/TIme (Crammed with Antiques)
+8/30/2012	6576 Camden Ave, San Jose, CA 95120	Jerry Kwok		50
+8/30/2012	4718 Heathview Dr, San Jose, CA 95130 	James Fucillo		50+35 (Size 2,380  )
+9/5/2012	599 Gingko Ter, Fremont, CA 94539	Helen Lin		50+5 Dist + 5 Size   
+9/5/2012	238 Mercy St, Mountain View, CA 94041	Tori Corbett		50
+9/5/2012	1414 Bobwhite Ave, Sunnyvale, CA 94087	Miri Bialek		50+ 10 (1,534  )
+9/6/2012	1470 Camino Robles Ct, San Jose, CA 95120	Julie Tsai Law		50+35 (Size 2,390 )
+9/6/2012	20329 Knollwood Dr, Saratoga, CA 95070	Mark Wong		50+35 (Size 2,130  )
+9/6/2012	2331 Hastings Dr, Belmont, CA 94002	Atma Dayal		50+20 Distance
+9/6/2012	147 Positano Cir, Redwood City, CA 94065	Anthony Chen		50+20 Distance
+9/7/2012	6664 Clifford Ct, Cupertino, CA 95014	Mary Tan		50+10 (Size 1,960)
+9/7/2012	3556 Middlefield Rd, Palo Alto Fronts, CA 94306	Julie Tsai Law		30+15 Distance
+9/7/2012	3656 Chillingham Ct, Pleasanton, CA 94588	Karen Lin		50+20 distance +10 Size
+9/10/2012	1728 Whitham Ave, Los Altos, CA 94024	Dennis Liu		50+20 Distance +10 Time 2hrs
+9/11/2012	3556 Middlefield Rd, Palo Alto, CA 94306	Julie Tsai Law		50+10 (Size 1,576 )+20 Travel 
+9/12/2012	2021 Monroe Ave, Belmont, CA 94002	Kiesha Stephens		50+20 Distance
+9/13/2012	21853 Oakview Ln, Cupertino, CA 95014	Mary Tan		50+35 (Size 2,019)
+9/13/2012	4469 Norocco Cir, Fremont, CA 94555	Virginia Supnet		50+10 size Time
+9/13/2012	2650 Wallace St, Santa Clara, CA 95051	Barb Williams		50
+9/14/2012	3329 Machado Ave, Santa Clara, CA 95051 	Tommy Tse		50
+9/17/2012	20800 Wardell Rd, Saratoga, CA 95070	Mary Tan		50+35 (Size 2k~3k)
+9/18/2012	2073 Princeton St, Palo Alto, CA 94306	Jinny Ahn		50+5 Size+15 Distance
+9/18/2012	2799 George Blauer Pl, San Jose, CA 95135	Ravi Shah		50+75 (Size 4,264)
+9/19/2012	2255 Showers Dr. Unit 385, Mountain View, CA 94040	Helen Nyborg		50
+9/20/2012	2819 Broken Oak, San Jose, CA 95148	Mike Frangadakis		50
+9/24/2012	144 Monte Villa Ct, Campbell, CA 95008	Jerry Kwok	100
+9/25/2012	1363 Poppy Way, Cupertino, CA 95014	Jane Lok		50
+9/26/2012	1178 34th St, Oakland, CA 94608	Vinny MaNguyen		35 driving 
+9/27/2012	1489 Mallard Way, Sunnyvale, CA 94087	Margaret Chui		50+35 ( 2,100 )
+9/28/2012	6092 Willowgrove Ln, Cupertino, CA 95014	Mary Tan		50
+9/28/2012	18831 Mcfarland Ave, Saratoga, CA 95070	Jaleh Taghipour		50+35 ( 2,102 )
+10/1/2012	2018 Saint Julien Ct, Mountain View, CA 94043	Howard Bloom		50
+10/2/2012	1732 Whitham Avenue, Los Altos, CA 94024	Dennis Liu		50+15+10 Size 5Time
+10/3/2012	891 Periwinkle Ter, Sunnyvale, CA 94086	Doris Keren Gill		50+10 (Size 1,780 )
+10/4/2012	759 Middle Ave, Menlo Park, CA 94025	Carlos Aguilar		50+15 Distance
+10/4/2012	1824 Jackson St Unit H, San Francisco, CA 94109	Toby Costello		50+30 Distance + 5 Size
+10/4/2012	20915 Jollyman Ln, Cupertino, CA 95014	Mary Tan		50+35 (2,882 )+20
+10/4/2012	1120 Deana Ct, Morgan Hill, CA 95037	Kathy Liu		50+50 (Size 3,485) +20Travel 
+10/4/2012	2160 Manzanita Ave, Menlo Park, CA 94025	Susan Enzmann		50+15 Distance
+10/4/2012	1733 Jones Ave, Santa Clara, CA 95051	Chuan Ha		50
+10/5/2012	3051 Modesto Ave, Oakland, CA 94619	Vinny MaNguyen		50+20 Distance
+10/5/2012	112 Devonshire Blvd, San Carlos, CA 94070	Leslie Zeisler		50+20 Distance
+10/8/2012	Lot 8 Ludina Way, Redwood City, CA 94061	Pacific Peninsula		50+ 15 Distance
+10/8/2012	Lot 11 Ludina Way, Redwood City, CA 94061	Pacific Peninsula		50+ 15 Distance
+10/8/2012	25 Ludina Way, Redwood City, CA 94061	Pacific Peninsula		50+ 15 Distance
+10/9/2012	5827 Capilano Dr, San Jose, CA 95138	Kathy Liu		50+50 (Size 3,014  )
+10/10/2012	1178 34th St, Oakland, CA 94608	Vinny MaNguyen		50+20 Distance
+10/10/2012	775 Glenborough Dr, Mountain View, CA 94041	Tori Corbett		50+10 distance +10 Size
+10/11/2012	3140 Morris Dr, Palo Alto, CA 94303	Tim Foy		50+ 15 Distance
+10/13/2012	4775 Montreal Dr, San Jose, CA 95130	Kathy McKinzie		50+ 20 Distance+ 25 Saturday
+10/13/2012	4775 Montreal Dr, San Jose, CA 95130	Kathy McKinzie		Email for additional notes only
+10/16/2012	11302 Terra Bella Dr, Cupertino, CA 95014	Mary Tan		50+10 (Size 1,890 )
+10/16/2012	INTERNET 			35
+10/17/2012	21587 Villa Maria Ct, Cupertino, CA 95014	Mary Tan		50+50 (3,272 )
+10/18/2012	49 Showers Dr Unit V405, Mountain View, CA 94040	Judy Jen		50+10 distance
+10/19/2012	1241 Bretmoor Way, San Jose, CA 95129	Mary Tan		50+10 (Size 1,537 )
+10/20/2012	24804 Woodacre Ave, Hayward, CA 94544	Laura Tang		50+10 distance
+10/22/2012	2739 Rawson St, Oakland, CA 94619	Vinny MaNguyen		50+20 Distance
+10/23/2012	4518 Merrill Ave, Oakland, CA 94619	Vinny MaNguyen		30+20 Distance
+10/24/2012	1321 Caroline St, Alameda, CA 94501	Joe Metz		50+20 distance +10 Size +5 Time
+10/23/2012	307 Tradewinds Dr Apt 10, San Jose, CA 95123	Brad Le	75
+10/25/2012	4518 Merrill Ave, Oakland, CA 94619	Vinny MaNguyen		50+ 20 Distance
+10/25/2012	245 Shadow Dance Dr, San Jose, CA 95110	Clara Lee		50
+10/26/2012	19830 Sea Gull Way, Saratoga, CA 95070	Jane Volpe		50+35 (  2,479  )
+10/26/2012	48 Church St, Mountain View, CA 94041	Dave Keefe		50+10 distance
+10/31/2012	144 S 3rd St unit 530 San Jose, CA 95112	Linda Chu		50
+11/3/2012	819 San Ramon Ave, Sunnyvale, CA 94085 	Jerry Kwok	135
+11/1/2012	642 Flannery St, Santa Clara, CA 95051	Julie Phan Boc		50
+11/2/2012	13252 Glasgow Ct, Saratoga, CA 95070	Mary Tan		50+50 ( 3,735  )
+11/3/2012	10382 Westacres Dr, Cupertino, CA 95014	Jinny Ahn		50+ 15 Distance
+11/6/2012	1151 La Rochelle Terrace Unit D, Sunnyvale, CA 94089	Bharath Talluri	50+10 Size
+11/6/2012	1220 Priscilla Dr, San Jose, CA 95129	Tariq Rafeeqi		50+(20 reschedule cathys property that was not ready) 
+11/8/2012	7738 Huntridge Ln, Cupertino, CA 95014	Shelly Chou		50
+11/9/2012	675 Mccarty Ave, Mountainview, CA 94040	Tori Corbett		50
+11/13/2012	1115 Hollyburne Ave, Menlo Park, CA 94025	Bob Williams		50+ 15 Distance
+11/13/2012	5335 Fleming Ave, Oakland, CA 94619 	Vinny MaNguyen		50+35 Travel 
+11/14/2012	6943 Lacey Ave, Oakland, CA 94605	Jenny Wu		50
+11/14/2012	1212 Windermere Ave, Menlo Park, CA 94025	Geoff Phelps		50+15 Distance
+11/14/2012	15010 Larga Vista Dr, Los Gatos, CA 95032	Ed Zayer		50+10 (Size 1,823  )
+11/15/2012	1406 Bellemeade St, San Jose, CA 95131	Kathy Liu		50+35 ( 2,297 )
+11/19/2012	1032 Westlynn Way, Cupertino, CA 95014	Mary Tan		50+35 (  2,200   )
+11/26/2012	2152 Acton St, Berkeley, CA 94702	Dean Higa		50+40 travel
+11/27/2012	4807 Vesca Way, San Jose, CA 95129	Roberta Murai		50+40 travel
+11/27/2012	34357 Torrey Pine Ln, Union City, CA 94587	Leslie Zhong		50+35 (2,671 )+25 travel
+11/30/2012	1192 Foley Ave, Santa Clara, CA 95051	Bridgette Akunal		50+10 (Size 1,645  )
+12/13/2012	1471 Carrington Circle, San Jose, CA 95125	Betty Lin		50+10 (Size 1,579)
+1/2/2013	3336 68th Ave, Oakland, CA 94605	Jenny Wu		50+ 25 Distance
+1/6/2013	2615 Alpine Rd, Menlo Park, CA 94025	Tom Correia		50+20 Weekend Rate+20Travel
+1/7/2013	17441 El Rancho Ave, Monte Sereno, CA 95030	Jerry Kwok	125
+1/11/2013	1482 Saint Francis Dr, San Jose, CA 95125	Rob Godar		50+ 25 Distance +15 Size
+1/11/2013	4313 La Cosa Ave, Fremont, CA 94536	Angelou Masters		50
+1/12/2013	729 Winstead Terrace, Sunnyvale, CA 94087	Mary Tan		50
+1/16/2013	2923 Remington Way, San Jose, CA 95148	Jerry Kwok	100
+1/14/2013	1246 Littleton Dr, San Jose, CA 95131	Sophie Shen		50
+1/16/2013	1241 Oak Creek Way, Sunnyvale, CA 94089	Jerry Kwok	100
+1/18/2013	8035 Rainbow Dr, Cupertino, CA 95014	Mary Tan		50+10 (1,663  )
+1/19/2013	909 Washington St, San Jose, CA 95112	Georgie Huff		50+ 25 Distance
+1/21/2013	787 Melannie Ct, San Jose, CA 95116	Bobby Delgado		50+20 Travel
+1/22/2013	699 Ann Place, Milpitas, CA 95035	Lydia Wang		50+ 50 Size
+1/22/2013	11 Cassandra Way, Mountain View, CA 94043	Howard Bloom		50+ 15 Distance
+1/23/2013	881 Boulder Dr, San Jose, CA 95132	Jerry Kwok	125
+1/23/2013	881 Boulder Dr, San Jose, CA 95132	Jerry Kwok	150
+1/23/2013	74 Mccreery Ave, San Jose, CA 95116	Jerry Kwok	125
+1/23/2013	8321 Outlook Ave, Oakland, CA 94605	Eric Hee		50
+1/23/2013	1214 Olivera Ter, Sunnyvale, CA 94087	Jean Maa		50+10 Size +15
+1/24/2013	130 Ferrari Ave, San Jose, CA 95110	Nelson Nguyen		50+ 25 Distance
+1/23/2013	74 Mccreery Ave, San Jose, CA 95116	Jerry Kwok	50	Return Trip
+1/25/2013	1401 Firestone Loop, San Jose 95116	Kevin Nguyen		50
+1/26/2013	1132 Merion Ct, Gilroy, CA 95020	Kevin Nguyen		50+50 (3,220)+35 travel
+1/30/2013	20958 Saraview Ct, Saratoga, CA 95070	Kathy Liu		50+50 (3,827)
+2/5/2013	241 Heartwood Ln, Mountain View, CA 94041	Shilpa Merchant		50+10 (1,805 )
+2/5/2013	660 Berry Ave, Los Altos, CA 94024	Susan Enzmann		50
+2/5/2013	660 Berry Ave, Los Altos, CA 94024	Susan Enzmann		50
+2/5/2013	202 E Ferndale Ave, Sunnyvale, CA 94085	Kathy Liu		50+10 (1,736)
+2/7/2013	1839 Northwood Ct, Oakland, CA 94611	Joe Kwon		50+50 (3,021)+35 Travel
+2/7/2013	5658 Lathrop Dr, San Jose, CA 95123	Kathy Liu		50+10 (1,683)
+2/7/2013	5219 Market St, Oakland, CA 94608	Lex Shan		50+35 (2,016)+35
+2/7/2013	620 Fremont St, Menlo Park, CA 94025	Heather Hansen		50+35 Size +15 Distance
+2/8/2013	16345 Los Gatos Blvd Unit 5, Los Gatos, CA 95032 	Yvette Stout		50
+2/8/2013	21853 Oakview Ln, Cupertino, CA 95014	Mary Tan		50+20 Distance +25 size
+2/9/2013	732 10th Ave, San Mateo, CA 94402	Heather Hansen		50+30 Travel ( can you please add $4 for toll for yesterdays property 108 Maple Ln)
+2/13/2013	4627 Brookdale Ave, Oakland, CA 94619 	Vinny MaNguyen		50+25 Distance
+2/13/2013	450 Sierra Vista Ave Apt 2, Mountain View, CA 94043	Brendan Callahan		50+10 (1,759)
+2/16/2013	993 Dionne Way, San Jose, CA 95133	Robert Yu		50+35 (2,549)
+2/16/2013	18658 Casa Blanca Ln, Saratoga, CA 95070	Howard Bloom		50+10 (1,811)
+2/19/2013	1191 Compass Lane Unit 210, Foster City, CA 94404	Linda Chu		50+20 Distance
+2/22/2013	474 Tyndall St, Los Altos, CA 94022	Ayelet Lorberbaum		50+20 Distance
+2/22/2013	7593 Waterford Dr, Cupertino, CA 95014	Mary Tan		50+35 (  2,409)
+2/26/2013	2549 Cherry Ave, San Jose, CA 95125	Jerry Kwok		50+10 Size +25 Distance.
+2/27/2013	926 La Mesa Terrace Unit D, Sunnyvale, CA 94086	Shilpa Merchant		50+35 (2,120)
+2/27/2013	1806 Gaspar Dr, Oakland, CA 94611	Vinny MaNguyen		50 +25 Distance +35 Size
+2/28/2013	5763 Merriewood Dr, Oakland, CA 94611	Joe Metz		50+25 Distance
+2/28/2013	1606 Salamoni Ct, San Jose, CA 95133	Thuy Do		50+35 (2,371 )
+3/1/2013	1561 Firestone Loop, San Jose, CA 95116	Kevin Khoi		50
+3/1/2013	1112 Carlton Ave, Menlo Park, CA 94025	Bob Williams		50+15 Distance
+3/2/2013	2763 Antique Ct, San Jose, CA 95125	Nemo How		50 +25 Distance +10 Size +30 weekend
+3/4/2013	1112 Carlton Ave, Menlo Park, CA 94025	Bob Williams		35+15Dist
+3/7/2013	809 Kingfisher Ter, Sunnyvale, CA 94087	Ping Cao		50+10 (1,700)
+3/8/2013	21841 Mcclellan Rd, Cupertino, CA 95014	Mary Tan		50+35 ( 2,697)
+3/9/2013	12362 Priscilla Ln, Los Altos Hills, CA 94022	Mary Tan		50+125 Size Weekend rate 
+3/13/2013	1631 S Wolfe Road, Sunnyvale, CA 94087	Jinny Ahn		50
+3/13/2013	1471 Sierra Ave, San Jose, CA 95126	Nathan Nguyen		50+35 (  2,134)
+3/13/2013	1355 Sage Hen Way Unit A, Sunnyvale CA 94087	Rachel Pong		50
+3/14/2013	36257 Worthing Drive, Newark CA 94560	Jinny Ahn		50 + 10 Size
+3/14/2013	4249 Fair Ranch Rd, Union City, CA 94587	Virginia Supnet		50+10 Size
+3/15/2013	1018 Windsor St, San Jose, CA 95129	Joy Liu		50+150 ( 5,245)
+3/15/2013	5788 Pontiac Dr, San Jose, CA 95123	Cindy Liu		50
+3/16/2013	874 Trenton Dr, Sunnyvale, CA 94087 	Suzanne Bakhtiari		50+10 (1,752)
+3/16/2013	56 Penhurst Ave, Daly City, CA 94015	Tony Ho		50+ 35 Distance
+3/18/2013	5347 Normandie Ave, Oakland, CA 94619	Vinny MaNguyen		50+25 Distance
+3/18/2013	2126 48th Ave, Oakland, CA 94601	Angelou Masters		50+ 25 Distance
+3/19/2013	944 Bidwell Ave, Sunnyvale, CA 94086	Howard Bloom		50+15 Distance+10 Size
+3/20/2013	325 Midvale Ave, San Mateo, CA 94403	Alex Wang		40+20 Distance 
+3/20/2013	865 Carlisle Way Apt 124, Sunnyvale, CA 94087	Jean Maa		50
+3/21/2013	230 Begier Ave, San Leandro, CA 94577	Eric Liu		50+ 35 Size
+3/21/2013	325 Midvale Ave, San Mateo, CA 94403	Alex Wang		40+20 Distance 
+3/21/2013	1335 Rothland Ct, San Jose, CA 95131	Brad Hung Le		50
+3/21/2013	502 War Admiral Ave, San Jose, CA 95111	Cindy Liu		50
+3/22/2013	502 War Admiral Ave, San Jose, CA 95111	Cindy Liu		0
+3/22/2013	208 Ivy Dr, Menlo Park, CA 94025	Geoff Phelps		50+ 15 Distance +10 Size
+3/25/2013	1117 Chesterton Ave, Redwood City, CA 94061	Doug Gonzalez		50+10 (1,730)+25 travel
+3/26/2013	16666 Marchmont Dr, Los Gatos, CA 95032	Anita Hunter		50+50 (3,616)+20 Reschedule
+3/26/2013	16666 Marchmont Dr, Los Gatos, CA 95032	Anita Hunter		130+70(3,616)
+3/27/2013	434 Arleta Ave, San Jose, CA 95128	Yajnesh Rai		50
+3/28/2013	128 Sunset Ave, Sunnyvale, CA 94086	Jim Holt		50
+3/29/2013	706 Santa Rosa St, Sunnyvale, CA 94085	Jerry Kwok		50+15 Distance
+3/30/2013	134 El Olivar, Los Gatos, CA 95032	Jane Shaw		50+10(1,637 ) 
+4/2/2013	1339 Chelsea Dr, Los Altos, CA 94024	Todd Zebb		50+35 (2,093 )
+4/3/2013	1310 Araujo St, San Jose, CA 95131	Sophie Shen		50+25 Distance +10 Size
+4/4/2013	16666 Marchmont Dr, Los Gatos, CA 95032	Anita Hunter		50+50 (3,616)+20 Reschedule
+4/4/2013	16666 Marchmont Dr, Los Gatos, CA 95032	Anita Hunter		130+70(3,616)+10intro+10closing
+4/4/2013	503 Mendocino Way, Redwood City, CA 94065	Anita Hunter		50+20 Distance
+4/4/2013	54 Lorelei Ln, Menlo Park, CA 94025	Caitlin Darke		50+20 Dist + 10 Size
+4/4/2013	None	None		50 Comcast April \'13
+4/5/2013	10377 Avenida Ln, Cupertino, CA 95014	Mary Tan		0
+4/6/2013	5884 Amapola Dr, San Jose, CA 95129	Joy Liu		50+35 (2,082 )
+4/6/2013	1540 Silver Pond Ln, San Jose, CA 95138	Kathy Hong Liu		50+50 (3,001 )
+4/6/2013	3233 Simberlan Dr San Jose, CA 95148	Jimmy Cheng		50+35 (2,706 )
+4/8/2013	242 Peppermint Tree Ter Unit 2, Sunnyvale, CA 94086	Casie Ho		50+10 (1,586)
+4/9/2013	280 Easy Street Apt 407, Los Altos, CA, 94043	Christy Ying		50
+4/10/2013	10377 Avenida Ln, Cupertino, CA 95014	Mary Tan		50+50 (3603)
+4/10/2013	3086 Ryan Ave, Santa Clara, CA 95051	Betty Lin		50+ 25 Distance
+4/10/2013	1465 Mallard Way, Sunnyvale, CA 94087	Judy Jen		50+10 (1,532) 
+4/11/2013	245 Loreto St, Mountain View, CA 94041	Michael Galli		50+10 Cottage
+4/12/2013	14664 Big Basin Way Apt B, Saratoga, CA 95070	Betty Lin		50
+4/13/2013	6809 Hillmont Dr, Oakland, CA 94605	Vinny MaNguyen		50+25 Distance +15 Time 2hrs
+4/15/2013	744 Ramona Street, Palo Alto, CA 94301	Howard Bloom		50+15 Distance
+4/17/2013	1606 Adrien Dr, Campbell, CA, 95008	Yuan Chang		50+10 (1,931) 
+4/17/2013	5818 Dover St, Oakland, CA 94609	Angela Muetterties		50+25 Distance + 35 size
+4/17/2013	744 Ramona Street, Palo Alto, CA 94301	Howard Bloom		15
+4/17/2013	3808 Ainsley Ct , Campbell, CA, 95008	Michele Morrison		50+35 (  2,036 )
+4/18/2013	21745 Alcazar Ave. , Cupertino, CA, 95014	Jimmy Wu		50+50 (3,775)
+4/18/2013	1566 Mission Springs Cir, San Jose, CA 95131	Sophie Shen		50+10 (1,630 ) 
+4/18/2013	72 Lakewood Circle , San Mateo, CA, 94402	Tony Cheung		50+ 25 Distance +50 Size
+4/20/2013	11535 Murano Cir, Cupertino, CA 95014	Mary Tan		50+10 (1,533 )
+4/20/2013	21845 Hyannisport Dr, Cupertino, CA 95014	Mary Tan		50+35 (2,119)
+4/20/2013	217 Ada Ave Unit 58 , Mountain View, CA, 94043	Alex Wang		50+35 (2,009 )
+4/20/2013	15860 Union Ave , Los Gatos, CA, 95031	Rick Zea		50+55(2,933 )weekend rate
+4/23/2013	2255 Showers Dr Apt 252, Mountain View, CA 94040	Michael Galli		50
+4/25/2013	3214 Wyman St, Oakland, CA, 94619	David Cetina		50+ 25 Distance +10 Size/detail
+4/26/2013	22210 Prospect St , Hayward, CA, 94541	Angelou Masters		50
+5/1/2013	281 W. Latimer , Campbell, CA, 95008	Terry Matsumoto		50+35 (2422 )
+5/1/2013	995 Wallace Dr, San Jose, CA 95120	Lihong Zhong		50+ 25 Distance  +35 Size
+5/2/2013	846 Columbia Cir , Redwood City, CA, 94065	Jim Holt		50+25 Distance +10 Size
+5/2/2013	2712 Rawson St , Oakland, CA, 94619	Vinny MaNguyen		35+25 Distance
+5/2/2013	2712 Rawson St , Oakland, CA, 94619	Vinny MaNguyen		35+25 Distance
+5/2/2013	2712 Rawson St , Oakland, CA, 94619	Vinny MaNguyen		35+25 Distance
+5/2/2013	2712 Rawson St , Oakland, CA, 94619	Vinny MaNguyen		35+25 Distance
+5/2/2013	1584 Fairway Green Cir , San Jose, CA, 95131	Sophie Shen		50+10
+5/3/2013	7459 Stanford Place , Cupertino, CA, 95014	Mary Tan		50+ 20 Distance +35 Size
+5/3/2013	3998 Hamilton Park Dr, San Jose, CA 95130	Mary Tan		50+ 20 Distance +10 Size
+5/8/2013	938 Clark Ave Unit 2 , Mountain View, CA, 94040		Clara Lee		50
+5/9/2013	3471 Earl Drive , Santa Clara, CA, 95051		Jinny Ahn		50 +20 Distance
+5/9/2013	1207 Tea Rose Cir , San Jose, CA, 95131	1,501 - 2,000 sqft,	Sophie Shen		50+10 (1,543) 
+5/9/2013	471 Parvin Drive , Mountain View, CA, 94043	Under 1,500 sqft,	Mary Tan		50
+5/10/2013	3157 Kingsland Ave , Oakland, CA, 94619	Under 1,500 sqft,	Vinny MaNguyen		50+ 25 Distance
+5/10/2013	2927 Partridge Ave , Oakland, CA, 94605		Vinny MaNguyen		50+ 25 Distance
+5/13/2013	473 Richlee Dr. , Campbell, CA, 95008	Under 1,500 sqft,	Clara Lee		50
+5/14/2013	3037 Alexander Ave , Santa Clara, CA, 95051		Jeff Peng		50
+5/16/2013	10052 Byrne Ave , Cupertino, CA, 95014	2,001 - 3,000 sqft	Jinny Ahn		50+35 (2,476)
+5/17/2013	4325 Martin Luther King Way , Oakland, CA, 94609	Under 1,500 sqft	Sherron Hogg		50+ 25 Distance
+5/17/2013	2140 Santa Cruz Ave Unit E206 , Menlo Park, CA, 94025	Under 1,500 sqft	Howard Bloom		50+20 Distance
+5/17/2013	1983 San Luis Ave Unit 30 , Mountain View, CA, 94043	Under 1,500 sqft	Howard Bloom		50
+5/17/2013	33228 9th St , Union City, CA, 94587	Under 1,500 sqft	Xiaojie Dong		50+25 travel
+5/18/2013	10201 Vicery Court , Cupertino, CA, 95014	sqft	Jinny Ahn		50
+5/18/2013	10225 Carmen Road , Cupertino, CA, 95014	3,001 - 4,000 sqft,	Mary Tan		50+50 ((3194))
+5/21/2013	1081 KONSTANZ TERRACE , SUNNYVALE, CA, 94089	1,501 - 2,000 sqft	JACK Y. XIAO		50+10 (1,725 ) 
+5/23/2013	211 Elm Wood Ct , Los Gatos, CA, 95129	1,501 - 2,000 sqft	Cynthia Chang		50+10 (1,831 ) 
+5/23/2013	18128 Rodeo Creek Hollow , Saratoga, CA, 95070	3,001 - 4,000 sqft	Anita Hunter		50+100 (4,308 ) 
+5/24/2013	444 Gilbert Ave , Menlo Park, CA, 94025	2,001 - 3,000 sqft	Satish sandadi		50+20 Distance +35 Size
+5/24/2013	24017 Oak Knoll Circle , Los Altos Hills, CA, 94022		Mary Tan		50+150 (5,091)
+5/25/2013	4238 Rickey\\\\\\\'s Way , Palo Alto, CA, 94306	1,501 - 2,000 sqft	Jackie Copple		50+ 20 Distance +10 Size
+5/25/2013	1340 Koch Lane , San Jose, CA, 95125	2,001 - 3,000 sqft	Larry Guiffre		50+ 25 Distance  +35 Size
+5/27/2013	1358 Sevier Ave, Menlo Park, ca	1,501 - 2,000 sqft	Bob Williams		50+20 Distance +50 Holiday
+5/28/2013	6511 Simson St , Oakland, CA, 94605	Under 1,500 sqft	david cerruti		50+25 Distance
+5/28/2013	1079 Merrimac , Sunnyvale, CA, 94087	Under 1,500 sqft	Shilpa Merchant		50
+5/29/2013	1835 Camino Leonor , San Jose, CA, 95131	Under 1,500 sqft	Sophie Shen		50+10 Park
+5/30/2013	75 Devonshire Ave Unit 8 , Mountain View, CA, 94043	Under 1,500 sqft	Howard Bloom		50
+5/30/2013	116 Redding Rd , Campbell, CA, 95008	1,501 - 2,000 sqft	Jim Holt		50
+6/1/2013	10678 Nathanson Avenue , Cupertino, CA, 95014	2,001 - 3,000 sqft	Ray Higashi		50
+6/1/2013	10800 Johnson Ave, , Cupertino, CA, 95014	2,001 - 3,000 sqft	Mary Tan		50
+6/1/2013	4063 Hamilton Park Drive , San Jose, CA, 95130	1,501 - 2,000 sqft	Roberta Murai		50
+6/1/2013	2453 Ridgeglen Way, San Jose, CA 95133 	Under 1500	Cindy Liu		50
+6/4/2013	1427 Marcello Dr , San Jose, CA, 95131	1,501 - 2,000 sqft	Sophie Shen		50+ 25 Distance +10 Size
+6/5/2013	10 Pasa Robles Ave. , Los Altos, CA, 94022	3,001 - 4,000 sqft	Clara Lee		50
+6/6/2013	1119 Westbury Dr , San Jose, CA, 95131	Under 1,500 sqft	julia li		50
+6/6/2013	255 O\\\\\\\\\\\\\\\'Keefe , Mountain View, CA, 94040	1,501 - 2,000 sqft	Michael Galli		50+ 25 Distance +10 Size
+6/8/2013	26088 Peterman , Hayward, CA, 94545	Under 1,500 sqft	Brian Mckinzie		50+20 weekend rate+30 travel
+6/8/2013	1563 Parkview Ave, San Jose, CA 95130	1148 sqft	Mary Tan		50+20 weekend +20 reschedule 
+6/10/2013	2283 Montezuma Drive , Campbell, CA, 95008	1,501 - 2,000 sqft	Howard Bloom		50+10 (1,596) 
+6/11/2013	3901 Lick Mill Blvd Unit 235 , Santa Clara, CA, 95054	Under 1,500 sqft	Jinny Ahn		50
+6/12/2013	50 W Edith Ave Unit 5 , Los Altos, CA, 94022	1,501 - 2,000 sqft	Howard Bloom		50+ 20 Distance +10 Size
+6/13/2013	20141 Bonnie Brae Way , Saratoga, CA, 95070	3,001 - 4,000 sqft	Lydia wang		50+50 (3,357)
+6/13/2013	3029-D Kaiser Dr , Santa Clara, CA, 95051	Under 1,500 sqft	Howard Bloom		50+10 Park
+6/13/2013	1034 Morse Ave , Sunnyvale, CA, 94089	1,501 - 2,000 sqft	Kiet Tran		50+10 (1,615) 
+6/13/2013	346 Fairmeadow Way , Milpitas, CA, 95035	Under 1,500 sqft	Rebecca Pai		50
+6/14/2013	744 Neuchatel , Burlingame, CA, 94010	Under 1,500 sqft	Gary Herbert		50+ 30 Distance
+6/14/2013	10395 Dempster Ave , Cupertino, CA, 95014	2,001 - 3,000 sqft	Mary Tan		50+35 (2,146 )
+6/14/2013	12752 Homes, , Saratoga, CA, 95070	2,001 - 3,000 sqft	mary tan		50+35 (2,707)
+6/15/2013	5010 Mattos Court , Fremont, CA, 94536	1,501 - 2,000 sqft	Jinny Ahn		50+ 10 size
+6/15/2013	1114 Hollenbeck Ave , Sunnyvale, CA, 94087	1,501 - 2,000 sqft	Jim Holt		50+40 (1,657 )Weekend rate
+6/17/2013	744 Neuchatel , Burlingame, CA, 94010	Under 1,500 sqft	Gary Herbert		40+ 30 Distance
+6/17/2013	10406 Palo Vista Road , Cupertino, CA, 95014	3,001 - 4,000 sqft	Tracy Hsu		50+50 (3,778)
+6/18/2013	1277 Zeka Dr , San Jose, CA, 95131	1,501 - 2,000 sqft	Sophie Shen		50+10 (1,514) 
+6/19/2013	2283 Aram Ave , San Jose, CA, 95128	2,001 - 3,000 sqft	Mary Ann Wallace		50+ 25 Distance + 35 Size
+6/19/2013	412 Crescent Ave Unit 38, Sunnyvale, CA, 94087	Under 1,500 sqft	Summer Hua		50
+6/19/2013	250 SANTA FE TERRACE Unit 124, Sunnyvale, CA, 94085	Under 1,500 sqft	PATRICK JOHNSON		50
+6/20/2013	1031 Crestview Drive Unit 112, Mountain View, CA, 94040	Under 1,500 sqft	Jinny Ahn		50
+6/20/2013	235 Fair Oaks Ave , Mountain View, CA, 94040	1,908	Cindy Liu		50+ 15 Distance+35 Size (extra unit and time)
+6/22/2013	35068 Lucia Ct , Fremont, CA, 94536	Under 1,500 sqft	Cindy Liu		50+20 travel 
+6/22/2013	889 Humewick Way , Sunnyvale, CA, 94087	1,501 - 2,000 sqft	Mary Tan		50+10 (1,525 ) 
+6/22/2013	10317 NORWICH AVENUE , CUPERTINO, CA, 95014	1,501 - 2,000 sqft	COCO TAN		50+10 (1,552 )
+6/22/2013	1153 Stafford Drive, , Cupertino, CA, 95014	2,001 - 3,000 sqft	Mary Tan		50+35 (2,238)
+6/25/2013	8245 GOLFLINKS , OAKLAND, CA, 94605	2,001 - 3,000 sqft	VINNY MANGUYEN		50 + 25 Distance + 35 Size
+6/25/2013	598 Orange Ave , Los Altos, CA, 94022	1,501 - 2,000 sqft	gary		50+ 20 Distance +10 Size
+6/27/2013	969 La Mesa Terrace Unit E , Sunnyvale, CA, 94086	1,501 - 2,000 sqft	Shilpa merchant		50+10 (1,980 )
+6/27/2013	956 Kiely Blvd Unit A , Santa Clara, CA, 95051	Under 1,500 sqft	Brad Hung Le		50
+6/27/2013	1106 El Prado , San Jose, CA, 95130	2,001 - 3,000 sqft	Mary Tan		50+35 (2,015 )
+6/28/2013	11126 Linda Vista Drive , Cupertino, CA, 95014	1,501 - 2,000 sqft	Mary Tan		50
+7/2/2013	304 Oakwood Place , Menlo Park, CA, 94025	2,001 - 3,000 sqft	Alex Wang		50+35  (2,500 )+20 travel 
+7/2/2013	885 San Mateo Drive , Menlo Park, CA, 94025	1,501 - 2,000 sqft	Doug Gonzalez		50+10 (1,810)+20 travel 
+7/2/2013	304 Oakwood Place , Menlo Park, CA, 94025	2,001 - 3,000 sqft	Alex Wang		50+20 (2,500 )Twilights
+7/2/2013	885 San Mateo Drive , Menlo Park, CA, 94025	1,501 - 2,000 sqft	Doug Gonzalez		50+10(1,810)+20
+7/3/2013	4075 Hamilton Park Drive , San Jose, CA, 95130	Under 1,500 sqft	Coco Tan		50
+7/4/2013	119 Gladys Ave , Mountain View, CA, 94043	1,501 - 2,000 sqft	Alex Wang		50+10 (1,655 )
+7/4/2013	631 Georgia Ave , Palo Alto, CA, 94306	2,001 - 3,000 sqft	Myrt Bauer		50+35 (2,204 )+20 travel 
+7/4/2013	10355 Calvert Dr , Cupertino, CA, 95014	2,001 - 3,000 sqft	Chaochin Lu		50+35  (2,070)
+7/4/2013	426 Kenmore Ave , Sunnyvale, CA, 94086	Under 1,500 sqft	Tom Correia		50
+7/4/2013	119 Gladys Ave , Mountain View, CA, 94043	1,501 - 2,000 sqft	Alex Wang		130+20(1,655 )
+7/4/2013	10192 Imperial Ave. , Cupertino, CA, 95014	1,501 - 2,000 sqft	mary tan		50+10 (1,900 ) 
+7/8/2013	1005 Spencer Avenue , San Jose, CA, 95125	Under 1,500 sqft	Sara Greenwood		50
+7/9/2013	3022 Nashville Dr , San Jose, CA, 95133	Under 1,500 sqft	Ravi Saini		50
+7/9/2013	11513 Murano Circle , Cupertino, CA, 95014	1,501 - 2,000 sqft	mary tan		50+10(1,788)
+7/9/2013	2113 Oakland Road , San Jose, CA, 95131	1,501 - 2,000 sqft	sophie shen		50+10(1,573 )
+7/9/2013	778 University Ave , Palo Alto, CA, 94301	Under 1,500 sqft	Howard Bloom		50+20 travel
+7/9/2013	466 Costa Mesa Ter, Unit Unit F , Sunnyvale, CA, 94085	Under 1,500 sqft	James Holt		50
+7/10/2013	3481 South Ct , Palo Alto, CA, 94306	2,001 - 3,000 sqft	Julie Tsai Law		50+35  (2,035)+20 travel 
+7/10/2013	3481 South Ct , Palo Alto, CA, 94306	2,001 - 3,000 sqft	Julie Tsai Law		130+40(2,035)
+7/11/2013	128 Ada Ave. Unit 23 , Mountain View, CA, 94043	Under 1,500 sqft	Natalie Lu		50+20 reschedule 
+7/11/2013	751 W Middlefield Road Unit E , Mountain View, CA, 94043	Under 1,500 sqft	Howard Bloom		50
+7/11/2013	3381 Morcom Ave , Oakland, CA, 94619	Under 1,500 sqft	Brian Mckinzie		50+ 25 Distance
+7/11/2013	1185 Thurston Ave. , Los Altos,, CA, 94024	2,001 - 3,000 sqft	kathy Lan		50+35  (2,891)
+7/12/2013	178 Ely Place , Palo Alto, CA, 94306	1,501 - 2,000 sqft	Katrina Edwards		50+ 20 Distance +10 Size +10 Rush
+7/12/2013	10121 Camino Vista Dr , Cupertino, CA, 95014	3,001 - 4,000 sqft	Julie Tsai Law		50+50 (3,730)
+7/12/2013	10121 Camino Vista Dr , Cupertino, CA, 95014	3,001 - 4,000 sqft	Julie Tsai Law		130+70 (3,730 )
+7/12/2013	1183 Glin Terrace , Sunnyvale, CA, 94089	Under 1,500 sqft	alex wang		50
+7/12/2013	1183 Glin Terrace , Sunnyvale, CA, 94089	Under 1,500 sqft	alex wang		130
+7/15/2013	14170 DOUGLAS LANE , SARATOGA, CA, 95070	3,001 - 4,000 sqft	KATHY LIU		50+50 (3,642)
+7/15/2013	304 Oakwood Place , Menlo Park, CA, 94025	2,001 - 3,000 sqft	alex wang		130+40 (2,500)+20 travel 
+7/15/2013	304 Oakwood Place , Menlo Park, CA, 94025	2,001 - 3,000 sqft	alex wang		50+ 20 Distance  +35 Size
+7/16/2013	2255 Showers Dr Unit 383, Mountain View, CA, 94040	Under 1,500 sqft	Summer		50
+7/16/2013	20244 Northglen Square , Cupertino, CA, 95014	Under 1,500 sqft	Becky Lee		50
+7/17/2013	3675 Madrone Avenue , Oakland, CA, 94619	2,001 - 3,000 sqft	Vinny Manguyen		50+ 25 Distance  +35 Size
+7/17/2013	2712 RAWSON ST , OAKLAND, CA, 94619	1,501 - 2,000 sqft	VINNY MANGUYEN		50+ 25 Distance +10 Size
+7/17/2013	2210 Olive Ave , Fremont, CA, 94539	Under 1,500 sqft	Jinny Ahn		50
+7/18/2013	1827 Camino Leonor , San Jose, CA, 95131	1,501 - 2,000 sqft	sophie shen		50+10(1,519) +10park
+7/18/2013	1665 Lederer Cir , San Jose, CA, 95131	Under 1,500 sqft	sophie shen		50
+7/18/2013	2373 Klune Court , Santa Clara, CA, 95054	Under 1,500 sqft	mary tan		50
+7/19/2013	292 South Bayview , Sunnyvale, CA, 94086	1,501 - 2,000 sqft	Michael		50+10(1,962 )
+7/19/2013	2255 Showers Unit 422 , Mountain View, CA, 94040	Under 1,500 sqft	Michael Galli		50
+7/19/2013	1665 Lederer Cir , San Jose, CA, 95131	Under 1,500 sqft	sophie shen		35
+7/19/2013	1053 MCKAY DR, SAN JOSE CA 95131 , SAN JOSE, CA, 95131	1,501 - 2,000 sqft	julia		50+10(1,767)
+7/22/2013	2456 Indian Drive , Palo Alto, CA, 94303	Under 1,500 sqft	Alex Wang		60+ 20 Distance
+7/22/2013	21398 Krzich Place , Cupertino, CA, 95014	2,001 - 3,000 sqft	mary tan		50+35 (2,780) 
+7/23/2013	10158 Ridgeway Drive , Cupertino, CA, 95014	1,501 - 2,000 sqft	mary tan		50+10 (1,936 ) 
+7/23/2013	2456 Indian Drive , Palo Alto, CA, 94303	Under 1,500 sqft	Alex Wang		130+20 travel 
+7/23/2013	1234 Littleton Dr , San Jose, CA, 95131	1,501 - 2,000 sqft	sophie shen		50+10(1,578)
+7/24/2013	1010 Bryant Way Unit C , Sunnyvale, CA, 94087	sqft	Rachel Pong		50+10 (1552)
+7/24/2013	1676 Montevideo Lane , San Jose, CA, 95127	Under 1,500 sqft	Maylie de la Paz		50
+7/24/2013	587 Sleeper Ave , Mountain View, CA, 94040	2,001 - 3,000 sqft	Howard Bloom		50+35  (2,001 - 3,000 sqft)
+7/24/2013	1680 Shore Pl Unit 6 , Santa Clara, CA, 95054	1,501 - 2,000 sqft	Jim Holt		50+10( 1,860)
+7/25/2013	1646 Salamoni Ct , San Jose, CA, 95133	1,501 - 2,000 sqft	thuy		50+10 (1,838)
+7/25/2013	5011 Mattos Court , Fremont, CA, 	Under 1,500 sqft	atma dayal		50 + 25 Size 1902sf
+7/30/2013	1617 Mission Springs Cir , San Jose, CA, 95131	1,501 - 2,000 sqft	Sophie Shen		50+10 (1,768) 
+8/1/2013	587 Sleeper Ave , Mountain View, CA, 94040	3,001 - 4,000 sqft	Howard Bloom		50+50 ( 3,336)
+8/1/2013	1085 Syracuse Drive , Sunnyvale, CA, 94087	Under 1,500 sqft	Patrick Johnson		50
+8/1/2013	2809 Wallace St , Berkeley, CA, 94702	1,501 - 2,000 sqft	Markeshia Calimee		50+ 30 Distance + 25 Size
+8/1/2013	349 Beemer Ave , Sunnyvale, CA, 94086	1,501 - 2,000 sqft	Shelly Chou		50+10(1659)
+8/1/2013	5186 McCoy Ave. , San Jose, CA, 95130	2,001 - 3,000 sqft	Clara Lee		50+35(2,086 )
+8/1/2013	163 Del Prado Drive , Campbell, CA, 95008	1,501 - 2,000 sqft	Ruhi Alikhan		0
+8/2/2013	587 Sleeper Ave , Mountain View, CA, 94040	3,001 - 4,000 sqft	Howard Bloom		35
+8/3/2013	163 Del Prado Drive , Campbell, CA, 95008	1,501 - 2,000 sqft	Ruhi Alikhan		50+10( 1,785 )+20 reschedule 
+8/5/2013	626 E Duane Ave , Sunnyvale, CA, 94085	Under 1,500 sqft	Brad Le		50
+8/6/2013	3901 Lick Mill Unit 320 , Santa Clara, CA, 95054	Under 1,500 sqft	Jinny Ahn		50
+8/7/2013	777 Hollenbeck Ave Apt 5E, Sunnyvale, CA, 94087	Under 1,500 sqft	Anita Lee		50+10(1,580)
+8/7/2013	1243 Henderson Ave Unit A , Sunnyvale, CA, 94086	Under 1,500 sqft	Sophie shen		50
+8/9/2013	1759 Begen Ave , Mountain View, CA, 94040	Under 1,500 sqft	Howard Bloom		50
+8/9/2013	988 Belmont Unit 5 , Sunnyvale, CA, 94086	Under 1,500 sqft	Georgie Huff		50
+8/9/2013	5395 Greenbank Ct , San Jose, CA, 95118	Under 1,500 sqft	Cynthia Chang		50
+8/9/2013	1641 Beck Drive , San Jose, CA, 95130	1,501 - 2,000 sqft	mary tan		50+10( 1,805)
+8/10/2013	1049 Wood Duck Ave. , Santa Clara, CA, 95051	1,501 - 2,000 sqft	Mo Tajik		50+10(1,664 )
+8/12/2013	824 Henry St , Oakland, CA, 94607	Under 1,500 sqft	Les palia		50+ 25 Distance +25 Size
+8/13/2013	800 High Street Unit 406 , Palo Alto, CA, 94301	Under 1,500 sqft	Katrina edwards		50+ 20 Distance +10 Size
+8/14/2013	7194 Via Vico , San Jose, CA, 95129	Under 1,500 sqft	Shilpa merchant		50
+8/14/2013	1516 Fairway Green Cir , San Jose, CA, 95131	1,501 - 2,000 sqft	Sophie Shen		50+10
+8/15/2013	905 Eton Way , Sunnyvale, CA, 94087	1,501 - 2,000 sqft	Elizabeth Tucker, CB Los Gatos		50+10( 1,648)
+8/15/2013	960 Wallace Dr , San Jose, CA, 95120	1,501 - 2,000 sqft	Lihong Zhong		50+10(1,588 )
+8/15/2013	4661 Albany Cir Unit 127 , San Jose, CA, 95129	Under 1,500 sqft	Rachel Pong		50
+8/15/2013	316 Golden Hills Drove , Portola Valley, CA, 94028	4500 sqft	Yuli Lyman		50+150(Appx 5,500 with exta studios)+20 travel 
+8/15/2013	1204 Sierra , Redwood City, CA, 94061	Under 1,500 sqft	adele dellasantina		50+25 travel 
+8/16/2013	733 Glencoe Ct , Sunnyvale, CA, 94087	1,501 - 2,000 sqft	Gladys Morais		50+10(1,725)
+8/16/2013	4439 Madoc Way , San Jose, CA, 95130	2085 sqft	Christina Tyng Perng		50+35(2,085)
+8/16/2013	4945 Chiles Drive , San Jose, CA, 95136	1,501 - 2,000 sqft	thy do		50+10(1,640)
+8/19/2013	730 Calico Ct. , Sunnyvale, CA, 94086	2,001 - 3,000 sqft	Tiffanie Ha		50+35(2,017)
+8/21/2013	1349 Leeward Drive , San Jose, CA, 95122	Under 1,500 sqft	Kevin Khoi		50+25 Distance +10 Size
+8/21/2013	1164 Delmas Ave , San Jose, CA, 95125	3,001 - 4,000 sqft	Larry Guiffre/Guy Guiffre		50+ 25 Distance + 65 Size
+8/22/2013	914 Regent , Los Altos, CA, 94024	2,001 - 3,000 sqft	Mary Tan		50+35(2,572)
+8/23/2013	4320 Verdigris Cir , San Jose, CA, 95134	1,501 - 2,000 sqft	Charles Zhong		50+10(1,828)+20 Rushed Delivery
+8/23/2013	11857 Woodhill Court , Cupertino, CA, 95014	1,501 - 2,000 sqft	Mary Tan		50+10(1,956 )
+8/27/2013	2594 Flory Drive , San Jose, CA, 95121	Under 1,500 sqft	thuy do		50
+8/27/2013	internet	Under 1,500 sqft	internet		75 internet
+8/28/2013	467 Bedford Loop , Mountain View, CA, 94043	Under 1,500 sqft	James Yang		50
+8/29/2013	467 Bedford Loop , Mountain View, CA, 94043	Under 1,500 sqft	James Yang		130 video
+8/29/2013	769 Joaquin Ave , San Leandro, CA, 94577	1,501 - 2,000 sqft	Brian mckinzie		50+ 15 Distance 25 Size
+8/29/2013	1949 Junewood Ave , San Jose, CA, 95132	Under 1,500 sqft	Annie Zhou		50
+8/30/2013	467 Bedford Loop , Mountain View, CA, 94043	Under 1,500 sqft	James Yang		0
+8/30/2013	915 South Stelling Road , Cupertino, CA, 95014	1,501 - 2,000 sqft	mary tan		0
+9/3/2013	2055 Cabrillo Ave , Santa Clara, CA, 95050	1,501 - 2,000 sqft	Leslie Zeisler		50+10(1,181)
+9/4/2013	2055 Cabrillo Ave , Santa Clara, CA, 95050	1,501 - 2,000 sqft	Leslie Zeisler		50
+9/5/2013	614 E 5th Ave , San Mateo, CA, 94402	Under 1,500 sqft	Howard Bloom		50+ 10 size +70 Twilight + 50 Distance
+9/5/2013	1571 Mission Springs Cir , San Jose, CA, 95131	1,501 - 2,000 sqft	Srini Thotakura		50+10 (1,630)
+9/5/2013	3477 Walton Way , San Jose, CA, 95117	2,001 - 3,000 sqft	Jinny Ahn		50+35 (2,803)
+9/6/2013	6756 John Dr. , Cupertino, CA, 95014	Under 1,500 sqft	Clara Lee 		50+20 Rush Delivery 
+9/6/2013	1571 Mission Springs Cir , San Jose, CA, 95131	1,501 - 2,000 sqft	Srini Thotakura		50
+9/6/2013	218 Dana Ave. , San Jose, CA, 95128	Under 1,500 sqft	Anita Hunter		50
+9/6/2013	294 Devonshire Blvd , San Carlos, CA, 94070	Under 1,500 sqft	Heather		50+ 25 Distance +10 Size
+9/9/2013	Test, Ignore	Under 1,500 sqft	Heather		50
+9/9/2013	asd		asd		asd
+9/9/2013	ProcessorEmailer.php		ProcessorEmailer.php		ProcessorEmailer.php

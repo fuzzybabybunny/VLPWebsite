@@ -1,0 +1,27 @@
+4/15/2012	1234 Main St, Oakland, CA 94403
+4/15/2012	1234 Main St, Oakland, CA 94403
+4/30/2012	3103 Monticello Avenue, Oakland, CA 94619
+5/23/2012	5102 Congress Ave, Oakland, CA 94601
+5/23/2012	5102 Congress Ave, Oakland, CA 94601
+5/24/2012	2918 Maxwell Ave, Oakland, CA 94619
+6/19/2012	125 Birch Way, San Rafael, CA 94903
+7/10/2012	3021 Millsbrae Ave, Oakland, CA 94605
+7/17/2012	4876 Reinhardt Dr, Oakland, CA 94619
+7/26/2012	1234 Test St, Test, CA 94403
+8/3/2012	1124 Holly St, Alameda, CA 94502
+8/24/2012	3021 58th Ave, Oakland, CA 94605
+9/20/2012	799 Victoria Ave, San Leandro, CA 94577
+10/31/2012	1425 67th St, Berkeley, CA 94702
+11/2/2012	1260 64th St, Emeryville, CA, 94608
+11/15/2012	8048 Winthrope St, Oakland, CA 94605
+1/14/2013	24 Kingsland Pl, Oakland, CA 94619
+1/14/2013	6437 Buena Ventura Ave, Oakland, CA 94605
+1/17/2013	824 40th St, Oakland, CA 94608
+3/22/2013	3046 Partridge Ave, Oakland, CA 94605
+3/29/2013	3175 Kingsland Ave, Oakland, CA 94619
+4/5/2013	3175 Kingsland Ave, Oakland, CA 94619
+4/12/2013	3933 Ruby St, Oakland, CA 94609
+4/12/2013	3931 Ruby St, Oakland, CA 94609
+4/12/2013	1527 Parker St, Berkeley, CA 94703 
+6/21/2013	2381 Mosley Avenue , Alameda, CA, 94501	1,501 - 2,000 sqft
+7/25/2013	1941 5th Avenue , Oakland, CA, 94606	Under 1,500 sqft

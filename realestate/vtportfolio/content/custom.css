@@ -1,0 +1,127 @@
+#previewFull {
+  background-color: #FFFFFF !important;
+  width: 532px !important;
+  color: inherit;
+}
+
+#liveUpdateContactInfo {
+}
+
+#sitetitle {
+  border-bottom: 1px dotted #7F7F7F !important;
+}
+
+body {
+  background-color: #FFFFFF !important;
+  color: inherit;
+}
+
+#stage, #stage2 {
+  border-bottom: 1px dotted #7F7F7F !important;
+}
+
+.borderRight {
+  border-right: 1px solid #D67200 !important;
+}
+
+#wrapper_thumb {
+  width: 484px !important;
+}
+
+.logo {
+  display: none !important;
+}
+
+.detailText {
+  color: #474747 !important;
+  background-color: inherit;
+}
+
+.preview {
+  border: 1px solid #000000 !important;
+}
+
+.thumbnail {
+  background-color: #FFFFFF !important;
+  color: inherit;
+}
+
+.itemNumber {
+  color: #FF941A !important;
+  display: none !important;
+  background-color: inherit;
+}
+
+#stage2 {
+  width: 532px !important;
+}
+
+.thumb, .preview {
+}
+
+.selectedThumbnail, .thumbnail:hover {
+  background-color: #FFE79E !important;
+  color: inherit;
+}
+
+.borderTopLeft {
+	border-top-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #D67200;
+	border-bottom-color: #D67200;
+	border-left-color: #D67200;
+}
+
+.borderRightDotted {
+  border-right: 1px dotted #D67200 !important;
+}
+
+.caption {
+  color: #B3B3B3 !important;
+  background-color: inherit;
+}
+
+.emptyThumbnail {
+  background-color: #FFFFFF !important;
+  color: inherit;
+}
+
+#wrapper_large {
+  width: 532px !important;
+}
+
+.borderBottomRight {
+  border-right: 1px solid #D67200 !important;
+  border-bottom: 1px solid #D67200 !important;
+}
+
+#previewImage {
+  maxSize: 500.00 !important;
+}
+
+.paginationLinks, .pagination, #liveUpdatePagination {
+}
+
+.thumb {
+  border: 1px solid #D67200 !important;
+}
+
+#liveUpdateSiteTitle {
+}
+
+.borderBottom {
+  border-bottom: 1px solid #D67200 !important;
+}
+
+#stage {
+  width: 484px !important;
+}
+
+.textColor {
+  color: #D67200 !important;
+  background-color: inherit;
+}

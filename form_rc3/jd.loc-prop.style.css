@@ -1,0 +1,120 @@
+.loc-prop-box {
+        background:#9a9a9a;
+        color:#262626;
+        font-family:arial, helvetica, sans-serif;
+        font-size:0.7em;
+        border-radius:5px;
+        overflow:auto;
+        margin-bottom:10px;
+    }
+
+    .loc-prop-group-item {
+        padding:10px 0 0 0;
+    }
+
+    .loc-prop-box .loc-label {
+        border-bottom:#cecece 1px solid;
+    }
+
+    .loc-prop-box .loc-label label {
+        width:100%;
+        display:inline-block;
+        font-size:1.1em;
+        font-weight:bold;
+        color:#0f0f0f;
+        padding-bottom:5px;
+        border-bottom:#474747 1px solid;
+
+        text-indent:10px;
+    }
+
+    .loc-prop-item-list {
+        list-style-type:none;
+        padding:0 10px;
+        margin:0 0 0 15px;
+    }
+
+    ul.loc-prop-item-list li {
+        display:inline-block;
+        width:30%;
+        padding:0;
+    }
+
+    ul.loc-prop-item-list li a {
+        color:#262626;
+        text-decoration: none;
+    }
+
+    ul.loc-prop-item-list li a:hover {
+        color:#fff !important;
+    }
+
+    ul.loc-prop-item-list li:before {
+        content: "";
+        border-color: transparent #111;
+        border-style: solid;
+        border-width: 0.35em 0 0.35em 0.45em;
+        display: block;
+        height: 0;
+        width: 0;
+        left: -1em;
+        top: 0.9em;
+        position: relative;
+    }
+
+    .loc-prop-proceed {
+        border-top:#474747 1px solid;
+        text-align:center;
+        margin-top:10px;
+    }
+
+    .loc-prop-proceed label {
+        border-top:#cecece 1px solid;
+        width:100%;
+        display:inline-block;
+    }
+
+    .loc-prop-box .loc-prop-proceed label a {
+        text-decoration:none;
+        color:#303030;
+        font-size:1em;
+        font-weight:bold;
+        line-height:200%;
+        display:inline-block;
+        width:100%;
+    }
+
+    .loc-prop-box .loc-prop-proceed label a:hover {
+        background:#848484;
+        color:#000;
+    }
+
+    .loc-prop-proceed-btn {
+    	width: 0;
+    	height: 0;
+    	border-top: 7px solid transparent;
+    	border-bottom: 7px solid transparent;
+    	border-left: 7px solid #505050;
+    }
+
+.loc-prop-item-list li.loc-prop-selected,
+.loc-prop-item-list li.loc-prop-selected:hover,
+.loc-prop-item-list li.loc-prop-selected:hover:before {
+    color:#fff !important;
+    cursor:pointer !important;
+}
+
+.loc-prop-item-list li.loc-prop-selected:before {
+    border-color: transparent #fff;
+}
+
+.loc-prop-item-list li:hover,
+.loc-prop-item-list li:hover:before {
+    color:#ccc;
+    cursor:pointer !important;
+}
+
+.loc-prop-item-list li:hover:before {
+    border-color:transparent #fff;
+
+}

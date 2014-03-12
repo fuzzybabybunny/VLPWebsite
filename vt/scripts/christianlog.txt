@@ -1,0 +1,1169 @@
+7/18/2011	2031 Menalto Ave, Menlo Park, CA 94025	44
+7/18/2011	3134 Sunset Terrace, San Mateo, CA 94403	108
+7/19/2011	1381 Fernside Blvd, Alameda, CA 94501	25
+7/19/2011	2004 Cambridge Dr, Alameda, CA 94501	32
+7/19/2011	834 Springfield Dr, Campbell, CA 95008	48
+7/19/2011	1829 Oak Knoll Dr, Belmont, CA 94002	71
+7/20/2011	834 Springfield Dr, Campbell, CA 95008	44
+7/20/2011	614 Antioch Ter, Sunnyvale, CA 94085	28
+7/20/2011	2920 Salem Dr, Santa Clara, CA 95051	35
+7/20/2011	555 E Meadow Dr, Palo Alto, CA 94306	53
+7/21/2011	1721 Askam Lane, Los Altos, CA 94024	32
+7/21/2011	Dummy Email for Payment of 1721 Askam Lane, Los Altos, CA 94024	0
+7/21/2011	1079 Almaden Village Ln, San Jose, CA 95120	50
+7/23/2011	1959 Annette Ln, Los Altos, CA 94024	71
+7/23/2011	 212 Village Lane, Foster City, CA 94404	50
+7/23/2011	 212 Village Lane, Foster City, CA 94404	50
+7/26/2011	18108 Dorcich Ct, Saratoga, CA 95070	51
+7/26/2011	1111 Compass Ln 204, Foster City, CA 94404	38
+7/26/2011	1232 Poplar Ave, Sunnyvale, CA 94086	44
+7/26/2011	4468 Desin Dr, San Jose, CA 95118	47
+7/26/2011	710 Brewer Dr, Hillsborough, CA 94010	49
+7/26/2011	3401 La Selva St, San Mateo, CA 94403	26
+7/26/2011	1305 Darryl Dr, San Jose, CA 95130	20
+7/26/2011	650 Oneida Drive, Sunnyvale, CA 94087	37
+7/26/2011	20110726 1410 Bobwhite Ave, Sunnyvale	32
+7/27/2011	45844 Cheyenne Pl, Fremont, CA 94539	60
+7/28/2011	35096 Donegal Ct, Newark, CA 94560	45
+7/28/2011	1436 Hoffman Ln, Campbell, CA 95008	38
+7/28/2011	112 Hilary Ave, Mountain View, CA 94040	54
+7/28/2011	777 San Antonio Rd 137, Palo Alto, CA 94303	32
+7/28/2011	324 Metzgar St, Half Moon Bay, CA 94019	42
+7/28/2011	864 Kearney Ter, Sunnyvale, CA 94086	36
+7/28/2011	328 Smithwood St, Milpitas, CA 95035	42
+7/28/2011	927 Washington St, Mountain View, CA 94043	42
+7/29/2011	10442 Noel Ave, Cupertino CA 95014	52
+7/30/2011	1560 Wheatley Pl, San Jose, CA 95121	55
+7/30/2011	1490 Halibut St, Foster City, CA 94404	44
+8/1/2011	424 Rolling Hills Ave, San Mateo, California 94403	42
+8/2/2011	20237 Bollinger Road, Cupertino, CA 95014	55
+8/3/2011	6239 Cloverhill Dr, San Jose, CA 95120	
+8/3/2011	6239 Cloverhill Dr, San Jose, CA 95120	45
+8/3/2011	4112 Amos Way, San Jose, CA 95135	55
+8/3/2011	100 E Middlefield Rd Unit 6H, Mountain View, CA 94043	29
+8/3/2011	991 Lundy Ln, Los Altos, CA 94024	29
+8/4/2011	419 Fieldcrest Dr, San Jose, CA 95123	40	Angie Cocke
+8/4/2011	2601 S Park Lane, Santa Clara, CA 95051	27	Harjinder Singh
+8/4/2011	13141 Pfeifle Ave, San Jose, CA 95111	45	Theresa Nguyen
+8/5/2011	2205 Vineyard Ct, Los Altos, CA 94024	62	Catherine Qian
+8/5/2011	1459 Regalo Ct, San Jose, CA 95128	57	Ruhi Alikhan
+8/5/2011	869 Alderbrook Ln, Cupertino, CA 95014	35	Mary Tan
+8/8/2011	10601 Madera Dr, Cupertino, CA 95014	51	Mary Tan
+8/8/2011	869 Alderbrook Ln, Cupertino, CA 95014	3	Mary Tan
+8/9/2011	557 Fir Ave, Sunnyvale, CA 94085	34	Danli Liu
+8/10/2011	2264 Bishop Ave, Fremont, CA 94536	43	Danli Liu
+8/10/2011	671 Maud Avenue, San Leandro, CA 94577	61	Mo Tajik
+8/12/2011	1475 Gretel Ln, Mountain View, CA 94040	45	Jack Harper
+8/12/2011	388 Avenida Abetos, San Jose, CA 95123	60	Bridgette Akunal
+8/12/2011	16973 Helene Ln, Morgan Hill, CA 95037	46	Debbie Adamo
+8/12/2011	1452 Curtiss Ave. San Jose, CA 95125	55	Sherry Hitchcock
+8/13/2011	5449 Kaveny Dr, San Jose, CA 95129	67	Mary Tan
+8/13/2011	200 Las Miradas Dr, Los Gatos, CA 95032	52	Ady Wunderman
+8/13/2011	1920 Bluewood Circle, San Jose, CA 95132	20110812 1920BluewoodCir	Brad Hung Le
+8/15/2011	1203 Andre Ave, Mountain View, CA 94040	12	Lori Nelson
+8/15/2011	2481 Rebecca Lynn Way, Santa Clara, CA 95050	38	Ying Wang
+8/15/2011	Pali alto dummy	0	Lori Nelson
+8/15/2011	829 Donohoe St, East Palo Alto, CA 94303	0	Jaime Gonzalez
+8/16/2011	2419 Potter, Oakland	37	Robert Nguyen, Vinny and Jennifer
+8/16/2011	3277 Vineyard Park Way, San Jose, CA 95135	29	Alex Wang
+8/16/2011	1920 Bluewood Circle, San Jose, CA 95132	34	Brad Hung Le
+8/16/2011	16973 Helene Ln, Morgan Hill, CA 95037	46	Debbie Adamo
+8/17/2011	3822 Market St, Oakland, CA 94608	58	Vinny MaNguyen
+8/17/2011	1125 Sage Hill Dr, Gilroy, CA 95020	43	Debbie Adamo
+8/17/2011	829 Donohoe St, East Palo Alto, CA 94303	38	Jaime Gonzalez
+8/17/2011	1203 Andre Ave, Mountain View, CA 94040	49	Lori Nelson
+8/18/2011	21760 Lomita Ave, Cupertino, CA 95014	61	Miri Bialek
+8/18/2011	1452 Curtiss Ave. San Jose, CA 95125	20	Sherry Hitchcock
+8/18/2011	614 Choctaw Dr, San Jose, CA 95123	50	Angie Cocke
+8/18/2011	15500 La Mar Dr, Morgan Hill, CA 95037	48	Debbie Adamo
+8/18/2011	5 Batten Ln,  Redwood City, CA 94065	57	Heather Hansen
+8/19/2011	26776 Almaden Ct, Los Altos Hills, CA 94022	0	Andrei Bandrovsky
+8/19/2011	10624 Gascoigne Dr, Cupertino	0	Mary Tan
+8/19/2011	18761 Pendergast Ave, Cupertino, CA 95014	60	Anson Ip
+8/19/2011	248 Marchmont Dr, Los Gatos, CA 95032	66	Aaron Schubbe
+8/19/2011	6367 Myrtlewood Dr, Cupertino, CA 95014	48	Mary Tan
+8/22/2011	106 2nd St, Los Altos, CA 94022	53	Brendan Callahan
+8/22/2011	437 Costa Mesa Terrace Unit E, Sunnyvale, CA 94085	38	Alana Lam
+8/23/2011	2382 Glen Way, East Palo Alto, CA 94303	55	Nancy Nguyen
+8/23/2011	1957 Mars Rd, Livermore, California 94550	67	Renee Best
+8/24/2011	1427 Willow St, Oakland, CA 94607	59	Jenny Wu
+8/24/2011	794 Borden Rae Ct, San Jose, CA 95117	77	Robert Yu
+8/25/2011	1870 Armand Dr, Milpitas, CA 95035	54	Harjinder Singh
+8/25/2011	2824 Alhambra Dr, Belmont, CA 94002	74	Jeanette Cook
+8/25/2011	1627 Parkwood Dr, San Mateo, CA 94403	60	Adele DellaSantina
+8/25/2011	2193 Hicks Ave, San Jose, CA 95125 	47	Gary Collins
+8/26/2011	1160 Mission St Unit 1812, San Francisco, CA 94103	88	Julie Tsai-Law
+8/26/2011	7220 Glenview Dr, San Jose, CA 95120	114	Yvonne Yang
+8/26/2011	7220 Glenview Dr, San Jose, CA 95120	60	Yvonne Yang
+8/26/2011	7220 Glenview Dr, San Jose, CA 95120		Yvonne Yang
+8/26/2011	7220 Glenview Dr, San Jose, CA 95120	72	Mary Tan
+8/29/2011	20147 Las Ondas Way, Cupertino, CA 95014.	57	Douglas Marshall
+8/30/2011	1160 Mission St Unit 1812, San Francisco, CA 94103	15	Julie Tsai-Law
+8/31/2011	2100 Eaton Ave, San Carlos, CA 94070	58	Art Sharif
+8/31/2011	511 Buena Vista Ave, Redwood City, CA 94061	58	Patrick Kerwin
+9/1/2011	49 Showers Dr Unit E146, Mountain View, CA 94040	28	Kris Suh
+9/1/2011	1009 Monica Ln, San Jose, CA 95128	48	Sara Greenwood
+9/1/2011	184 Tulip Blossom Court, San Jose, CA 95123	41	Kim Connor
+9/2/2011	22685 Medina Ct, Cupertino, CA 95014	54	Mary
+9/6/2011	1402 Allegado Aly, San Jose, CA 95128	34	Alex Wang
+9/6/2011	1500 Euclid Ave, Berkeley, CA 94708	88	David Otero
+9/6/2011	1726 Maryland Street, Redwood City CA	76	Manie
+9/7/2011	131 Blossom Circle, Unit: 2J, San Mateo, California 94403	42	Jaime Gonzalez
+9/7/2011	3281 Berryessa St Unit 4, Palo Alto, CA 94303	48	Alex Wang
+9/7/2011	2169 Barrett Ave, San Jose, CA 95124	49	Andrea Schultz
+9/7/2011	2419 Tamalpais St, Mountain View, CA 94043	40	Howard Bloom
+9/7/2011	41047 Pementel Ct, Fremont, CA 94539	77	Maggie Paul
+9/7/2011	74 Loyola Avenue, Menlo Park, CA 94025	62	Chen-Chen Wu
+9/7/2011	2840 Illinois St, East Palo Alto, California 94303	34	Jaime Gonzalez
+9/7/2011	3930 Via Cristobal, Campbell, CA 95008	53	Harjinder Singh
+9/8/2011	5568 Shadowcrest Way, San Jose, CA 95123	51	James Price
+9/8/2011	731 Fremont St 	57	Sue Sherwood
+9/8/2011	372 Loreto St, Mountain View, CA 94041	74	Michael Galli
+9/8/2011	707 Concord Way, Burlingame, CA 94010	57	Kathy McKenzie
+9/9/2011	537 N 16th St, San Jose, CA 95112	34	Jerry Kwok
+9/9/2011	2891 La Jolla Ave, San Jose, CA 95124	60	Pat Kalish
+9/10/2011	2929 Viola St, Oakland, CA 94619	47	Vinny MaNguyen
+9/12/2011	1659 Silvertree Dr, San Jose, CA 95131	44	Brad Hung Le
+9/12/2011	1265 Sargent Dr, Sunnyvale, CA 94087		Manie Kohn
+9/12/2011	12 Calypso Ln, San Carlos, California 94070	38	Manie Kohn
+9/13/2011	737 Winstead Ter, Sunnyvale, CA 94087		Mary Tan
+9/13/2011	148 Westhill Dr, Los Gatos, CA 95032	69	Kim Connor
+9/13/2011	1810 Middlefield Rd, Palo Alto, CA 94301	56	Lynne Mercer
+9/14/2011	22294 Carta Blanca St, Cupertino, CA 95014	83	Steven Askari
+9/14/2011	951 S 12th St Apt 114, San Jose, CA 95112	20	Jerry Kwok
+9/14/2011	782 Dixon Way, Los Altos, CA	20	Manie
+9/15/2011	2906 57th Ave, Oakland, CA 94605	57	Vinny MaNguyen
+9/15/2011	1031 Craig Dr, San Jose, CA 95129	91	Anson Ip
+9/15/2011	2906 57th Ave, Oakland, CA 94605	8	Vinny MaNguyen
+9/15/2011	503 South Park Dr. San Jose, CA 95129	77	Kevin Garvey
+9/15/2011	6228 Gunter Way, San Jose, CA 95123	78	Kim Connor
+9/15/2011	2410 Booksin Ave, San Jose, CA 95125	61	Edward Tran
+9/15/2011	19303 Vineyard Lane, Saratoga, CA 95070	44	Judi Corallo
+9/15/2011	423 Alameda de Las Pulgas, Redwood City, CA 94062	37	Manie
+9/16/2011	3200 Birdsall Ave., Oakland	59	Kim Connor
+9/16/2011	2760 Best Ave., Oakland	59	Brian McKenzie
+9/16/2011	20713 Celeste Cir, Cupertino CA 95014	28	Priscilla Wang
+9/16/2011	1514 Cliffwood Dr, San Jose, CA 95122	39	Theresa Nguyen
+9/16/2011	26776 Almaden Ct. Los Altos Hills	63	Andrei
+9/16/2011	10170 Santa Clara Ave, Cupertino, CA 95014	61	Catherine Qian
+9/17/2011	3644 Cody Ct, Santa Clara, CA 95051	40	Mary Tan
+9/17/2011	366 Colville Dr, San Jose, CA 95123	53	Jerry Kwok
+9/19/2011	10170 Santa Clara Ave, Cupertino, CA 95014	Catherine Qian	Nelson Nguyen
+9/20/2011	1100 Cabrillo Ave, Burlingame CA 94010	56	Manie
+9/20/2011	1081 Jamaica Street, Foster City, CA 94404	37	Lily Hsu
+9/21/2011	243 Prague Dr, San Jose, CA 95119 	41	Kim Connor
+9/22/2011	1400 Bowe Ave Apt 1807, Santa Clara, CA 95051	39	Harjinder Singh
+9/22/2011	2681 Thrush Ct, San Jose, CA 95125	45	Nelson Nguyen
+9/22/2011	1453 Alma Loop, San Jose, CA 95125	27	Jerry Kwok
+9/22/2011	2149 Junction Ave Apt 5, Mountain View, CA 94043	34	Sandy Clow- Raimondo
+9/22/2011	243 Prague Dr, San Jose, CA 95119 	47	Kim Connor
+9/22/2011	709 Howard Avenue, Burlingame, CA 94010	38	Ady Wunderman
+9/22/2011	32 Heritage Ct, Belmont, CA 94002	52	Adele DellaSantina
+9/22/2011	1127 Holenbeck Ave, Sunnyvale, CA 94087	48	Jerry Kwok
+9/23/2011	435 Moretti Ln, Milpitas, CA 95035	41	Harjinder Singh
+9/23/2011	1189 Knox Ave, San Jose, CA	41	Eddie Lam
+9/23/2011	11530 Murano Cir, Cupertino, CA 95014	56	Mary Tan
+9/26/2011	621 East 16th St, San Mateo, CA	36	Manie Kohn
+9/26/2011	20015 Orchard Meadow Dr, Saratoga CA 95070	26	Steven Brandenburg
+9/27/2011	1212 Whipple Avenue, Redwood City CA	82	Teodor Vacev
+9/27/2011	29 S Keeble Ave, San Jose, CA 95126	37	Frank Kuo
+9/27/2011	20015 Orchard Meadow Dr, Saratoga CA 95070	95	Steven Brandenburg
+9/27/2011	787 Maddux Dr. Redwood City, Ca	52	Manie
+9/27/2011	336 Windingwood Ct, Mountain View, CA 94040	40	Daniel Imamura
+9/28/2011	1305 Vernal Dr, San Jose, CA 95130	41	William
+9/28/2011	237 Prairie Dog Ln, Fremont, CA 94539		Barb
+9/28/2011	10704 Grapnel Pl, Cupertino, CA 95014	59	Catherine Qian
+9/28/2011	237 Prairie Dog Ln, Fremont, CA 94539	60	Barb
+9/29/2011	963 Smith Ave, Campbell, CA 95008	60	Kathy Liu 
+9/29/2011	444 Allegan Cir, San Jose, CA 95123	55	Kim Connor
+9/30/2011	1754 Stockbridge Ave, Redwood City, CA 94061	53	Doug Gonzalez
+9/30/2011	470 Theta Ct, San Jose, CA 95123	77	Angie Cocke
+10/1/2011	618 Orange Ave, Los Altos, CA 94022	100	Sean Foley
+10/1/2011	2487 Golf Links Cir, Santa Clara, CA 95050	57	Mary Tan
+10/1/2011	10400 Scenic Blvd, Cupertino, CA 95014	61	Mary Tan
+10/3/2011	12257 Titus Ave, Saratoga, CA 95070	67	Catherine Qian
+10/4/2011	20288 Pacifica Dr, Cupertino, CA 95014	20	Darren Kimura
+10/4/2011	309 Innisfree, Daly City, CA 94015	38	Bob Williams
+10/4/2011	1604 Trollman Ave, San Mateo, CA 94401	46	Donna Black
+10/5/2011	406 Pepper Ave, Palo Alto, CA 94306	47	Judy OBrien
+10/5/2011	1411 Santa Fe, San Jose, CA 95118	36	Kim Connor
+10/6/2011	2789 Illinois St, East Palo Alto, CA 94303	41	Henri Pessah
+10/7/2011	566 Vista Ave, Palo Alto, CA 94306	20	Alex Wang
+10/7/2011	3714 Heron Way, Palo Alto, CA 94303	32	Alex Wang
+10/7/2011	3913 Oneill Dr, San Mateo, CA 94403	47	Manie Kohn
+10/7/2011	1155 La Rochelle Ter, Unit D, Sunnyvale, CA 94089	56	Patrick Johnson
+10/7/2011	1102 Hunterston Pl, Cupertino, CA 95014	38	Mary Tan
+10/7/2011	1472 Carrington Cir, San Jose, CA 95125	41	Barb Williams
+10/7/2011	3167 Allen Way, Santa Clara, CA 95051	53	Mary Tan
+10/8/2011	5682 Turban Ct, Fremont, CA 94538	39	Cindy Liu
+10/10/2011	3223 Mabury Rd, San Jose, CA 95127	60	Edmund Yue
+10/11/2011	6292 Vegas Dr, San Jose, CA 95120	43	Karen Lin
+10/11/2011	731 Fremont St, Unit 3, Menlo Park, CA 94025	47	Pacific Peninsula
+10/11/2011	190 Douglas Ct, Milpitas, CA 95035	47	Natalie Liu 
+10/12/2011	451 Poplar St, Half Moon Bay, CA 94019	51	Holly Stockman
+10/12/2011	7649 Santa Inez Ct, Gilroy, CA 95020	53	Debbie Adamo
+10/13/2011	18871 Arata Way, Cupertino, CA 95014	55	Jinny Ahn
+10/13/2011	1116 Hollyburne, Menlo Park	38	Bob Williams
+10/13/2011	1116 Hollyburne, Menlo Park	38	Bob Williams
+10/14/2011	566 Vista Ave, Palo Alto, CA 94306	10	Alex Wang
+10/14/2011	4289 Maple Ave, Oakland, CA 94602	68	Jimmy Tam
+10/14/2011	550 Ortega Ave. B225, mountain view, ca 94040	36	Alex Wang
+10/15/2011	27408 Hemlock Ranch Rd., Hayward	52	Virginia Supnet
+10/17/2011	21861 Alcazar Ave, Cupertino, CA 95014	51	Mary Tan
+10/17/2011	331 Krismer St, Milpitas, CA 95035	44	Trisha Ho
+10/18/2011	431 Costa Mesa Terrace Unit E, Sunnyvale, CA 94085	39	Alana Lam
+10/18/2011	374 Sposito Cir, San Jose, CA 95136	52	Sara Greenwood
+10/18/2011	 681 Vinemaple Ave, Sunnyvale, CA 94086	47	Rita McKeany
+10/19/2011	2431 Plummer Ave, San Jose, CA 95125	69	Todd Zebb
+10/19/2011	1400 Bowe Ave Apt 608, Santa Clara, CA 95051	27	Vicky Le
+10/19/2011	2431 Plummer Ave, San Jose, CA 95125		Todd Zebb
+10/19/2011	2501 Pioneer Ave, San Jose, CA 95128	51	Kim Connor
+10/19/2011	1040 Continentals Way Unit 13, Belmont, CA 94002	56	Doug Gonzalez
+10/19/2011	499 Carnegie Dr, Milpitas, CA 95035	41	Harjinder Singh
+10/20/2011	4941 Shiloh Pl, San Jose, CA 95138	106	Kim Connor
+10/20/2011	108 Bryant Street #40 Mountain View	40	Tori Atwell
+10/20/2011	4941 Shiloh Pl, San Jose, CA 95138	30	Kim Connor
+10/20/2011	731 5th Ave, Redwood City, CA 94063	41	Jaime Gonzalez
+10/21/2011	1110 Hunterston Pl, Cupertino, CA 95014	42	Jinny Ahn
+10/21/2011	283 Moraga Way, San Jose, CA 95119	58	Angie Cocke
+10/21/2011	3545 Manda Dr, San Jose, CA 95124	57	Mae Chang
+10/21/2011	21861 Alcazar Ave, Cupertino, CA 95014	46	Jaime Gonzalez
+10/21/2011	1102 Hollyburne, Menlo Park	37	Jaime Gonzalez
+10/24/2011	6327 Snell Ave, San Jose, CA 95123	55	Angie Cocke
+10/24/2011	2350 109th Ave, Oakland, CA 94603	39	Angelou Masters
+10/25/2011	1218 Olivera Terrace Sunnyvale, CA 94087	43	Frank Kuo
+10/26/2011	8 Westcliff Ct, Pacifica, CA 94044	53	Linda Li
+10/27/2011	1452 Madera Way, Millbrae, CA 94030	67	Cathy Lubke
+10/27/2011	1442 S Wolfe Rd, Sunnyvale CA 94087	30	Frank Ruan
+10/27/2011	2835 Burl Ct, San Jose, CA 95121	52	Kim Connor
+10/27/2011	778 Sirica Ct, San Jose	75	Darren Kimura
+10/28/2011	435 Sheridan Ave Apt 309, Palo Alto, CA 94306	56	Carol Lin
+10/31/2011	6100 Moraga Ave, Oakland, 94611	47	Tracy Butler
+10/31/2011	1744 Mcgee Ave, Berkeley, CA 94703	58	Erin Kagehiro
+10/31/2011	491 Pariso Ter, Fremont, CA 94539	46	Maggie Paul
+11/1/2011	6360 Myrtlewood Dr, Cupertino, CA 95014	46	Patrick Johnson
+11/2/2011	1323 Sevier Ave, Menlo Park, CA 94025	33	Jaime Gonzalez
+11/3/2011	3051 Birdsall Ave, Oakland, CA 94619	50	Bobbi Vogel
+11/3/2011	2615 Cowper St, Palo Alto, CA 94306	70	Dennis Wu
+11/3/2011	1596 Columbus Ave, Burlingame, CA 94010	49	Manie Kohn
+11/4/2011	952 Junipero Ave, Redwood City, CA 94061	43	Jaime Gonzalez
+11/4/2011	1225 Locust St, San Jose, CA 95110	46	Jerry Kwok
+11/5/2011	5770 Rudy Dr., San Jose, CA 95124	71	Kim Connor
+11/5/2011	3381 Ivan Way, Mountain View, CA 94040	56	Surjit Kaur
+11/8/2011	1236 Camellia Dr, East Palo Alto, CA 94303	41	Jaime Gonzalez
+11/8/2011	259 Daphne Way, East Palo Alto, CA	32	Jaime Gonzalez
+11/8/2011	424 Dempsey Rd Unit 224, Milpitas, CA 95035	36	Alex Wang
+11/8/2011	32509 Deborah Dr, Union City, CA 94587	39	Joe Metz
+11/9/2011	64 Chester Cir, Los Altos, CA 94022	46	Howard Bloom
+11/9/2011	1119 Timberpine Ct, Sunnyvale, CA 94086	42	Sheila Benson
+11/9/2011	15390 La Rocca Dr, Morgan Hill, CA 95037	43	Kim Connor
+11/9/2011	3239 Waverley Street, Palo Alto	80	Manie Kohn
+11/10/2011	40 Saw Mill Ln, Mountain View, CA 94043	39	Alex Wang
+11/14/2011	276 Loucks Ave, Los Altos, CA 94022	81	Julie Tsai-Law
+11/15/2011	323 Lippert Ave, Fremont CA 94539	57	Danli Liu
+11/15/2011	1386 W. Hedding, San Jose 95126	35	James Fucillo
+11/16/2011	2051 Emerson St, Palo Alto, CA 94301	105	Virginia Supnet
+11/16/2011	4197 Mackin Woods Ln, San Jose, CA 95135	50	Jack Liu
+11/16/2011	1116 Hollyburne, Menlo Park, CA 94025	41	Bob Williams
+11/17/2011	2744 Maxwell Ave, Oakland, CA 94619	45	Sunny Kim
+11/17/2011	10852 Alderbrook Ln, Cupertino, CA 95014	30	Alex Wang
+11/17/2011	6 Meadow Ln, Redwood City, CA 94063	28	Jaime Gonzalez
+11/17/2011	6 St Marys Pl, Redwood City, CA 94063	33	Jaime Gonzalez
+11/18/2011	715 Jennings Dr, San Jose, CA 95111	36	Brad Hung Le
+11/18/2011	104 Brisbane Ter, Sunnyvale, CA 94086	41	Julie Fernandez
+11/21/2011	5928 Killarney Cir, San Jose, CA 95138	54	Jenele Balaz
+11/21/2011	1251 Sevier Ave, Menlo Park, CA 94025	29	Bob Williams
+11/23/2011	6218 Evangeline Dr., San Jose, 95123	50	Mo Tajik
+11/29/2011	16 Stockbridge Ave, Atherton, CA 94027	74	Julie Tsai-Law
+11/29/2011	42100 Vargas Rd, Fremont, CA 94539	57	Nancy Sun
+11/29/2011	552 Encina Ave, Menlo Park, CA 94025	52	Doug Gonzalez
+11/29/2011	37690 Starflower St, Newark, CA 94560	43	Thuy Do
+12/1/2011	122 Marion Ave, Mill Valley, CA 94941	62	Gita Patel
+12/1/2011	925 15th Ave, Redwood City, CA 94063	25	Jaime Gonzalez
+12/5/2011	4537 Darcelle Dr, Union City, CA 94587	37	Danli Liu
+12/7/2011	3727 Louis Rd, Palo Alto, CA 94303	39	Julie Tsai-Law
+12/7/2011	722 Nutmeg Ave, Sunnyvale, CA 94087	34	Jack Earl
+12/8/2011	199 New Montgomery St Unit 706, San Francisco, CA 94105	41	Julie Tsai-Law
+12/8/2011	10351 South Tantau Avenue, Cupertino, CA 95014	69	Kim Connor
+12/8/2011	2365 Stratford Dr, San Jose, CA 95124	37	Karen Lin
+12/9/2011	6925 Westmoor Way, San Jose, CA 95129	43	Kim Connor
+12/9/2011	1483 Mount Palomar Dr, San Jose, CA 95127	36	Jerry Kwok
+12/13/2011	473 Costa Mesa Ter Apt C, Sunnyvale, CA 94085	25	Jinny Ahn
+12/13/2011	1778 Morrill Ave, San Jose, CA 95132	30	Edmund Yue
+12/13/2011	6925 Westmoor Way, San Jose, CA 95129	46	Kim Connor
+12/14/2011	736 54th St, Oakland, CA 94609	47	Brian McKinzie
+12/14/2011	2906 Rawson St, Oakland, CA 94619	36	Brian McKinzie
+12/15/2011	1255 La Canada, Hillsborough, CA	212	Manie Kohn
+12/19/2011	2728 Capitola Ter, Fremont, CA 94539		Nancy Sun
+12/19/2011	630 Woodside Dr, Woodside, CA 94062		Sean Foley
+12/19/2011	2225 Avenida De Los Alumnos, Santa Clara, CA 95054		Alex Wang
+12/23/2011	7644 Burnham Way Dublin, Ca 94568	41	Joe Metz
+1/4/2012	5344 Walnut St. Oakland, Ca 94619 	40+	Jennifer Ky
+1/6/2012	3515 69th Ave. Oakland, Ca 94605	36	Jenny Wu
+1/6/2012	595 E Olive Ave Sunnyvale, CA 94086	45	Sophie Shen
+1/7/2012	733 Eighth Ave Redwood City, CA 94063	60	Jaime Gonzalez
+1/11/2012	1006 North Second St. San Jose, Ca 95112	45	Jerry Kwok
+1/11/2012	1415 Carmel Dr, San Jose, CA 95125	43	Jerry Kwok
+1/11/2012	185 Walter Hays Dr Palo Alto, CA 94303	53	Delia Fei
+1/11/2012	611 Manresa Ln Los Altos, CA 94022	53	Todd Zebb
+1/13/2012	1164 Laurel Ave, East Palo Alto, CA 94303	50	Jaime Gonzalez
+1/13/2012	6925 Westmoor Way, San Jose, CA 95129	35	Kim Connor
+1/13/2012	245 Casper St, Milpitas, CA 95035	46	Tim Yeager
+1/13/2012	15525 Via Eduardo, Morgan Hill, CA 95037	94	Norman Lam
+1/13/2012	15500 Madrone Hill Rd, Saratoga, CA 95070	63	Beirne Shuffle
+1/13/2012	23614 Oak Valley Rd, Cupertino, CA 95014	79	Judy OBrien
+1/16/2012	3680 Pruneridge Ave, Santa Clara, CA 95051	40	Jennifer Zhang
+1/16/2012	12 Heritage Pl, Menlo Park, CA 94025	48	Inna Beardsley
+1/16/2012	890 Robb Rd, Palo Alto Hills, CA	181	Julie Tsai-Law
+1/16/2012	15500 Madrone Hill Rd, Saratoga, CA 95070	17	Beirne Shuffle
+1/16/2012	578 Ironwood Ter Apt 5, Sunnyvale, CA 94086	30	Elizabeth Tucker
+1/17/2012	45 S 23rd St, San Jose, CA 95116	56	Jerry Kwok
+1/17/2012	1266 Hillview Dr, Livermore, CA 94551	48	Renee Best
+1/18/2012	1785 Hunt Drive, Burlingame	108	Manie Kohn
+1/19/2012	632 Chiquita Ave, Mountain View, CA 94041	58	Michael Galli
+1/19/2012	464 Dempsey Rd, Unit 264, Milpitas, CA 95035 	25	Brad Hung Le
+1/19/2012	1545 Alma St, Palo Alto, CA 94301	50	Michael Galli
+1/19/2012	464 Dempsey Rd, Unit 264, Milpitas, CA 95035 	11	Brad Hung Le
+1/19/2012	1362 Hollyburne Ave, Menlo Park, CA 94025	22	Geoff Phelps
+1/19/2012	116 Adrian Pl, Los Gatos, CA 95032	51	Aimee Smith
+1/24/2012	2239 109th Ave, Oakland, CA 94603	42	Angelou Masters
+1/25/2012	21141 Grenola Dr, Cupertino, CA 95014	73	Catherine Qian
+1/25/2012	10362 Scenic Cir, Cupertino, CA 95014	51	Roberta Murai
+1/25/2012	10362 Scenic Cir, Cupertino, CA 95014	23	Roberta Murai
+1/25/2012	650 16th Ave, Menlo Park	61	Manie Kohn
+1/25/2012	1322 Egret Dr, Sunnyvale, CA 94087	55	Howard Bloom
+1/26/2012	75 Lester Ave, San Jose, CA 95125	44	Kim Connor
+1/26/2012	350 NIMITZ, REDWOOD CITY	57	Manie Kohn
+1/26/2012	565 Evangeline Way, Hayward, CA 94544		Wendy Wu
+1/27/2012	2920 Dolores Way, Burlingame, CA 94010	51	Art Sharif
+1/27/2012	1831 Sheri Ann Cir, San Jose, CA 95131	37	Royce Cablayan
+1/30/2012	565 Evangeline Way, Hayward, CA 94544	49	Wendy Wu
+1/31/2012	35766 Gissing Pl, Fremont, CA 94536	55	Danli Liu
+1/31/2012	716 Pettis, Mountain View	183	Manie Kohn
+1/31/2012	20120130 565EvangelineWay		
+2/1/2012	2085 Domaine Ct, Morgan Hill, CA 95037	85	Kim Connor
+2/1/2012	106 Lyell St, Los Altos, CA 94022	40	Terri Cambouris
+2/1/2012	5525 Sunspring Cir, San Jose, CA 95138	38	William Chen
+2/1/2012	8 Politzer Dr, Menlo Park, CA 94025	43	Eloise Pollock
+2/2/2012	401 S Daniel Way, San Jose, CA 95128	77	Derek Miller
+2/2/2012	401 S Daniel Way, San Jose, CA 95128	65 Plus Vicinity	Derek Miller
+2/2/2012	401 S Daniel Way, San Jose, CA 95128	65 Plus Vicinity	Derek Miller
+2/2/2012	1380 Courtyard Dr, San Jose, CA 95118	43	Angie Cocke
+2/2/2012	1600 Carmel Dr, San Jose, CA 95125	50	Josie Chen
+2/3/2012	1269 Hester Ave, San Jose, CA 95126	47	James Fucillo
+2/3/2012	1948 Pulgas Ave, East Palo Alto, CA 94303	29	Amelia Middel
+2/3/2012	100 Avezan Way, Gilroy, CA 95020	46	Ben Jiang
+2/4/2012	1555 Keesling Ave, San Jose, CA 95125	64	Leeland Wong
+2/4/2012	812 14th Ave, Menlo Park, CA 94025	37	Jaime Gonzalez
+2/6/2012	TEST TEST TEST		TEST TEST
+2/6/2012	TEST TEST TEST		TEST TEST
+2/6/2012	TEST TEST TEST		TEST TEST
+2/6/2012	TEST TEST TEST		TEST TEST
+2/6/2012	TEST TEST TEST		TEST TEST
+2/6/2012	TEST TEST TEST		TEST TEST
+2/6/2012	TEST TEST TEST		TEST TEST
+2/7/2012	1051 Colby Ave, Menlo Park, CA 94025	93	Andrew Griscom
+2/8/2012	1670 Connecticut Dr, Redwood City, CA 94061	47	Jaime Gonzalez
+2/8/2012	1671 Zinnia Ln, San Jose, CA 95124	40	Roberta Murai
+2/9/2012	252 Las Miradas Dr, Los Gatos, CA 95032	47	Richard Zhou
+2/9/2012	25 Warmwood Way, Hillsborough, CA 94010	49	Stanley Lo
+2/9/2012	Unmarked Cinnabar Rd Empty Lot, Redwood City	18	Art Sharif
+2/9/2012	285 Stierlin Rd, Mountain View, CA 94043	74	Andrew Griscom
+2/9/2012	1061 Sierra Dr, Menlo Park, CA 94025	88	Manie Kohn
+2/9/2012	455 Navaro Way Unit 110, San Jose, CA 95134	36	Frank Kuo
+2/10/2012	15235 Via Corfinio, Morgan Hill, CA 95037	60	Kim Connor
+2/10/2012	597 Valley Forge Way Apt 4, San Jose, CA 95117	29	Afsie Mina
+2/10/2012	1061 Sierra Dr, Menlo Park, CA 94025	88	Manie Kohn
+2/10/2012	1396 Carlton Ave, Menlo Park, CA 94025	38	Amelia Middel
+2/10/2012	904 Camille Ln, Mountain View, CA 94040	41	Veronica Young
+2/10/2012	823 Perseus Ln, Foster City, CA 94404	40	Heather Hansen
+2/10/2012	3044 El Monte Ave, Oakland, CA 94605	53	Bill Truong
+2/10/2012	21730 Alcazar Ave, Cupertino, CA 95014	55	Mary Tan
+2/11/2012	166 Crescent Ave, Portola Valley, CA 94028	51	Jaime Gonzalez
+2/13/2012	818 N Delaware St APT 305, San Mateo, CA 94401	30	Henri Pessah
+2/13/2012	1165 O\\\\\\\' Connor St, East Palo Alto, CA 94303	37	Henri Pessah
+2/13/2012	7525 Lockford Ct, Cupertino, CA 95014	36	Jinny Ahn
+2/14/2012	1479 Petal Way, San Jose, CA 95129	44	Elaine Yang
+2/14/2012	5631 Ravenna Ct, San Jose, CA 95118	56	Sheila Benson
+2/14/2012	4004 Farm Hill Blvd Unit 106, Redwood City, CA 94061	32	Laura Flores
+2/14/2012	1066 Hanover St, Daly City, CA 94014	39	Henri Pessah
+2/14/2012	948 S Norfolk St, San Mateo, CA 94401	38	Henri Pessah
+2/14/2012	1479 Petal Way, San Jose, CA 95129	45	Elaine Yang
+2/14/2012	1191 San Moritz Dr, San Jose, 95132	44	Harjinder Singh
+2/15/2012	10234 Parlett Pl, Cupertino, CA 95014	47	Rachel Pong
+2/15/2012	144 S 3rd St UNIT 319, San Jose, CA 95112	38	Alex Wang
+2/15/2012	2110 Menalto Ave, Menlo Park, 94025	44	Penelope Huang
+2/15/2012	1627 Benton Ct, Sunnyvale, CA 94087	48	Betty Lin
+2/15/2012	21080 Canyon View Dr, Saratoga, CA 95070	52	Jerry Kwok
+2/15/2012	44113 Glendora Dr, Fremont, CA 94539	49	Jinny Ahn
+2/16/2012	35766 Gissing Pl, Fremont, CA 94536	54	Danli Liu
+2/16/2012	1666 E 32nd St, Oakland, CA 94602	45	Vinny MaNguyen
+2/16/2012	6253 Lean Ave, San Jose, CA 95123	32	Terry Hong
+2/16/2012	285 Stierlin Rd, Mountain View, CA 94043	16	Andrew Griscom
+2/16/2012	3101 Glendale Ave, Redwood City, CA 94063	39	Jaime Gonzalez
+2/16/2012	1114 Clark St, San Jose, CA 95125	31	Jerry Kwok
+2/18/2012	10072 Imperial Ave, Cupertino, CA 95014	40	Rachel Pong
+2/18/2012	966 Candlewood Dr, Cupertino, CA 95014	32	Lydia Wang
+2/19/2012	1140 Martin Ave, San Jose, CA 95126		Jerry Kwok
+2/20/2012	1292 Phyllis Ave, Mountain View, CA 94040		Judy OBrien
+2/21/2012	1243 Madera Ave, Menlo Park, CA 94025	37	Geoff Phelps
+2/22/2012	2278 Euclid Ave, East Palo Alto, CA 	47	Clara Lee
+2/22/2012	2830 Illinois St, East Palo Alto, CA 94303	36	Bob Williams
+2/22/2012	15425 La Mar Dr, Morgan Hill, CA 95037	31	Kim Connor
+2/22/2012	47112 Warm Springs Blvd Unit 140, Fremont, CA 94539	31	Nancy Sun
+2/22/2012	Dummy for payment	0	
+2/23/2012	15425 La Mar Dr, Morgan Hill, CA 95037	35	Kim Connor
+2/23/2012	1299 Ocaso Camino, Fremont, CA 94539	45	Lihong Zhong
+2/24/2012	1074 Rymar Ter, San Jose, CA 95133	38	Frank Kuo
+2/24/2012	501 S 22nd St, San Jose, 95116	43	Harjinder Singh
+2/24/2012	1520 Melba Ct, Mountain View, CA 94040	44	Shilpa Merchant
+2/25/2012	1838 Ogden, Burlingame, CA	126	Wei Chung Chou
+2/25/2012	204 Bentley Sq, Mountain View, CA 94040	45	Todd Zebb
+2/25/2012	1520 Melba Ct, Mountain View, CA 94040	20	Shilpa Merchant
+2/25/2012	1548 Wheatley Pl, San Jose, CA 95121	62	Greta Liu
+2/25/2012	41091 Bernie St, Fremont, CA 94539	62	Maggie Paul
+2/27/2012	914 6th Ave, Redwood City, CA 94063	39	Jaime Gonzalez
+2/27/2012	945 Los Altos Ave, Los Altos, CA 94022	55	Susan Enzmann
+2/28/2012	20010 De Palma Ln, Cupertino, CA 95014	94	Olivia Lee
+2/29/2012	7794 Huntridge Ln, Cupertino, CA 95014	55	Mary Tan
+2/29/2012	1262 S Mary Ave, Sunnyvale, CA 94087	40	Eddie Shen
+2/29/2012	4526 Angeles Ave, Fremont, CA 94536	69	Danli Liu
+2/29/2012	10204 Bret Ave, Cupertino, CA 95014	37	Kim Connor
+3/1/2012	11803 Trinity Spring Ct, Cupertino, CA 95014	53	Anson Ip
+3/1/2012	842 Canada Dr, Milpitas, CA 95035	34	Kim Connor
+3/1/2012	4025 Jackie Ct, Pleasanton, CA 94588	33	Karen Lin
+3/1/2012	842 Canada Dr, Milpitas, CA 95035	9	Kim Connor
+3/1/2012	784 Gailen Ave, Palo Alto, CA 94303	67	Katrina Edwards
+3/2/2012	1746 Rock St, Mountain View, CA 94043	49	Christy Ying
+3/2/2012	10204 Bret Ave, Cupertino, CA 95014	35	Kim Connor
+3/2/2012	10204 Bret Ave, Cupertino, CA 95014	12	Kim Connor
+3/2/2012	3131 Madeline St, Oakland, CA 94602	30	Vinny MaNguyen
+3/2/2012	819 Columbia Circle, Redwood Shores, CA 94065	60	Jaime Gonzalez
+3/3/2012	10660 Stokes Avenue, Cupertino, CA 95014	73	Mary Tan
+3/3/2012	14188 Perata Ct, Saratoga, CA 95070	80	Kathy Liu
+3/5/2012	1050 Vista Rd, Hillsborough, CA 94010	91	Wei Chuo
+3/5/2012	2140 Santa Cruz Ave, Menlo Park, CA 94025	69	Beth Leathers
+3/6/2012	2140 Santa Cruz Ave, Menlo Park, CA 94025	69	Beth Leathers
+3/6/2012	929 Deer Meadow Ct, San Jose, CA 95122	35	Frank Kuo
+3/6/2012	2351 Fatjo Pl, Santa Clara, CA 95050	44	Frank Kuo
+3/6/2012	TEST TEST TEST	99	TEST TEST
+3/6/2012	TEST TEST TEST	99	TEST TEST
+3/7/2012	3131 Madeline St, Oakland, CA 94602	60	Vinny MaNguyen
+3/7/2012	10440 Oakville Ave, Cupertino, CA 95014	49	Randy Leo
+3/7/2012	1668 Mendenhall Dr, San Jose, CA 95130	33	Alan Huang
+3/8/2012	10570 Foothill Blvd, Cupertino, CA 94024	68	Mary Tan
+3/8/2012	1092 Prouty Way, San Jose 95129	36	Mae Chang
+3/8/2012	2211 Latham St Unit 122, Mountain View, CA 94040	37	Barbara Williams
+3/8/2012	1101 Furlong St, Belmont, CA 94002	40	Amelia Middel
+3/8/2012	1122 Banyan Way, Pacifica, CA 94044	50	Virginia Supnet
+3/9/2012	707 N Henry Ave, San Jose, CA 95117	24	Janki Patel
+3/9/2012	1159 Lincoln Ave, Palo Alto, CA 94301	98	Penelope Huang
+3/9/2012	238 Crestview Dr, San Carlos, CA 94070	71	Adele DellaSantina
+3/9/2012	812 Andromeda Ln, Foster City, CA, 94404	44	Stella Zhu
+3/10/2012	10239 Ainsworth Dr, Cupertino, CA 95014	91	Mary Tan
+3/12/2012	1828 Nakoma Ct, Fremont, CA 94539	58	Shahla Andesha
+3/13/2012	1242 Greenwood Ave, Palo Alto, CA 94301	54	Valerie Lo
+3/13/2012	20717 Celeste Cir, Cupertino, CA 95014	31	Darren Kimura
+3/13/2012	2149 Junction Ave Apt 1, Mountain View, CA 94043	48	Vicky Le
+3/13/2012	2076 Alameda Way, San Jose, CA 95126	54	Rob Godar
+3/13/2012	6259 Prospect Rd, San Jose, CA 95129		Jean Hu
+3/13/2012	4240 Wilkie Way, Palo Alto, CA 94306	61	Judy Shen
+3/13/2012	4871 Lago Vista Cir, San Jose, CA 95129	31	Jinny Ahn
+3/13/2012	40377 Loro Pl, Fremont, CA 94539	55	Kari Kuang
+3/14/2012	810 La Crosse Dr, Morgan Hill, CA 95037	48	Kim Connor
+3/14/2012	10385 Rivercrest Ct, Cupertino, CA 95014	50	Mary Tan
+3/14/2012	153 Fairbanks Ave, San Carlos, CA 94070	51	Lynne Mercer
+3/14/2012	2655 Sierra Rd, San Jose, CA 95132	48	Mae Chang
+3/14/2012	1220 Ridgemont Dr, Milpitas, CA 95035	53	Alana Lam
+3/15/2012	3035 Mcgarvey Ave, Redwood City, CA 94061	40	Doug Gonzalez
+3/15/2012	3912 Luneta Ct, San Jose, CA 95136	42	Kim Connor
+3/15/2012	1 Redding Pl, Oakland, CA 94619	67	Kate Phillips
+3/16/2012	819 Hooshang Ct, Cupertino, CA 95014	36	Terry Hong
+3/16/2012	80 Colorados Dr, Millbrae, CA 94030	58	Manie Kohn
+3/16/2012	1040 Happy Valley Ave, San Jose, CA 95129	58	Georgie Huff
+3/16/2012	667 Princess Pl, Milpitas, CA 95035	44	Julie Tsai-Law
+3/16/2012	168 Holly Ter, Sunnyvale, CA 94086	37	Alex Wang
+3/16/2012	1 Redding Pl, Oakland, CA 94619		Kate Phillips
+3/16/2012	11531 Well Spring Ct	60	Iris Ho
+3/17/2012	6244 Running Springs Rd, San Jose, CA 95135	71	Todd Zebb
+3/17/2012	2824 Paseo Ln, San Jose, CA 95124	58	Kathy Liu
+3/20/2012	18931 Barnhart Ave, Cupertino, CA 95014	55	Mary Tan
+3/20/2012	1153 Loyola Dr, Santa Clara, CA 95051	48	Bridgette Akunal
+3/20/2012	2821 Ashby Ave, Berkeley, CA 94705	61	David Otero
+3/20/2012	2821 Ashby Ave, Berkeley, CA 94705		David Otero
+3/20/2012	2821 Ashby Ave, Berkeley, CA 94705		David Otero
+3/20/2012	2821 Ashby Ave, Berkeley, CA 94705	Dummy for Payment. No Photos	David Otero
+3/20/2012	7907 Hillmont Dr, Oakland, CA 94605	50	Vinny MaNguyen
+3/20/2012	1312 Hill Ave, Menlo Park, CA 94025	35	Jaime Gonzalez
+3/20/2012	2803 Fordham St, East Palo Alto, CA 94303	27	Amelia Middel
+3/20/2012	13522 Debbie Ln, Saratoga, CA 95070	0	Jinny Ahn
+3/21/2012	1450 Mercer Ave, San Jose, CA 95125	55	Sara Greenwood
+3/21/2012	13522 Debbie Ln, Saratoga, CA 95070	45	Jinny Ahn
+3/21/2012	1450 Mercer Ave, San Jose, CA 95125	67	Sara Greenwood
+3/21/2012	39073 Donner Way, Fremont, CA 94538	56	William Chen
+3/22/2012	34134 Auden Ct, Fremont, CA 94555	49	Alice Hou
+3/22/2012	2743 Wemberly Dr, Belmont, CA 94002	59	Adele DellaSantina
+3/22/2012	207 S 16th St, San Jose, CA 95112	65	Georgie Huff
+3/23/2012	2226 Zoria Cir, San Jose, CA 95131	57	Brad Hung Le
+3/23/2012	13522 Debbie Ln, Saratoga, CA 95070		Jinny Ahn
+3/23/2012	616 Stendhal Ln, Cupertino, CA 95014	43	Mary Tan
+3/23/2012	362 Stacey Common, Fremont, CA 94539	40	Alex Wang
+3/24/2012	4567 Merrill Ave, Oakland, CA 94619	65	Alberto Murillo
+3/24/2012	138 Smith Ranch Ct, Los Gatos, CA 95032	55	Ady Wunderman
+3/26/2012	35317 Terra Cotta Cir, Fremont, CA 94536	58	Danli Liu
+3/26/2012	10260 Orange Avenue, Cupertino, CA 95014	27	Mary Tan
+3/26/2012	146 N. 12th Street, San Jose, 95112	28	Harjinder Singh
+3/26/2012	5967 Pala Mesa Dr, San Jose, CA 95123	42	Jeff Peng
+3/26/2012	3643 Rose Terrasse Cir, San Jose, CA 95148	13	Thuy Do
+3/27/2012	21102 Gardena Dr, Cupertino, CA 95014		Catherine Shen
+3/27/2012	10387 Amistad Ct, Cupertino, CA 95014	64	Mary Tan
+3/27/2012	3718 Morrie Dr, San Jose, CA 95127	56	Kathy Liu
+3/27/2012	878 Moreno Ave, Palo Alto, CA 94303	58	Judy Shen
+3/28/2012	126 Ferne Ave, Palo Alto, CA 94306	48	Howard Bloom
+3/28/2012	3251 Parkhaven Dr, San Jose, CA 95132	33	Christine LeQuang
+3/28/2012	760 Luce Ct, Mountain View, CA 94041	35	William Chen
+3/28/2012	805 Pitkin Loop, San Jose, CA 95125	44	Shilpa Merchant and 
+3/28/2012	17930 Bucknall Rd, San Jose, CA 95130	36	Alex Lo
+3/28/2012	6318 Skywalker Dr, San Jose, CA 95135	72	Howard Bloom
+3/29/2012	12121 Foothill Ln, Los Altos Hills, CA 94022	67	Clara Lee
+3/29/2012	714 Colleen Dr, San Jose, CA 95123	61	Angie Cocke
+3/29/2012	881 Rattan Ter, Sunnyvale CA 94086	53	Dennis Wu
+3/30/2012	465 Fathom Drive Unit 212, San Mateo CA 94404	40	Alex Wang
+3/30/2012	333 Santana Row Unit 310	24	Eric Greenwood
+3/30/2012	1338 Castillo Ave, Burlingame, CA 94010	89	Manie
+3/30/2012	21741 Alcazar Ave, Cupertino, CA 95014	43	Mary Tan
+4/2/2012	3480 Tracy Dr, Santa Clara, CA 95051	39	Lisa Leung
+4/2/2012	3715 Terstena Place Unit 105, Santa Clara CA, 95051	35	Frank Kuo
+4/2/2012	7408 Stanford Place, Cupertino, 95014	51	Alana Lam
+4/3/2012	542 Mariposa Ave, Mountain View, CA 94041	43	Nisha Sharma
+4/3/2012	11355 Ettrick St, Oakland, CA 94605	74	Tami Bobb
+4/3/2012	6315 Mayo Dr, San Jose, CA 95123	41	Angie Cocke
+4/3/2012	21910 Hermosa Ave, Cupertino, CA 95014	50	Nancy Sun
+4/3/2012	2145 Mount Pleasant Rd, San Jose, CA 95148	19	Thuy Do
+4/4/2012	1464 Jamestown Dr, Cupertino, CA 95014	51	Catherine Qian
+4/4/2012	1101 W Knickerbocker Dr, Sunnyvale, CA 94087	40	Wendy Wu
+4/4/2012	1587 Prosperity Ct, San Jose, CA 95131	42	Cindy Liu
+4/5/2012	98 Walnut Ave, Atherton, CA 94027		Inna Beardsley
+4/5/2012	1701 Albemarle Way, Burlingame, CA 94010	69	Christine Ko
+4/5/2012	134 Azalea Dr, Mountain View, CA 94041	78	Keith Robertson
+4/6/2012	12280 Country Squire Ln, Saratoga, CA 95070	52	Mary Tan
+4/6/2012	10573 Randy Ln, Cupertino CA 95014	56	Darren Kimura
+4/7/2012	905 Raintree Ct, San Jose, CA 95129	45	Lydia Wang
+4/7/2012	Anthony	11	Keith Robertson
+4/9/2012	226 Morgan Ln, Menlo Park, CA 94025	45	Inna Beardsley
+4/9/2012	336 Bryant St, Mountain View, CA 94041	43	Alex Wang
+4/9/2012	5854 Antigua Dr, San Jose, CA 95120	49	Chris Lussier
+4/9/2012	21910 Hermosa Ave, Cupertino, CA 95014	45	Nancy Sun
+4/10/2012	2124 Cherrystone Dr, San Jose, CA 95128	34	Kim Connor
+4/11/2012	20543 Ashley Way, Saratoga, CA 95070	90	Julie Tsai-Law
+4/11/2012	20543 Ashley Way, Saratoga, CA 95070	45	Julie Tsai-Law
+4/11/2012	1087 Ticonderoga Dr, Sunnyvale, CA 94087	35	Sheila Benson
+4/11/2012	1027 Hiawatha Ct, Sunnyvale, CA 94087	40	Coco Tan
+4/12/2012	935 Upton St, Redwood City, CA 94061	31	Jaime Gonzalez
+4/13/2012	7848 Jeanette Ct, Cupertino, CA 95014	56	Mary Tan
+4/13/2012	606 San Conrado Terrace Unit 3, Sunnyvale, CA 94085	17	Edmund Yue
+4/13/2012	4568 Delores Dr, Union City, CA 94587	45	Alice Hou
+4/14/2012	424 N 11th St, San Jose, CA 95112	57	Jerry Kwok
+4/15/2012	1234 Main St, Oakland, CA 94403	55	John Smith
+4/15/2012	1234 Main St, Oakland, CA 94403	55	John Smith
+4/15/2012	1234 Main St, Oakland, CA 94403	55	John Smith
+4/15/2012	1234 Main St, Oakland, CA 94403	55	John Smith
+4/15/2012	1234 Main St, Oakland, CA 94403	55	John Smith
+4/15/2012	1234 Main St, Oakland, CA 94403	55	John Smith
+4/15/2012	1234 Main St, Oakland, CA 94403	55	John Smith
+4/16/2012	3999 Greenwood Ave, Oakland, CA 94602	39	Valerie Quade
+4/16/2012	285 Stierlin Rd, Mountain View, CA 94043	42	Tariq Roomi
+4/16/2012	1244 Bellevue Ave Apt 7, Burlingame, CA 94010	40	Manie Kohn
+4/16/2012	1031 Clyde Ave Apt 1404, Santa Clara, CA 95054	19	Shelly Chou
+4/16/2012	22360 Santa Paula Ave, Cupertino, CA 95014	76	Cindy Hsu
+4/17/2012	7848 Jeanette Ct, Cupertino, CA 95014	33	Mary Tan
+4/17/2012	964 Apricot Ave, Campbell, CA 95008	23	James Fucillo
+4/17/2012	419 Hogarth Ter, Sunnyvale, CA 94087	39	Alex Wang
+4/17/2012	22360 Santa Paula Ave, Cupertino, CA 95014	4	Cindy Hsu
+4/17/2012	2434 Alvin St, Mountain View, CA 94043	40	Lynne Mercer
+4/18/2012	5425 Borgia Rd, Fremont, CA 94538	39	Annie Ling Zhou
+4/18/2012	3831 May Ct, Palo Alto, CA 94303	49	Delie Fei
+4/19/2012	1550 Mariposa Ave, Palo Alto, CA 94306	46	Caitlin Darke
+4/19/2012	1597 Shirley Ave, Los Altos, CA 94024	49	Manie Kohn
+4/19/2012	2515 Hazelwood Way, East Palo Alto, CA 94303	35	Jaime Gonzalez
+4/20/2012	902 Wharfside Road, San Mateo, CA 94404	51	Jaime Gonzalez
+4/20/2012	2423 Moraine Dr, Santa Clara, CA 95051	46	Kim Connor
+4/20/2012	1456 Murwood Dr, Walnut Creek, CA 94596 	47	Joe Metz
+4/20/2012	404 Jonathan Ridge Dr, Danville, CA 94506	87	Ruhi Alikhan
+4/20/2012	568 Rhodes Dr Palo Alto, CA 94303	5	Julie Tsai Law
+4/20/2012	802 Bruce Dr Palo Alto, CA 94303	6	Julie Tsai Law
+4/21/2012	1381 Warner Ave, Sunnyvale, CA 94087	58	Jinny Ahn
+4/21/2012	202 Castilian Way, San Mateo, CA 94402	59	Joann Weber
+4/21/2012	851 San Marco Ave, Fremont, CA 94539	71	Dennis Liu
+4/22/2012		0	
+4/23/2012	421 Moana Way, Pacifica, CA 94044	39	Ron Kucera
+4/23/2012	197 Meadowland Dr, Milpitas, CA 95035	40	Frank Kuo
+4/23/2012	5581 Butano Park Dr, Fremont, CA 94538	33	Cindy Liu
+4/23/2012	10201 Nile Dr, Cupertino, CA 95014	29	Jane Wang
+4/23/2012	180 Warwick Dr, Campbell, CA, 95008	39	Bridgette Akunal
+4/24/2012	864 Bauer Dr, San Carlos, CA 94070	18	Doug Gonzalez
+4/24/2012	201 Mirada Rd, Half Moon Bay, CA 94019	43	Lynnette Giusti
+4/24/2012	777 San Antonio Rd Apt 19, Palo Alto, CA 94303	41	Roberta Murai
+4/25/2012	277 Rayos Del Sol Dr, San Jose, 95116	44	Harjinder Singh
+4/25/2012	1923 Mountain Creek Ct, San Jose, 95148	44	Harjinder Singh
+4/25/2012	18881 Carson Lane, Castro Valley, CA 94552	37	Karen Lin
+4/25/2012	800 High St Apt 115, Palo Alto, CA 94301	24	Manie Kohn
+4/25/2012	800 High St Apt 115, Palo Alto, CA 94301	10	Manie Kohn
+4/25/2012	4379 Briar Cliff Rd, Oakland, CA 94605	56	Jimmy Tam
+4/25/2012	864 Bauer Dr, San Carlos, CA 94070	49	Doug Gonzalez
+4/26/2012	802 Bruce Dr Palo Alto, CA 94303	75	Julie Tsai Law
+4/26/2012	833 Sonoma Terrace, Stanford, CA 94305	56	Ron Kucera
+4/26/2012	1030 Castleton Ter Apt E, Sunnyvale, CA 94087	37	Shelly Chou
+4/26/2012	316 Costello Dr, Los Altos, CA 94024	70	Christy Ying
+4/26/2012	3821 Abbey Ct, Campbell, CA 95008	44	Tommy Tse
+4/26/2012	2764 Glauser Drive, San Jose CA 95133	57	Kim Connor
+4/27/2012	2835 Schooner Ct, San Jose, CA 95148	36	Len Ha
+4/27/2012	579 Mccarty Ave, Mountain View, CA 94041	13	Howard Bloom
+4/27/2012	11256 Palos Verdes Ct, Cupertino, CA 95014	54	Mary Tan
+4/28/2012	10130 Santa Clara Av, Cupertino, CA 95014	57	Maggie Paul
+4/30/2012	3432 65th Ave, Oakland, CA 94605	40	Jenny Wu
+5/1/2012	1238 Loyola Dr, Santa Clara, CA 95051	39	Bridgette Akunal
+5/1/2012	1517 Wendy Way, San Jose, CA 95125	43	Miri Bialek
+5/1/2012	802 Bruce Dr, Palo Alto, CA 94303		Julie Tsai Law
+5/1/2012	1003 Bryant Way, Sunnyvale, CA 94087	42	Harjinder Singh
+5/1/2012	27920 Moody Rd, Los Altos Hills, CA 94022	11	Heather Hansen
+5/1/2012	552 Encina Ave, Menlo Park, CA 94025	56	Doug Gonzalez
+5/2/2012	82 S 17th St, San Jose, CA 95112	89	Georgie Huff
+5/2/2012	1530 Cabrillo Ave, Santa Clara, CA 95050	34	Kim Conner
+5/2/2012	43252 Lindenwood St, Fremont, CA 94538	33	Vicki Li
+5/2/2012	575 Bobolink Cir, Sunnyvale, CA 94087	45	Michael Frangadakis
+5/2/2012	315 Loreto St, Mountain View, CA 94041	0	Tori Corbett
+5/2/2012	579 Mccarty Ave, Mountain View, CA 94041	44	Howard Bloom
+5/2/2012	1070 Mercedes Ave Unit 6, Los Altos, CA 94022	39	Clara Lee
+5/2/2012	3424 Cowper Ct, Palo Alto, CA 94306	71	Deepak Sainanee
+5/2/2012	4353 Watson Cir, Santa Clara, CA 95054	34	Dennis Wu
+5/2/2012	986 Alpine Ter Apt 2, Sunnyvale, CA 94086	34	Frank Kuo
+5/3/2012	19460 Solitaire Court, Castro Valley, CA 94546	12	Torie
+5/3/2012	2335 Menzel Place Santa Clara 95050	43	Kim Connor
+5/3/2012	2274 Dry Creek Ct, San Jose, CA 95124	43	Anita Hunter
+5/3/2012	3767 Ruby St, Oakland, CA 94609	0	Bobbi Vogel
+5/4/2012	1408 Magnolia Ave, Millbrae, CA 94030		Lynnette Giusti
+5/4/2012	20635 Nancy Ct, Cupertino, CA 95014	49	Mary Tan
+5/4/2012	2423 Kehoe Ave, San Mateo, CA 94403	35	Heather Hansen
+5/4/2012	2423 Kehoe Ave, San Mateo, CA 94403	35	Heather Hansen
+5/4/2012	902 Bowen Ave, San Jose, CA 95123	56	Myrt Bauer
+5/5/2012	902 Bowen Ave, San Jose, CA 95123	56	Myrt Bauer
+5/5/2012	1601 Deerfield Dr, San Jose, CA 95129	47	Albert Ho
+5/5/2012	1558 Mercy St, Mountain View, CA 94041	41	Michael Galli
+5/7/2012	82 S 17th St, San Jose, CA 95112	3	Georgie Huff
+5/7/2012	102 Pacchetti Way, Mountain View, CA 94040	39	Afsie Mina
+5/7/2012	2655 Church Ave, San Martin, CA 95046	78	Manie Kohn
+5/7/2012	7124 Via Carmela, San Jose, CA 95139	36	Angie Cocke
+5/7/2012	32509 Sheila Way, Union City, CA 94587	57	Danli Liu
+5/7/2012	2655 Church Ave, San Martin, CA 95046	55	Manie Kohn
+5/8/2012	1361 Mckinley Ct, San Jose, CA 95126	28	Frank Kuo
+5/9/2012	1658 Kevin Dr, San Jose, CA 95124	43	Priscilla Wang
+5/9/2012	68 E Younger Ave, San Jose, CA 95112	33	Jerry Kwok
+5/9/2012	1219 Stellar Way, Milpitas, CA 95035	49	Harjinder Singh
+5/9/2012	1786 Lamont Ct, Sunnyvale, CA 94087	53	Howard Bloom
+5/9/2012	Palo Alto Menlo Park Mountain View Los Altos Community Shots	47	Julie Tsai Law
+5/10/2012	1601 Shirley Ave, Los Altos, CA 94024	73	Manie Kohn
+5/10/2012	1601 Shirley Ave, Los Altos, CA 94024	13	Manie Kohn
+5/10/2012	Palo Alto Menlo Park Mountain View Los Altos Community Shots 2	4 Zip files	Julie Tsai Law
+5/11/2012	1553 Keesling Ave, San Jose, CA 95125	63	Leeland Wong
+5/11/2012	1106 Brooks Range Lndg, San Jose, CA 95131	26	Thuy Do
+5/11/2012	82 Lloyden Dr, Atherton, CA 94027	115	Manie Kohn
+5/11/2012	3521 Tracy Dr, Santa Clara, CA 95051	41	Lisa Leung
+5/11/2012	1542 Four Oaks Cir, San Jose, CA 95131	21	Thuy Do
+5/11/2012	568 Rhodes Dr, Palo Alto, CA 94303	64	Julie Tsai Law
+5/12/2012	21865 San Fernando Ave, Cupertino, CA 95014	64	Mary Tan
+5/13/2012	568 Rhodes Dr, Palo Alto, CA 94303	41	Julie Tsai Law
+5/14/2012	1291 Crescent Ter, Sunnyvale, CA 94087	3	Tariq Rafeeqi
+5/14/2012	6225 Paso Los Cerritos, San Jose, CA 95120	50	Scott Petters
+5/14/2012	19755 Lanark Ln, Saratoga, CA 95070	34	Anita Hunter
+5/14/2012	405 Chesley Ave, Mountain View, CA 94040	10	Todd Zebb
+5/14/2012	425 S 13th St, San Jose, CA 95112	28	Frank Kuo
+5/15/2012	19755 Lanark Ln, Saratoga, CA 95070	45	Anita Hunter
+5/15/2012	139 Azalea Dr, Mountain View, CA 94041	41	Inna Beardsley
+5/15/2012	777 Charmain Dr, Campbell, CA 95008	57	Clara Lee
+5/15/2012	4438 Madoc Way, San Jose, CA 95130	49	Christina Perng
+5/15/2012	1291 Crescent Ter, Sunnyvale, CA 94087	37	Tariq Rafeeqi
+5/16/2012	731 Shasta Fir Dr, Sunnyvale, CA 94086	34	Alex Wang
+5/16/2012	731 Shasta Fir Dr, Sunnyvale, CA 94086	28	Alex Wang
+5/16/2012	425 S 13th St, San Jose, CA 95112	74	James Fucillo
+5/16/2012	279 Snell Ct, San Jose, CA 95123	34	Angie Cocke
+5/16/2012	279 Snell Ct Final, San Jose, CA 95123	45	Angie Cocke
+5/16/2012	659 39th St, Oakland, CA 94609	32	Jenny Wu
+5/16/2012	1277 Tea Rose Circle, San Jose, 95131	25	Alana Lam
+5/16/2012	2243 Woodranch Dr	46	kathy liu
+5/16/2012	7152 Via Romera, San Jose, CA 95139	24	Angie Cocke
+5/16/2012	2243 Woodranch Dr, San Jose, CA 95131	 46	Kathy Liu
+5/18/2012	2182 Fell St, San Francisco, CA 94117	35	Holly Stockman
+5/18/2012	16 Jessie St Unit 212, San Francisco, CA 94105	9	Julie Tsai Law
+5/18/2012	924 Haven Ave, Redwood City, CA 94063 		Inna Beardsley
+5/18/2012	924 Haven Ave, Redwood City, CA 94063 	29	Inna Beardsley
+5/18/2012	6170 Heathercreek Way, San Jose, CA 95123	39	Angie Cocke
+5/18/2012	21204 Sullivan Way, Saratoga, CA 95070	52	Jerry Kwok
+5/18/2012	1152 Fairview Ave, Redwood City, CA 94061	39	Jaime Gonzalez
+5/18/2012	13122 Heath St, Saratoga, CA 95070	44	Jaleh Taghipour
+5/21/2012	10326 Byrne Ave, Cupertino, CA 95014	40	Mary Tan
+5/22/2012	50 Jordan Pl, Palo Alto, CA 94303	52	Julie Tsai Law
+5/22/2012	Palo Alto Community Shots 2	13+122	Julie Tsai Law
+5/22/2012	659 39th St, Oakland, CA 94609	21	Jenny Wu
+5/22/2012	16 Jessie St, San Francisco, CA 94105	27	Julie Tsai Law
+5/22/2012	243 Coy Dr, San Jose, CA 95123	37	Kim Connor
+5/23/2012	5102 Congress Ave, Oakland, CA 94601	45	Sunny Kim
+5/23/2012	5102 Congress Ave, Oakland, CA 94601	45	Sunny Kim
+5/23/2012	41000 Pajaro Dr, Fremont, CA 94539	47	Jane Lok
+5/23/2012	308 Northumberland Ave, Redwood City, CA 94061	34	Alex Wang
+5/24/2012	1048 Colony Hills Ln, Cupertino, CA 95014	68	Alana Lam
+5/24/2012	49 Showers Dr Unit J227, Mountain View, CA 94040	46	Julie Tsai Law
+5/24/2012	May \'12 Comcast	None	
+5/24/2012	Blank email for other payment. No photos. Ignore	0	Blank email for other payment. No photos. Ignore
+5/24/2012	742 Eden Ave, San Jose, CA 95117 	40	Phuong Sharp
+5/24/2012	2918 Maxwell Ave, Oakland, CA 94619	41	Kenny Truong
+5/26/2012	100 Manzanita Way, Woodside, CA 94062	33	Sara Khan
+5/26/2012	141 Valley Rd, San Carlos, CA 94070	49	Estela Freeman
+5/26/2012	1325 Elsona Ct, Sunnyvale, CA 94087	64	Mary Tan
+5/26/2012	12170 Padre Ct, Los Altos, CA 94022	65	Alex Wang
+5/26/2012	12170 Padre Ct Twilights, Los Altos, CA 94022	25	Alex Wang
+5/29/2012	2790 George Blauer Pl, San Jose, CA 95135	57	Kim Connor
+5/29/2012	152 Thompson Ave, Mountain View, CA 94043	37	Yamei Lee
+5/29/2012	12170 Padre Ct, Los Altos, CA 94022	53 including Part 	Alex Wang
+5/29/2012	1479 Barton Dr, Sunnyvale, CA 94087		Sheila Benson
+5/29/2012	2857 Darius Way, San Leandro, CA 94577	96	Kenneth Kwan
+5/30/2012	1205 Happy Valley Ave, San Jose, CA 95129	59	Howard Bloom
+5/30/2012	1116 Del Norte Ave, Menlo Park, CA 94025	30	Bob Williams
+5/30/2012	1112 Tahoe Dr, Belmont, CA 94002	45	Adele DellaSantina
+5/30/2012	356 Hazel Ave, San Bruno, CA 94066	72	Joe Metz
+5/31/2012	1205 Happy Valley Ave, San Jose, CA 95129	59	Howard Bloom
+5/31/2012	1116 Del Norte Ave, Menlo Park, CA 94025	30	Bob Williams
+5/31/2012	316 Costello Dr Guest House, Los Altos, CA 94024	14	Christy Ying
+5/31/2012	10045 Orange Ave, Cupertino, CA 95014	43	Surjit Kaur-Grewal
+6/1/2012	20606 Murano Cir, Cupertino, CA 95014	33	Amy Ma
+6/1/2012	20606 Murano Cir, Cupertino, CA 95014	33	Amy Ma
+6/1/2012	12571 Paseo Cerro, Saratoga, CA 95070	56	Jaleh Taghipour
+6/1/2012	3 Tiara Ct, Burlingame, CA 94010	87	Manie Kohn
+6/4/2012	3101 Partridge Ave, Oakland, CA 94605	50	Vinny MaNguyen
+6/5/2012	21745 Regnart Rd, Cupertino, CA 95014	52	Julie Tsai Law
+6/5/2012	21745 Regnart Rd, Cupertino, CA 95014	15	Julie Tsai Law
+6/5/2012	21745 Regnart Rd, Cupertino, CA 95014	35 Video Clips 	Julie Tsai Law
+6/5/2012	48 Lydia Ave, San Francisco, CA 94124		Linda Li
+6/5/2012	1233 Bellevue Avenue Unit 6, Burlingame, CA, 94010	47	Manie Kohn
+6/5/2012	2728 Capitola Ter, Fremont, CA 94539	22	Nancy Sun
+6/5/2012	3075 Hope Street, San Jose, CA 95111	40	Harjinder Singh
+6/5/2012	3075 Hope Street, San Jose, CA 95111	23	Harjinder Singh
+6/5/2012	1808 Villa St, Mountain View, CA 94041	30	Michael Galli
+6/6/2012	3333 Kimberly Way, San Mateo, CA 94403	52	Manie Kohn
+6/6/2012	1832 Farndon Ave, Los Altos, CA 94024	54	Judy OBrien
+6/6/2012	6297 Valroy Dr	18	Angie Cocke
+6/6/2012	250 Oakview Dr, San Carlos, CA 94070	80	Manie Kohn
+6/6/2012	250 Oakview Dr, San Carlos, CA 94070	51 video clips	Manie Kohn
+6/6/2012	1880 Golden Way, Mountain View, CA 94040	54	Eric Fischer-Colbrie
+6/6/2012	983 Robin Ln, Campbell, CA 95008	40	Tommy Tse
+6/7/2012	6297 Valroy Dr	18	Angie Cocke
+6/7/2012	1687 Bayridge Way Unit 116, San Mateo, CA 94402 	38	Manie Kohn
+6/8/2012	1367 Sevier Ave, Menlo Park, CA 94025	40	Geoff Phelps
+6/11/2012	625 E El Camino Real Unit 102, Sunnyvale, CA 94087	24	Frank Kuo
+6/11/2012	4158 Tobin Circle, Santa Clara, CA 95054	36	Alana Lam
+6/11/2012	10260 Danube Dr, Cupertino, CA 95014	25	Jane Wang
+6/12/2012	20232 Williamsburg Ln, Saratoga, CA 95070	26	Jack Myers
+6/12/2012	1390 W Dana St, Mountain View, CA 94041	22	Michael Galli
+6/12/2012	1486 Thunderbird Ave, Sunnyvale, CA 94087		Sheila Benson
+6/12/2012	890 Robb Rd, Palo Alto, CA 94306	41	Julie Tsai Law
+6/12/2012	890 Robb Rd, Palo Alto, CA 94306	28 video clips 	Julie Tsai Law
+6/12/2012	6053 Foothill Glen Ct, San Jose, CA 95123	37	Frank Kuo
+6/12/2012	155 Sweetberry Ct, San Jose, CA 95136	40	Frank Kuo
+6/13/2012	768 Caldwell Pl, Santa Clara, CA 95051	31	Kim Connor
+6/13/2012	230 Briar Ln, San Mateo, CA 94403	55	Manie
+6/14/2012	1382 Revere Ave, San Francisco, CA 94124	60	Brandon Sen
+6/14/2012	2649 Basswood Dr, San Ramon, CA 94582	68	Trisha Ho
+6/15/2012	1930 Mt Vernon Ct Unit 7, Mountain View, CA 94040	37	Alex Wang
+6/15/2012	10161 Hillcrest Rd, Cupertino, CA 95014	61	Mary Tan
+6/15/2012	10382 Palo Vista Rd, Cupertino, CA 95014	60	Tracy Hsu
+6/15/2012	5152 Rafton Dr, San Jose, CA 95124	44	Kathy Liu
+6/16/2012	40 Bishop Oak Ct, Menlo Park, CA 94025	97	Tom Correia
+6/16/2012	10823 E Estates Dr, Cupertino, CA 95014	38	Lydia Wang
+6/18/2012	2217 Cherrystone Drive, San Jose, CA 95128	40	Patrick Johnson
+6/18/2012	175 W St James St, San Jose, CA 95110	25	Frank Kuo
+6/18/2012	8011 Sunkist Dr, Oakland, CA 94605	70	Vinny MaNguyen
+6/19/2012	405 Chesley Ave, Mountain View, CA 94040	78	Todd Zebb
+6/19/2012	933 W Dana St, Mountain View, CA 94041	53	Catherine Qian
+6/19/2012	125 Birch Way, San Rafael, CA 94903	47	Sunny Kim
+6/19/2012	7794 Huntridge Ln, Cupertino, CA 95014	41	Mary Tan
+6/19/2012	6678 Dorene Pl, San Jose, CA 95120	45	Jinny Ahn
+6/19/2012	1090 Moreno Ave, Palo Alto, CA 94303	50	Sebastian Wong
+6/20/2012	84 Eucalyptus Rd, Berkeley, CA 94705		Tami Bobb
+6/20/2012	2943 Vineyard Park Dr, San Jose, CA 95148	31	Ravi Shah
+6/20/2012	10207 Orange Ave, Cupertino, CA 95014	64	Zack Hou
+6/20/2012	10207 Orange Ave, Cupertino, CA 95014	36 Video Clips 	Zack Hou
+6/20/2012	4451 Jacinto Dr, Fremont, CA 94536	47	Grace Li
+6/20/2012	1349 Zurich Ter, Sunnyvale, CA 94087	46	Susan Enzmann
+6/21/2012	445 Santa Margarita Ave, Menlo Park, CA 94025	58	Bob Williams
+6/21/2012	10416 Johnson Ave, Cupertino, CA 95014	48	Nemo How
+6/22/2012	975 Planetree Pl, Sunnyvale, CA 94086		Sheila Benson
+6/22/2012	2047 Montecito Ave Apt 2, Mountain View, CA 94043	41	Lisa Loud
+6/22/2012	1216 Drake Ave, Burlingame, CA 94010	60	Manie Kohn
+6/22/2012	2671 Sugarplum Dr, San Jose, CA 95148	32	Ravi Shah
+6/25/2012	3118 18th St Apt 3, San Francisco, CA 94110	32	Lynette Giusti
+6/25/2012	4375 Darwin Dr, Fremont, CA 94555	58	Cindy Liu
+6/25/2012	14829 Sutton Dr, San Jose, CA 95124	71	Priscilla Wang
+6/25/2012	10207 Orange Ave, Cupertino, CA 95014	4	Zack Hou
+6/25/2012	1024 Smith Ave, Campbell, CA 95008	29	Olga Dorf
+6/26/2012	263 Irvington St, Daly City, CA 94014	55	Jaime Gonzalez
+6/26/2012	2869 S Bascom Ave Unit 501, Campbell, CA 95008	42	Frank Kuo
+6/26/2012	8151 Presidio Dr, Cupertino, CA 95014	51	Gladys Morais
+6/26/2012	1448 Regalo Ct, San Jose, CA 95128	58	Bridgette Akunal
+6/26/2012	6467 Hidden Creek Ct, San Jose, CA 95120	44	Leslie Zhong
+6/27/2012	184 Castro Ln, Fremont, CA 94539	69	Maggie Paul
+6/27/2012	923 The Dalles Ave, Sunnyvale, CA 94087	46	Jinny Ahn
+6/27/2012	1931 James Ave, Redwood City, CA 94062	56	Doug Gonzalez
+6/27/2012	916 Fourier Dr, San Jose, CA 95127	35	Harjinder Singh
+6/27/2012	536 Almaden Walk Loop, San Jose, CA 95125	28	Frank Kuo
+6/28/2012	3863 Ross Rd, Palo Alto, CA 94303	54	Shoshana Soha
+6/28/2012	279 Snell Ct, San Jose, CA 95123	15	Angie Cocke
+6/28/2012	1683 Cherry Grove Dr, San Jose, CA 95125	63	Katie Duus
+6/29/2012	1806 Tambour Way, San Jose, CA 95131	47	Aaron Schubbe
+6/29/2012	144 S 3rd St Unit 505, San Jose, CA 95112	35	Nathan Nguyen
+6/29/2012	15875 La Mirada Ct, Morgan Hill, CA 95037	55	Kathy Liu
+6/29/2012	1390 W Dana St, Mountain View, CA 94041	8	Michael Galli
+6/29/2012	1390 W Dana St, Mountain View, CA 94041	8	Michael Galli
+6/29/2012	1395 Delfino Way, Menlo Park, CA 94025	44	Holly Stockman
+7/2/2012	1033 Scotia Ter Unit 201, Sunnyvale, CA 94089	42	Frank Kuo
+7/3/2012	3761 Benton St, Santa Clara, CA 95051	61	Yvonne Mei
+7/3/2012	10 Victor Park Ln, Hillsborough, CA 94010	110	Manie Kohn
+7/3/2012	36696 Charles St, Newark, CA 94560	48	Laura Flores
+7/4/2012	1124 Corvallis Dr, San Jose, CA 95120	40	Rod Creason
+7/4/2012	10630 Stokes Ave, Cupertino, CA 95014	50	Ella Sun
+7/4/2012	19337 Sakura Way, Cupertino, CA 95014	36	Byong Nowatzki
+7/4/2012	144 S 3r st Unit 505, San Jose, CA 95112	17	Nathan Nguyen
+7/4/2012	36696 Charles St, Newark, CA 94560	2	Laura Flores
+7/9/2012	4277 Park Blvd, Palo Alto, CA 94306	57	Jerry Kwok
+7/10/2012	3021 Millsbrae Ave, Oakland, CA 94605	54	Sunny Kim
+7/10/2012	933 Laguna Creek Ln, Pleasanton, CA 94566	9	Tommy Tse
+7/10/2012	43395 Luzon Ct, Fremont, CA 94539	67	Eric Soderlund
+7/10/2012	745 Dartmouth Pl, Gilroy, CA 95020	51	Kim Connor
+7/10/2012	32530 Sheila Way, Union City, CA 94587	70 something	Danli Liu
+7/11/2012	234 Peppermint Tree Ter Unit 1, Sunnyvale, CA 94086	33	Alex Wang
+7/12/2012	Ponderosa Cove Seabreeze Eden Shores Twin Bridge	2 zips = 97 total	Yvette Teng
+7/12/2012	933 Laguna Creek Ln, Pleasanton, CA 94566	76	Tommy Tse
+7/12/2012	1951 OFarrell St Unit 205, San Mateo, CA 94403	64	Manie Kohn
+7/12/2012	2188 Northampton Dr, San Jose, CA 95124	65	Roberta Murai
+7/13/2012	3287 Napa Dr, San Jose, CA 95148	64	Edmund Yue
+7/13/2012	691 Benvenue Ave, Los Altos, CA 94024	27	Estela Freeman
+7/13/2012	811 Kingfisher Ter, Sunnyvale, CA 94087	15	Chandru Bhambhra
+7/13/2012	21353 Vai Ave, Cupertino, CA 95014	84	Mary Tan
+7/14/2012	2270 Lansford Avenue, San Jose 95125	71	Joe Carrero
+7/14/2012	10706 Par Three Dr, Cupertino, CA 95014	62	Mary Tan
+7/14/2012	108 Clover Ln, Menlo Park, CA 94025	5	Julie Tsai Law
+7/17/2012	2995 Melendy Dr Apt 3, San Carlos, CA 94070	52	Jaime Gonzalez
+7/17/2012	10475 Byrne Ave, Cupertino, CA 95014	52	Mary Tan
+7/17/2012	108 Clover Ln, Menlo Park, CA 94025	38	Mary Tan
+7/17/2012	1630 Peacock Ave, Sunnyvale, CA 94087	40	Olivia Lee
+7/17/2012	4876 Reinhardt Dr, Oakland, CA 94619	62	Bill Truong
+7/17/2012	21353 Vai Ave, Cupertino, CA 95014	21	Mary Tan
+7/17/2012	11 Heritage Pl, Menlo Park, CA 94025	57	Inna Beardsley
+7/17/2012	42461 Olive Ct, Fremont, CA 94539	68	Charlene Pien
+7/17/2012	6578 Catamaran St, San Jose, CA 95119	31	Frank Kuo
+7/17/2012	2015 Saint Julien Ct, Mountain View, CA 94043	41	Howard Bloom
+7/17/2012	6770 Charlene Ct, San Jose, CA 95129	53	Lydia Wang
+7/17/2012	234 Peppermint Tree Ter Unit 1, Sunnyvale, CA 94086	35 Video Clips 	Alex Wang
+7/18/2012	1157 Blair Ave, Sunnyvale, CA 94087	20	Sheila Benson
+7/18/2012	3720 Heron Way, Palo Alto, CA 94303	43	Kim Connor
+7/18/2012	999 Loma Verde Ave	58	Jean Chu
+7/18/2012	3826 West St, Oakland, CA 94608	52	Jenny Wu
+7/19/2012	139 Centre St, Mountain View, CA 94041	31	Cynthia Chang
+7/19/2012	1816 Club Dr, Gilroy, CA 95020	69	Kim Connor
+7/19/2012	22530 Ricardo Rd, Cupertino, CA 95014	84	Doris Keren Gill
+7/19/2012	21353 Vai Ave, Cupertino, CA 95014	58 video clips	Mary Tan
+7/19/2012	1157 Blair Ave, Sunnyvale, CA 94087	additional 8 photos	Sheila Benson
+7/20/2012	12 Mission Ridge Ct, Fremont, CA 94539	75	Maggie Paul
+7/20/2012	467 Virginia Ave, Moss Beach, CA 94038	46	Jaime Gonzalez
+7/20/2012	30423 Treeview St, Hayward, CA 94544	41	Brian McKinzie
+7/20/2012	10334 Alpine Dr Unit B, Cupertino, CA 95014 	47	Betty Lin
+7/20/2012	264 Shimmer Ct	38	 Alana Lam
+7/20/2012	23214 Maud Ave, Hayward, CA 94541	46	Joe Metz
+7/20/2012	936 Colonial Ln, Palo Alto, CA 94303	49	Anita Hunter
+7/20/2012	3737 Sky Ct, San Mateo, CA 94403	68	Jaime Gonzalez
+7/20/2012	349 Rishell Dr, Oakland, CA 94619		Kristen von Bargen
+7/20/2012	4245 Rickeys Way Unit K, Palo Alto, CA 94306	57	Jinny Ahn
+7/21/2012	699 Waltham St, Mountain View, CA 94022	62	Todd Zebb
+7/21/2012	4608 Batten Way, San Jose, CA 95135	108	Mark Wong
+7/21/2012	6051 Pineland Ave, San Jose, CA 95123	40	John Bowman
+7/21/2012	5811 Killarney Cir, San Jose, CA 95138	43	Terry Jarrouche
+7/21/2012	936 Colonial Ln, Palo Alto, CA 94303	40	Anita Hunter
+7/21/2012	35703 Ballantine Pl, Fremont, CA 94536 	78	Danli Liu
+7/23/2012	759 Orion Ln, Foster City, CA 94404	63	Frank Kuo
+7/23/2012	670 Market St Santa Cruz, CA 95065	52	Aruna Batra
+7/23/2012	5000 Camden St, Oakland, CA 94619	5	Vinny MaNguyen
+7/23/2012	825 Pescadero Dr, San Jose, CA 95123	43	Angie Cocke
+7/23/2012	1446 Heckman Way, San Jose, CA 95129	36	Thuy Do
+7/23/2012	772 Viader Ct, Santa Clara, CA 95050	34	John Bowman
+7/23/2012	1029 Cervantez Ct, Milpitas, CA 95035	59	Fred Lam
+
+7/25/2012	3833 W Naughton Ave, Belmont, CA 94002	71	Josie Chen
+7/25/2012	1553 Jefferson Ave, Redwood City, CA 94062	37	Art Sharif
+7/26/2012	531 Inverness Dr, Pacifica, CA 94044	43	Jaime Gonzalez
+7/26/2012	TEST TEST TEST	99	Julia Li
+7/26/2012	1234 Test St, Test, CA 94403	99	Test Realtor
+7/26/2012	1234 Test St, Test, CA 94403 Christian2	99	
+7/26/2012	1553 Jefferson Ave, Redwood City, CA 94062	34	
+7/26/2012	531 Inverness Dr, Pacifica, CA 94044	43	
+7/31/2012	1164 N Abbott Ave, Milpitas, CA 95035	22	Frank Kuo
+7/31/2012	2861 Stevenson St, Santa Clara, CA 95051	49	Mary Tan
+7/31/2012	1703 Duvall Dr, San Jose, CA 95130	33	Chad Myers
+8/1/2012	1445 Fruitdale Ave Unit 310, San Jose, CA 95128	29	Katie Duus
+8/1/2012	829 Lily Ave, Cupertino, CA 95014	42	Steven Askari
+8/1/2012	360 8th St, Montara, CA 94037	72	Lynette Giusti
+8/2/2012	5571 Cooney Pl, San Jose, CA 95123	43	Kim Connor
+8/2/2012	845 Nectarine Ave, Sunnyvale, CA 94087	41	Albert Kao
+8/2/2012	4442 Gem Ave, Castro Valley, CA 94546	49	Miguel Portales
+8/3/2012	601 W Remington Dr, Sunnyvale, CA 94087	54	Erick Fernandez
+8/3/2012	40709 Greystone Ter, Fremont, CA 94538	33	Nancy Sun
+8/3/2012	604 Oregon Ave, Palo Alto, CA 94301	53	Tim Foy
+8/4/2012	190 Palm Beach Ave, Half Moon Bay, CA 94019	37	Carlos Aguilar
+8/4/2012	3945 Whittle Ave, Oakland, CA 94602	54	Vinny MaNguyen
+8/4/2012	136 Azalia Dr, East Palo Alto, CA 94303	33	Gigi Williams
+8/7/2012	270 Chapin Ln, Burlingame, CA 94010	81	Manie Kohn
+8/7/2012	66 Newell Rd Unit K, East Palo Alto, CA 94303	25	Frank Kuo
+8/7/2012	5875 Friar Way, San Jose, CA 95129	41	Jane Lok
+8/8/2012	903 Hazelnut Ct, Sunnyvale, CA 94087	51	Tori Corbett
+8/8/2012	323 21st Ave, San Francisco, CA 94121	72	Vinny MaNguyen
+8/9/2012	477 Lassen St Apt 7, Los Altos, CA 94022	46	Todd Zebb
+8/9/2012	1545 Lincoln Ave, Capitola, CA 95010	52	Peter Tiemann
+8/9/2012	2258 Montezuma Dr, Campbell, CA 95008	57	Howard Bloom
+8/9/2012	4907 Grayhawk Ct, Dublin, CA 94568	62	Ruhi Alikhan
+8/11/2012	1272 Begier Ave, San Leandro, CA 94577	51	Brian McKinzie
+8/11/2012	1041 W Hill Ct, Cupertino, CA 95014	52	Mary Tan
+8/14/2012	3068 San Andreas Dr, Union City, CA 94587	52	Jane Chen
+8/14/2012	1595 Hillmont Ave, San Jose, CA 95127	38	Brad Hung Le
+8/15/2012	160 Kaapuni Dr, Kailua, HI 96734	66	Ann Cuseo
+8/15/2012	1733 Kinglet Ct, Sunnyvale, CA 94087	46	Roberta Murai
+8/16/2012	4701 Mildred Dr, Fremont, CA 94536	55	Danli Liu
+8/16/2012	529 S 14th St, San Jose, CA 95112	48	Georgie Huff
+8/16/2012	1716 Broadway, Alameda, CA 94501	50	Bobbi Vogel
+8/16/2012	201 Mirada Rd, Half Moon Bay, CA 94019	20120815 201MiradaRd	Lynette Giusti
+8/17/2012	17275 Holiday Dr, Morgan Hill, CA 95037	66	Peggy Zhu
+8/17/2012	27640 Sherlock Rd, Los Altos Hills, CA 94022	68	Art Sharif
+8/18/2012	2889 Fresno St, Santa Clara CA 95051	58	Jinny Ahn
+8/18/2012	11441 S Stelling Rd, Cupertino, CA 95014 	46	Chad Myers
+8/18/2012	6344 Malory Dr, San Jose, CA 95123	51	Carl Yeung
+8/18/2012	1045 Lido Ln Unit 3, Foster City, CA 94404	88	Manie Kohn
+8/18/2012	1123 Sevier Ave, Menlo Park, CA 94025	50	Henri Pessah
+8/21/2012	7488 De La Farge Dr, Cupertino, CA 95014	48	Alana Lam
+8/21/2012	144 Holly Terrace, Sunnyvale, CA 94086		Alex Wang
+8/21/2012	20800 4th St APT 2, Saratoga, CA 95070		Mary Tan
+8/21/2012	3281 El Sobrante St, Santa Clara, CA 95051		Tram Lily Bui
+8/21/2012	187 James Ave, Atherton, CA 94027	102	Carlos Aguilar
+8/21/2012	1444 Mercer Ave, San Jose, CA 95125		Eric Greenwood
+8/22/2012	1070 Heatherstone Way, Sunnyvale, CA 94087	17	Sheila Benson
+8/22/2012	870 W Mckinley Ave, Sunnyvale, CA 94086	43	Greta Liu
+8/22/2012	585 Marlin Ct, Redwood City, CA 94065	67	Manie Kohn
+8/22/2012	3444 Ashton Ct, Palo Alto, CA 94306	36	Jane Volpe
+8/22/2012	4214 Juniper Ln, Palo Alto, CA 94306	59	Delia Fei
+8/22/2012	1245 Moonsail Ln, Foster City, CA 94404	42	Maggie Paul
+8/22/2012	290 Hans Ave, Mountain View, CA 94040	38	Todd Zebb
+8/23/2012	20984 Alves Dr, Cupertino, CA 95014	32	Mary Tan
+8/23/2012	2881 Meridian Ave Unit 222, San Jose, CA 95124	43	Frank Kuo
+8/23/2012	2663 Leavenworth St, San Francisco, CA 94133	42	Mike Pan
+8/23/2012	1592 Ballantree Way, San Jose, CA 95118	48	Betty Lin
+8/23/2012	631 Wellington Dr, San Carlos, CA 94070	66	Manie Kohn
+8/23/2012	47363 Yucatan Dr, Fremont, CA 94539		Dennis Bower
+8/24/2012	1014 Blue Mist Pl, San Jose, CA 95120	62	Kim Connor
+8/24/2012	1223 Mcintosh Ave, Sunnyvale, CA 94087	51	Dave Clark
+8/24/2012	3159 Sierra Rd, San Jose, CA 95132	42	Mae Chang
+8/25/2012	2700 All View Way, Belmont, CA 94002	86	Manie Kohn
+8/25/2012	1492 Carnot Dr, San Jose, CA 95126		Mary Ann Wallace
+8/25/2012	3021 58th Ave, Oakland, CA 94605	46	Jennifer Ky
+8/25/2012	18929 Harleigh Dr, Saratoga, CA 95070	32	Mary Tan
+8/27/2012	735 El Camino Real Apt 303, Burlingame, CA 94010	36	Henri Pessah
+8/28/2012	725 54th St, Oakland, CA 94609	55	Laura Tang
+8/30/2012	293 Palisades Dr, Daly City, CA 94015	46	Jaime Gonzalez
+8/30/2012	174 Lu Anne Dr, Campbell, CA 95008	39	Ruhi Alikhan
+8/30/2012	1233 Hazlett Ct, San Jose, CA 95131	46	Judy Wang
+8/30/2012	260 Clearpark Cir, San Jose, CA 95136	57	Kim Connor
+8/30/2012	381 Dartmouth Ave, San Carlos, CA 94070	66	Rod Creason
+8/30/2012	27461 Sherlock Ct, Los Altos, CA 94022	15	Art Sharif
+8/30/2012	1181 Cranberry Ave, Sunnyvale, CA 94087	19	Sheila Benson
+8/30/2012	4720 Torrey Pines Circle, San Jose, CA 95124	53	Ruth Mistry
+8/31/2012	555 Byron St Apt 305, Palo Alto, CA 94301	43	Dennis Bower
+8/31/2012	4718 Heathview Dr, San Jose, CA 95130 	48	James Fucillo
+8/31/2012	585 Haley Ct, San Jose, CA 95123	33	Angie Cocke
+8/31/2012	6450 Calle Esperanza, Pleasanton, CA 94566	56	Rhonda Morris
+8/31/2012	6576 Camden Ave, San Jose, CA 95120	54	Jerry Kwok
+8/31/2012	7635 Squirewood Way, Cupertino, CA 95014	27	Mary Tan
+9/6/2012	2456 W Bayshore Rd Unit 2, Palo Alto, CA 94303	49	Alex Wang
+9/6/2012	208 Orchard Glen Ct, Mountain View, CA 94043	40	Patrick Johnson
+9/6/2012	2331 Hastings Dr, Belmont, CA 94002	55	Atma Dayal
+9/6/2012	147 Positano Cir, Redwood City, CA 94065	47	Anthony Chen
+9/6/2012	20329 Knollwood Dr, Saratoga, CA 95070	40	Mark Wong
+9/6/2012	20329 Knollwood Dr, Saratoga, CA 95070	40	Mark Wong
+9/8/2012	3556 Middlefield Rd, Palo Alto Fronts, CA 94306	7	Julie Tsai Law
+9/8/2012	6664 Clifford Ct, Cupertino, CA 95014	51	Mary Tan
+9/8/2012	3656 Chillingham Ct, Pleasanton, CA 94588	60	Karen Lin
+9/8/2012	1395 Delfino Way, Menlo Park, CA 94025	32	Holly Stockman
+9/8/2012	1395 Delfino Way, Menlo Park, CA 94025	32	Holly Stockman
+9/11/2012	6664 Clifford Ct, Cupertino, CA 95014	20	Mary Tan
+9/11/2012	999 Embarcadero Rd, Palo Alto, CA 94303	43	Lori Nelson
+9/11/2012	1721 Askam Ln, Los Altos, CA 94024	53	Carolyn Miller
+9/11/2012	1728 Whitham Ave, Los Altos, CA 94024	54	Dennis Liu
+9/11/2012	2739 Kensington Rd, Redwood City, CA 94061	52	Doug Gonzalez
+9/12/2012	3418 Vanderbilt Way, Santa Clara, CA 95051	38	Harjinder Singh
+9/12/2012	1548 Plateau Ave, Los Altos, CA 94024	82	Mary Tan
+9/12/2012	3556 Middlefield Rd, Palo Alto, CA 94306	54	Julie Tsai Law
+9/12/2012	2021 Monroe Ave, Belmont, CA 94002	66	Kiesha Stephens
+9/13/2012	2103 Parkwood Way, San Jose, CA 95125	32	Eric Greenwood
+9/13/2012	21853 Oakview Ln, Cupertino, CA 95014	51	Mary Tan
+9/13/2012	4469 Norocco Cir, Fremont, CA 94555	59	Virginia Supnet
+9/13/2012	2650 Wallace St, Santa Clara, CA 95051	38	Barb Williams
+9/13/2012	60 Alameda De Las Pulgas, Redwood City, CA 94062	40	Manie Kohn
+9/13/2012	1870 Saint Andrews Ct, Milpitas, CA 95035	73	Priscilla Wang
+9/13/2012	60 Alameda De Las Pulgas, Redwood City, CA 94062	40	Manie Kohn
+9/14/2012	626 Bay Rd, Redwood City, CA 94063	11	Jaime Gonzalez
+9/14/2012	1042 W San Fernando St, San Jose, CA 95126	33	Kim Connor
+9/15/2012	10122 Adelheid Ct, Cupertino, CA 95014	72	Mary Tan
+9/15/2012	505 Hope St, Mountain View, CA 94043	57	Tommy Tse
+9/15/2012	3329 Machado Ave, Santa Clara, CA 95051 	39	Tommy Tse
+9/15/2012	626 Bay Rd, Redwood City, CA 94063	16	Jaime Gonzalez
+9/15/2012	1751 Lantis Ln, Los Altos, CA 94024	6	Kathy
+9/15/2012	1751 Lantis Ln, Los Altos, CA 94024	6	Kathy
+9/15/2012	1751 Lantis Ln, Los Altos, CA 94024	6	Kathy
+9/15/2012	1751 Lantis Ln, Los Altos, CA 94024	6	Kathy
+9/15/2012	1751 Lantis Ln, Los Altos, CA 94024		Kathy Bridgman
+9/18/2012	20800 Wardell Rd, Saratoga, CA 95070	56	Mary Tan
+9/18/2012	3551 Middlefield Rd, Menlo Park, CA 94025	44	Rod Creason
+9/18/2012	3938 Blacow Road, Fremont, CA 94538	36	Mike Pan
+9/18/2012	3930 Blacow Road, Fremont, CA 94538	34	Mike Pan
+9/19/2012	2799 George Blauer Pl, San Jose, CA 95135	74	Ravi Shah
+9/19/2012	1573 Van Dusen Ln Campbell‎ CA‎ 95008	66	Kathy Liu
+9/20/2012	6548 Mokelumne Ave, Oakland, CA 94605	32	Brian McKinzie
+9/20/2012	3817 Magnolia Dr, Palo Alto, CA 94306	57	Julie Tsai Law
+9/21/2012	30 Annescourt Pl, Hillsborough, CA 94010	92	Manie Kohn
+9/25/2012	144 Monte Villa Ct, Campbell, CA 95008	34	Jerry Kwok
+9/26/2012	1363 Poppy Way, Cupertino, CA 95014	37	Jane Lok
+9/26/2012	1875 Oak Ave, Menlo Park, CA 94025	56	Doug Gonzalez
+9/27/2012	30 Annescourt Pl, Hillsborough, CA 94010	12	Manie Kohn
+9/27/2012	1290 Tea Rose Circle, San Jose, CA 95131	35	Alana Lam
+9/27/2012	1606 Courtland Rd, Belmont, CA 94002	47	Lynette Giusti
+9/28/2012	1489 Mallard Way, Sunnyvale, CA 94087	52	Margaret Chui
+9/28/2012	1362 Ridgewood Dr, San Jose, CA 95118	40	Kim Connor
+9/28/2012	90 Columbia Ave, Redwood City, CA 94063	37	Gigi Williams
+9/28/2012	34361 Eucalyptus Ter, Fremont, CA 94555	41	Sirisha Sinha
+9/29/2012	6092 Willowgrove Ln, Cupertino, CA 95014	47	Mary Tan
+9/29/2012	18831 Mcfarland Ave, Saratoga, CA 95070	52	Margaret Chui
+10/1/2012	1415 9th St, Oakland, CA 94607	48	Vinny MaNguyen
+10/1/2012	1415 9th St, Oakland, CA 94607	48	Vinny MaNguyen
+10/1/2012	430 Buena Vista Ave, San Mateo, CA 94403	60	Manie Kohn
+10/1/2012	108 Savona Way, Redwood Shores, CA 94065	38	Anthony Chen
+10/1/2012	734 Manzanita Ave, Sunnyvale, CA 94085	32	Kim Connor
+10/1/2012	2018 Saint Julien Ct, Mountain View, CA 94043	38	Howard Bloom
+10/2/2012	4370 Headen Way, Santa Clara, 95054	44	Mei Ling
+10/3/2012	789 Beechwood Dr, Daly City, CA 94015	47	Jaime Gonzalez
+10/3/2012	331 Marble Arch Ave, San Jose, CA 95136	47	Angie Cocke
+10/3/2012	5803 Ponce Ct, San Jose, CA 95120	56	Chris Lussier
+10/3/2012	1732 Whitham Avenue, Los Altos, CA 94024	52	Dennis Liu
+10/3/2012	4073 Piedmont Ter, Fremont, CA 94539	26	Nancy Sun
+10/3/2012	2008 El Prado St, Redwood City, CA 94061	56	Jaime Gonzalez
+10/3/2012	891 Periwinkle Ter, Sunnyvale, CA 94086	45	Doris Keren Gill
+10/3/2012	4370 Headen Way, Santa Clara, 95054	5	Mei Ling
+10/4/2012	20915 Jollyman Ln, Cupertino, CA 95014	57	Mary Tan
+10/4/2012	4073 Piedmont Ter, Fremont, CA 94539	82	Nancy Sun
+10/4/2012	759 Middle Ave, Menlo Park, CA 94025	48	Carlos Aguilar
+10/4/2012	1824 Jackson St Unit H, San Francisco, CA 94109	66	Toby Costello
+10/4/2012	1120 Deana Ct, Morgan Hill, CA 95037	79	Kathy Liu
+10/5/2012	2160 Manzanita Ave, Menlo Park, CA 94025	50	Susan Enzmann
+10/5/2012	10690 Merriman Rd, Cupertino, CA 95014	75	Catherine Qian
+10/5/2012	19507 Stevens Creek Blvd STE 101A, Cupertino, CA 95014	34	Mary Tan
+10/5/2012	701 N Rengstorff Ave APT 2, Mountain View, CA 94043	35	Julie Tse
+10/5/2012	3051 Modesto Ave, Oakland, CA 94619	47	Vinny MaNguyen
+10/6/2012	4073 Piedmont Ter, Fremont, CA 94539	55	Nancy Sun
+10/6/2012	112 Devonshire Blvd, San Carlos, CA 94070	61	Leslie Zeisler
+10/9/2012	Lot 8 Ludina Way, Redwood City, CA 94061	37	Pacific Peninsula
+10/9/2012	Lot 11 Ludina Way, Redwood City, CA 94061	42	Pacific Peninsula
+10/9/2012	25 Ludina Way, Redwood City, CA 94061	44	Pacific Peninsula
+10/9/2012	1613 Kentfield, Redwood City, CA 94061	41	Pacific Peninsula
+10/10/2012	2841 Rubino Cir, San Jose, CA 95125	37	Miri Bialek
+10/10/2012	2326 Kay Dr, Santa Clara, CA 95050	44	Frank Kuo
+10/10/2012	242 Packing Place, San Jose, CA 95116	46	Kevin Nguyen
+10/10/2012	5827 Capilano Dr, San Jose, CA 95138	56	Kathy Liu
+10/10/2012	775 Glenborough Dr, Mountain View, CA 94041	65	Tori Corbett
+10/10/2012	1178 34th St, Oakland, CA 94608	37	Vinny MaNguyen
+10/10/2012	1068 Summerfield Dr, San Jose, CA 95121		Thuy Do
+10/11/2012	1017 King St, Redwood City, CA 94061	60	Manie Kohn
+10/11/2012	6870 Aintree Dr, San Jose, CA 95119	42	Angie Cocke
+10/11/2012	3313 Melendy Dr, San Carlos, CA 94070	75	Jaime Gonzalez
+10/11/2012	836 7th Ave, Redwood City, CA 94063	45	Geoff Phelps
+10/11/2012	3140 Morris Dr, Palo Alto, CA 94303	57	Tim Foy
+10/12/2012	4974 Bel Canto Dr, San Jose, CA 95124	44	Kim Connor
+10/12/2012	2060 Marich Way, Mountain View, CA 94040	37	Chad Myers
+10/12/2012	1963 Rock St Apt 26 , Mountain View, CA 94043	49	Harjinder Singh
+10/16/2012	2101 Samaritan Dr, San Jose, CA 95124	41	Thuy Do
+10/16/2012	5837 Zileman Dr, San Jose, CA 95123	33	Angie Cocke
+10/16/2012	11302 Terra Bella Dr, Cupertino, CA 95014	54	Mary Tan
+10/16/2012	556 Galen Dr, San Jose, CA 95123	52	Angie Cocke
+10/16/2012	3530 McCoppin Park Ct, San Jose, CA 95124	53	Shirley Shi
+10/17/2012	18628 Cox Ave, Saratoga, CA 95070	63	Kim Connor
+10/17/2012	840 Rue Montagne, Campbell, CA 95008	25	Jaime Gonzalez
+10/18/2012	30 Shoshone Pl, Portola Valley, CA 94028	59	Sharon Schnell
+10/18/2012	2419 Crystal Dr, Santa Clara, CA 95051	30	Harjinder Singh
+10/18/2012	49 Showers Dr Unit V405, Mountain View, CA 94040	38	Judy Jen
+10/18/2012	560 7th Ave, Menlo Park, CA 94025	39	Jaime Gonzalez
+10/18/2012	21587 Villa Maria Ct, Cupertino, CA 95014	48	Mary Tan
+10/19/2012	199 New Montgomery St UNIT 306, San Francisco, CA 94105	52	Julie Tsai Law
+10/19/2012	1510 Cherry St APT 4, San Carlos, CA 94070	41	Frank Kuo
+10/19/2012	333 Santana Row Unit 316, San Jose, CA 95128	20	Alex Wang
+10/19/2012	3763 Ruby St, Oakland, CA 94609	45	Jenny Wu
+10/19/2012	1295 Campus Dr, Berkeley, CA 94708 	63	Laura Martell
+10/20/2012	1241 Bretmoor Way, San Jose, CA 95129	42	Mary Tan
+10/20/2012	400 Firecrest Ave, Pacifica, CA 94044	44	Jaime Gonzalez
+10/20/2012	24804 Woodacre Ave, Hayward, CA 94544	56	Laura Tang
+10/22/2012	2739 Rawson St, Oakland, CA 94619	42	Vinny MaNguyen
+10/23/2012	1730 Plaza Sol, San Jose, CA 95131	59	Alana Lam
+10/23/2012	307 Tradewinds Dr Apt 10, San Jose, CA 95123	41	Brad Hung Le
+10/23/2012	3099 Irlanda Way, San Jose, CA 95124	36	Mae Chang
+10/23/2012	3203 Admiralty Lane, Foster City, CA 94404	38	Manie Kohn
+10/23/2012	2532 Shilshone Cir, San Jose, CA 95121	40	Brad Hung Le
+10/23/2012	4518 Merrill Ave, Oakland, CA 94619	3	Vinny MaNguyen
+10/24/2012	820 San Pablo Dr, Mountain View, CA 94043	36	Ella Sun
+10/25/2012	1321 Caroline St, Alameda, CA 94501	63	Joe Metz
+10/25/2012	21 Goldenridge Ct, San Mateo, CA 94402	45	Amelia Middel
+10/25/2012	21391 Milford Dr, Cupertino, CA 95014	53	Chad Myers
+10/26/2012	4518 Merrill Ave, Oakland, CA 94619	34	Vinny MaNguyen
+10/26/2012	245 Shadow Dance Dr, San Jose, CA 95110	33	Clara Lee
+10/27/2012	19830 Sea Gull Way, Saratoga, CA 95070	62	Jane Volpe
+10/27/2012	1220 Ruby St, Redwood City, CA 94061	42	Jaime Gonzalez
+10/27/2012	48 Church St, Mountain View, CA 94041	39	Dave Keefe
+10/27/2012	2615 Cowper St, Palo Alto, CA 94306	42	George Tu
+10/30/2012	3324 Saint Michael Dr, Palo Alto, CA 94306	45	Art Sharif
+10/31/2012	1215 Mayberry Lane, San Jose 95131 	44	Alex Wang
+10/31/2012	208 Topaz St, Redwood City, CA 94062	39	Doug Gonzalez
+10/31/2012	4153 Monet Circle, San Jose, CA 95136	59	Kim Connor
+10/31/2012	144 S 3rd St unit 530 San Jose, CA 95112	39	Linda Chu
+11/1/2012	1425 67th St, Berkeley, CA 94702	50	Sunny Kim
+11/1/2012	6270 Tillamook Dr, San Jose, CA 95123	39	Angie Cocke
+11/2/2012	1260 64th St, Emeryville, CA, 94608	79	Daniel Winkler
+11/2/2012	642 Flannery St, Santa Clara, CA 95051	45	Julie Phan Boc
+11/3/2012	13252 Glasgow Ct, Saratoga, CA 95070	75	Mary Tan
+11/3/2012	2245 Central Park Dr, Campbell, CA 95008	48	Ady Wunderman
+11/3/2012	10382 Westacres Dr, Cupertino, CA 95014	41	Jinny Ahn
+4/12/2013	3933 Ruby St, Oakland, CA 94609	39	Amy Hufft
+5/29/2013	2156 Carobwood Ln. , San Jose, CA, 95132	1,501 - 2,000 sqft	Yes		50	
+5/30/2013	19237 Vineyard , Saratoga, CA, 95070	Under 1,500 sqft	Yes		50	
+5/30/2013	2156 Carobwood Ln. , San Jose, CA, 95132	1,501 - 2,000 sqft	Yes		50	
+5/30/2013	2099 Oakland Rd , San Jose, CA, 95131	Under 1,500 sqft	Yes		50	
+5/30/2013	600 Pennyslvania Ave Unit 12 , Los Gatos, CA, 95030	Under 1,500 sqft	Yes		50	
+5/30/2013	75 Devonshire Ave Unit 8 , Mountain View, CA, 94043	Under 1,500 sqft	Yes		50	
+5/30/2013	2156 Carobwood Ln. , San Jose, CA, 95132	1,501 - 2,000 sqft	Yes		50	
+5/30/2013	48 Los Altos Avenue , Los Altos, CA, 94522	2,001 - 3,000 sqft	Yes		50	
+5/30/2013	1186 Lerwick Ct , Sunnyvale, CA, 94087	2,001 - 3,000 sqft	Yes		50	
+5/30/2013	7832 Hillmont Dr , Oakland, CA, 	3,001 - 4,000 sqft	Yes		50	
+5/30/2013	116 Redding Rd , Campbell, CA, 95008	1,501 - 2,000 sqft	Yes		50	
+5/30/2013	49055 Woodgrove Cmm , Fremont, CA, 94539	1,501 - 2,000 sqft	Yes		50	
+5/31/2013	49055 Woodgrove Cmm , Fremont, CA, 94539	1,501 - 2,000 sqft	Yes		50	
+5/31/2013	1456 Ford Ave , San Jose, CA, 95110	1,501 - 2,000 sqft	Yes		50	
+5/31/2013	1358 Sevier Ave. , Menlo Park, CA, 94025	Under 1,500 sqft	Yes		50	
+5/31/2013	4050 Handel Common , Fremont, CA, 94536	Under 1,500 sqft	Yes		50	
+5/31/2013	557 Molucca Ter , Sunnyvale, CA, 94089	1,501 - 2,000 sqft	Yes		50	
+6/1/2013	13701 Quito Rd. , Saratoga, CA, 95070	2,001 - 3,000 sqft	Yes		50	
+6/1/2013	13701 Quito Rd. , Saratoga, CA, 95070	2,001 - 3,000 sqft	Yes		50	
+6/1/2013	10678 Nathanson Avenue , Cupertino, CA, 95014	2,001 - 3,000 sqft	Yes		50	
+6/1/2013	10800 Johnson Ave, , Cupertino, CA, 95014	2,001 - 3,000 sqft	Yes		50	
+6/1/2013	4063 Hamilton Park Drive , San Jose, CA, 95130	1,501 - 2,000 sqft	Yes		50	
+6/1/2013	671 S. Henry Ave , San Jose, CA, 95117	Under 1,500 sqft	Yes		50	
+6/1/2013	2453 Ridgeglen Way, San Jose, CA 95133 	Under 1500	Yes		50	
+6/5/2013	10 Pasa Robles Ave. , Los Altos, CA, 94022	3,001 - 4,000 sqft	Yes		50	

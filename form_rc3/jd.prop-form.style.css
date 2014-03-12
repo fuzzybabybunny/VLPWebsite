@@ -1,0 +1,348 @@
+input[type=text], textarea {
+    -webkit-transition: all 0.30s ease-in-out;
+    -moz-transition: all 0.30s ease-in-out;
+    -ms-transition: all 0.30s ease-in-out;
+    -o-transition: all 0.30s ease-in-out;
+    outline: none;
+}
+
+::-webkit-input-placeholder {
+    color: #2d2d2d;
+    font-style:italic;
+}
+:-moz-placeholder { color: #CCC; }
+::-moz-placeholder { color: #CCC; }
+:-ms-input-placeholder { color: #CCC; }
+
+.prop-order-form {
+    position:relative;
+    color:#262626;
+    font-family:arial, helvetica, sans-serif;
+    font-size:0.8em;
+    border-radius:5px;
+
+    margin-bottom:10px;
+}
+
+.prop-order-label {
+    /*border-bottom:#cecece 1px solid;
+    margin-bottom:10px;*/
+}
+
+.prop-order-form h2 {
+    font-size:1.2em;
+    padding:10px 0 10px 10px;
+    border-bottom:#474747 1px solid;
+    margin:0;
+    font-style:italic;
+}
+
+.prop-order-form .prop-order-field-list {
+    list-style:none;
+    padding:0;
+    margin:0;
+    display: table;
+    width: 100%;
+}
+
+.jd-field-text {
+    border:none;
+    background-color: transparent;
+}
+
+.prop-order-field-list li {
+
+/*    background: #eaeaea;*/
+    border-radius:5px;
+    padding:5px 0;
+}
+
+.prop-order-field-list li input[type=text] {
+    border:#333333 1px solid;
+    padding:5px 0;
+    text-indent: 5px;
+}
+
+.prop-order-field-list li {
+    font-size:1em;
+}
+
+.prop-order-field-list li:hover {
+    /*background-color: rgba(0,0,0,0.1);*/
+}
+
+.prop-order-fieldset .prop-order-field-list label {
+    font-weight: bold;
+    font-size:1em;
+    padding-left:10px;
+}
+
+.prop-order-fieldset .prop-order-field-list li.jdf-dyn {
+    display: table;
+    width: 100%;
+}
+
+.prop-order-fieldset .prop-order-field-list .jdf-dyn label {
+    white-space: nowrap;
+    display: table-cell;
+    width: 1px;
+
+}
+
+.prop-order-fieldset .prop-order-field-list .jdf-dyn .jd-field-cont {
+    display: table-cell;
+    padding:0 10px;
+}
+
+.prop-order-fieldset .prop-order-field-list .jdf-dyn .jd-field-cont input,
+.prop-order-fieldset .prop-order-field-list .jdf-dyn .jd-field-cont textarea,
+.prop-order-fieldset .prop-order-field-list .jdf-dyn .jd-field-cont select {
+    width: 100%;
+}
+
+.prop-order-fieldset .prop-order-field-list .jdf-dyn .jd-field-cont textarea {
+    height: 100px;
+}
+
+/* New Style */
+
+.prop-order-label {
+    font-size: 1.2em !important;
+    font-style: italic;
+    color:#000;
+    padding-left:5px;
+}
+
+ul#jd-prop-form {
+    list-style: none;
+    padding:10px 0;
+    background: #f1f1f1;
+}
+
+#jd-prop-form ::-webkit-input-placeholder {
+    color: #7a7a7a;
+    font-style:italic;
+    font-size:0.9em;
+}
+
+ul#jd-prop-form li {
+    padding-bottom:15px;
+    padding-left:10px;
+    padding-right:10px;
+    position: relative;
+}
+
+ul#jd-prop-form li label {
+    color:#222;
+    position:relative;
+    width:100%;
+    display: inline-block;
+    font-size:0.9em;
+}
+
+.jd-input-cont {
+    border:1px solid #b9b9b9;
+    margin-top: 5px;
+    background: #ffffff;
+    overflow: hidden;
+}
+
+ul#jd-prop-form li input,
+ul#jd-prop-form li select {
+    border:none;
+    background: transparent;
+    font-size:0.95em;
+    outline:none;
+}
+
+
+ul#jd-prop-form li input[type=text],
+ul#jd-prop-form li select {
+
+}
+
+ul#jd-prop-form li select {
+    margin-bottom:2px;
+}
+
+.jd-field-1 {
+    width: 100%;
+}
+
+.jd-field-helper {
+    font-size:0.9em;
+    vertical-align: top;
+    margin-left:5px;
+    color:#ff0000;
+    font-weight: bold;
+    font-style: normal;
+}
+
+.jd-field-helper:hover > .jd-field-helper-data {
+    display:inline;
+}
+
+.jd-field-helper-data {
+    position:absolute;
+    margin-top:5px;
+    margin-left: -5px;
+    line-height: 130%;
+    background: #333333;
+    color:#fff;
+    width:400px;
+    font-size:1.05em;
+    padding:5px;
+    opacity:0.9;
+    z-index:999;
+    display:none;
+    font-weight: normal;
+}
+
+.jd-field-2 {
+    float:right;
+    font-size:0.95em;
+    font-style: italic;
+    color:#333333;
+}
+
+.jd-field-2 input[type=checkbox] {
+    margin-top: 0px;
+    margin-left:7px;
+    float: right;
+}
+
+.jd-input-cont.jd-field-readonly {
+    background: #f6f6f6;
+}
+
+.jd-input-cont.jd-field-readonly input {
+    font-style:italic;
+    color: #2d2d2d;
+}
+
+.jd-field-sub-label {
+    font-size:0.95em;
+    font-style: italic;
+    color:#333333;
+}
+
+.jd-field-optional {
+    display:none;
+}
+
+.jd-field-3 {
+    float:left;
+    margin-top: 2px;
+    margin-right:7px;
+}
+
+.jd-sub-field-list td {
+    vertical-align: top;
+    padding-bottom:10px;
+    padding-top:5px;
+    padding-bottom:5px;
+}
+
+.jd-sub-field-list label {
+    font-weight: normal;
+}
+
+.jd-sub-field-list tr:nth-child(even)
+{
+    background: #e7e7e7;
+}
+
+ul#jd-prop-form li label {
+    font-size:0.9em;
+    font-style: italic;
+}
+
+.jd-sub-field-list .jd-input-cont {
+    margin-left: 25px;
+    margin-right: 5px;
+}
+
+ul#jd-prop-form .jd-opt-sub-label {
+    display:none;
+    margin-left: 25px;
+    margin-top: 3px;
+}
+
+ul#jd-prop-form .jd-opt-sub-label label {
+    color:#474646;
+}
+
+.jd-input-cont.jd-select-cont {
+    padding:3px 5px;
+}
+
+.jd-input-cont {
+    padding:5px;
+}
+
+.prop-order-fieldset ul#jd-prop-form li .f2b {
+    display:none;
+}
+
+.prop-order-fieldset ul#jd-prop-form li.disabled .f2b {
+    position: absolute;
+    background: transparent;
+    z-index:9999;
+    width: 100%;
+    height: 100%;
+    top:0;
+    left:0;
+    display:inline-block;
+}
+
+
+.prop-order-fieldset ul#jd-prop-form li.disabled > label,
+.prop-order-fieldset ul#jd-prop-form li.disabled > .jd-input-cont,
+.prop-order-fieldset ul#jd-prop-form li.disabled > .jd-select-cont,
+.prop-order-fieldset ul#jd-prop-form li.disabled > .jd-sub-field-list {
+    opacity:0.5;
+}
+
+.jd-field-err {
+    border-color:#ff0000 !important;
+}
+
+.jd-field-valid {
+    border-color: #009500 !important;
+
+}
+
+#jd-prop-form-0 .jd-field-valid {
+    background: #292a29;
+}
+
+.jd-field-valid > select {
+    color:#fff;
+    width:120%;
+}
+
+#jd-ptotal-box {
+    position:absolute;
+    top:0px;
+    width:0px;
+    background: #333;
+    color: #eee;
+    display: inline-block;
+    padding: 5px 0px;
+    text-align: center;
+    font-size:1em;
+    overflow:hidden;
+}
+
+#jd-ptotal-box.jd-isfixed {
+    position:fixed;
+}
+
+#jd-ptotal-box h1 {
+    line-height: 100%;
+    font-size: 3em;
+    padding:0 10px;
+    margin: 0;
+    border-bottom:#eee 2px solid;
+    font-weight: normal;
+}

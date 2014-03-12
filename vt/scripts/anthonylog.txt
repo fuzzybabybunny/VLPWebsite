@@ -1,0 +1,36 @@
+1/6/2014	Maggie Paul	3582 Ellery Commons , Frem, CA, 94538	1,501 - 2,000 sqft	Yes		50 + 10 Size	60
+1/11/2014	Lisa Loud	435 Kenton Ct , Paso Robles, CA, 93446	2,001 - 3,000 sqft	Yes		100 Size + 35 Weekend	135
+1/12/2014	Lisa Loud	435 Kenton Ct , Paso Robles, CA, 93446	2,001 - 3,000 sqft	Yes		none	none
+1/16/2014	Harjinder Singh	2960 Stallion Way , San Jose, CA, 95121	2,001 - 3,000 sqft	Yes		50 + 50 Size + 25 Distance	125
+1/17/2014	Brian McKinzie	620 Swallow Dr Livermore, CA 94551	Under 1,500 sqft	Yes		50 + 30 Distance + 10 size	90
+1/17/2014	Nathan Nguyen	101 Highland Oaks Dr. , Los Gatos, CA, 95032	2,001 - 3,000 sqft	Yes		50 + 50 Size + 30 Distance	130
+1/20/2014	Aaron Schubbe	463 Tovar Dr. , San Jose, CA, 95123	Under 1,500 sqft	Yes		50 + 25 Distance + 10 Size 	85
+1/20/2014	Chris Mosher	203 French Ct , San Jose, CA, 95139	1,501 - 2,000 sqft	Yes		50 + 25 Distance + 25 Size	100
+1/20/2014	Louise Guzzo	584 Lincoln Avenue , Los Altos, CA, 94022	Under 1,500 sqft	Yes		50 + 20 Distance + 10 Size	80
+1/21/2014	Jaime Gonzalez	1030 Fassler Avenue , Pacifica, CA, 94044	Under 1,500 sqft	Yes		50 + 35 Distance + 10 Size	95
+1/22/2014	Lorelei Komm	2101 Camino A Los Cerros , Menlo Park, CA, 94025	Under 1,500 sqft	Yes		50 + 20 Distance + 10 Size	80
+1/23/2014	Debbie Sharp	112 Madison Ave Unit 210, San Mateo, CA, 94402	Under 1,500 sqft	Yes		50 + 25 Distance + 10 Size + 25 Rush	110
+1/23/2014	Lily Miao	400 Ortega Ave, Unit 220 , Mountain View, CA, 94040	Under 1,500 sqft	No	Keys Hidden in the landscaping of the wrong building under an actual leaf that blew away. Wasted lots of time finding them.	50 + 15 Distance + 10 Size	75
+1/28/2014	Lorelei Komm	2101 Camino A Los Cerros , Menlo Park, CA, 94025	Under 1,500 sqft	Yes		40 + 20 Distance	60
+1/28/2014	Dave Clark	1014 Duncan Avenue , Sunnyvale, CA, 94089	Under 1,500 sqft	No	There were tools and a lawnmower  left all over the back patio.  I put them in the garage. be on the lookout for a Machete in the ground near the sliding patio door...	50 + 15 Distance + 10 Size	75
+1/29/2014	Kimo Huynh	1425 Clemence Ct , San Jose, CA, 95122	Under 1,500 sqft	Yes		50 + 25 Distance + 10 Size	85
+1/29/2014	Monica Yeung	2771 Creekside Dr , San Jose, CA, 95132	Under 1,500 sqft	Yes		50 + 25 Distance + 10 Size	85
+1/29/2014	Kim Connor	1415 Donahue , San Jose, CA, 95131	2,001 - 3,000 sqft	Yes		50 + 25 Distance + 50 Size	125
+1/30/2014	Jaime Gonzalez	959 5th Avenue , Redwood City, CA, 94063	1,501 - 2,000 sqft	Yes		50 + 20 Distance + 10 Size	80
+1/30/2014	joe metz	824 Linda Mar Blvd , Pacifica, CA, 94044	Under 1,500 sqft	No	Contractors everywhere. what should have taken 30 mins took 1hr	50 + 35 Distance + 10 Size	95
+2/12/2014	Vinny MaNguyen	15305 Inverness Street , San Leandro, CA, 94579	Under 1,500 sqft	No	Very occupied. Lot\'s of stuff had to be moved. But owner was willing.	50 + 15 Distance + 10 Size	75
+2/13/2014	Remy Weinstein	6049 Outlook Ave , Oakland, CA, 94605	Under 1,500 sqft	No	Contractors, Inspector etc.	50 + 25 Distance + 10 Size	85
+2/14/2014	mike rickey	8050 Crest Ave , Oakland, CA, 94605	Under 1,500 sqft	Yes		50 + 25 Distance + 10 Size	85
+2/17/2014	Vinny MaNguyen	1139 69th Ave , Oakland, CA, 94621	Under 1,500 sqft	Yes		50 + 25 Distance + 10 Size 	85
+2/18/2014	Simon Kiang	43859 Olazaba Terrace , Fremont, CA, 94539	Under 1,500 sqft	Yes		50 + 10 Size	60
+2/18/2014	Maylie de la Paz	1658 Center Ridge Dr , San Jose, CA, 95121	1,501 - 2,000 sqft	No	house full People and inspectors	50 + 25 Distance + 25 Size	100
+2/21/2014	Michael Rickey	4876 Shadowfalls Dr , Martinez, CA, 94553	1,501 - 2,000 sqft	No	Landscapers where there putting in a retaining wall in the backyard. here was blue tape and plastic on the ground, could not get ahold of realtor in time to get permission to remove it without replacing it.	50 + 40 Distance + 25 Size	115
+2/28/2014	Torie Santos	7555 Circle Hill Drive, , Oakland, CA, 94605	Under 1,500 sqft	Yes		40 + 25 Distance	65
+3/3/2014	Simon Kiang	28530 GULFPORT CIR , Hayward, CA, 94545	2,001 - 3,000 sqft	Yes		50 + 50 Size	100
+3/3/2014	Yvette Teng	5979 Via Lugano , Fremont, CA, 94555	Under 1,500 sqft	Yes		50 + 10 Size	60
+3/4/2014	Brian Mckinzie	1869 Arrowhead , Oakland, CA, 94611	1,501 - 2,000 sqft	Yes		50 + 25 Distance + 25 Size	100
+3/4/2014	Les palia	2515 Rawson St , Oakland, CA, 94605	Under 1,500 sqft	No	Minor Construction was going on	50 + 25 Distance + 10 Size	85
+3/5/2014	Marek Grobelny	6216 Majestic Ave , Oakland, CA, 94605	Under 1,500 sqft	Yes		50 + 25 Distance + 10 Size	85
+3/7/2014	Ruhi Alikhan	2088 Quito Road , San Jose, CA, 95130	Under 1,500 sqft	Yes		50 + 25 Distance + 10 Size	85
+3/7/2014	Dave Clark	401 Northlake Drive Unit 33 , San Jose, CA, 95117	Under 1,500 sqft	Yes		50 + 25 Distance + 10 Size	85
+3/7/2014	Edmund Yue	2662 Somerset Park Circle , San Jose, CA, 95132	Under 1,500 sqft	Yes		50 + 25 Distance + 10 Size	85

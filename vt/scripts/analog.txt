@@ -1,0 +1,175 @@
+1/2/2014	Manie Kohn	2459 Park Oak Dr, Los Angeles, CA, 90068	approx 4500 sqft	Yes			
+1/2/2014	Roberta Murai	12308 Titus Avenue , Saratoga, CA, 95070	2,001 - 3,000 sqft	Yes		50+35(2,648)+10Studio	95
+1/3/2014	Nathan	2036 Sonador Commons , San Jose, CA, 95128	Under 1,500 sqft	Yes		50+20 Rush Delivery 	70
+1/3/2014	Catherine Qian	10090 Pasadena Ave A4, Cupertino, CA, 95014	Under 1,500 sqft	No	staging not done on time	50	50
+1/3/2014	Lisa Loud	521 Anza St , Mountain View, CA, 94041	1,501 - 2,000 sqft	Yes		50+10(1,650 )	60
+1/3/2014	Jaime Gonzalez	4032 Farm Hill Blvd. Unit 10, Redwood City, CA, 94061	Under 1,500 sqft	No	key was missing had to wait 20min for it	50+25 travel 	75
+1/3/2014	Lorelei Komm	511 Highland Avenue , San Mateo, CA, 94401	1,501 - 2,000 sqft	Yes		50+50(twodifferentunits)+30Travel	130
+1/4/2014	Lorelei Komm	511 Highland Avenue , San Mateo, CA, 94401	1,501 - 2,000 sqft	Yes		130+130(twodifferentUnits)	260
+1/4/2014	Jack Jweinat	532 Ficus Terr , Fremont, CA, 94539	1,501 - 2,000 sqft	No	was showing the property 	50+40(1,835)weekendrate+20travel	110
+1/6/2014	Frank Kuo	135 Huntington Court , Mountain View, CA, 94043 	Under 1,500 sqft	Yes		50+10 park	60
+1/6/2014	Mary Tan 	10140 Santa  Clara Avenue , Cupertino, CA, 95014	Under 1,500 sqft	Yes		50	50
+1/6/2014	Rabia Alizai	247 Peppermint Tree Ter Unit 3 , Sunnyvale, CA, 94086	1,501 - 2,000 sqft	Yes		50+10 (1,582)	60
+1/7/2014	Frank Kuo	6276 Ginashell Circle , San Jose, CA, 95119	2,001 - 3,000 sqft	No	still cleaning	50+35(2,039)	85
+1/7/2014	Howard Bloom	400 Ortega Ave Unit A109 , Mountain View, CA, 94040	Under 1,500 sqft	Yes		50	50
+1/8/2014	Tim Foy	173 Creekside Dr. , Palo Alto, CA, 94306	1,501 - 2,000 sqft	No	stil fixing things	50+10(1,855)+20travel	80
+1/9/2014	Katrina Edwards	2720 Yosemite Drive , Belmont, CA, 94002	Under 1,500 sqft	No	stil fixing things	50+30 travel 	80
+1/9/2014	Summer Hua	40 Los Altos Sq , Los Altos, CA, 94022	Under 1,500 sqft	Yes		50	50
+1/9/2014	Theo Espinosa	2133 Nobili Ave , Santa Clara, CA, 95051	1,501 - 2,000 sqft	Yes		50+10(1,786)	60
+1/10/2014	Annie Zhou	661 Montara Terrace , Sunnyvale, CA, 94085	1,501 - 2,000 sqft	Yes		50+10(1,612)	60
+1/10/2014	Leon Le	918 McBride Loop , San Jose, CA, 95125	1,501 - 2,000 sqft	Yes		50+10(1,949)	60
+1/10/2014	Frank Kuo	620 Phil Court , Cupertino, CA, 95014	1,501 - 2,000 sqft	Yes		50+10(1,516 )	60
+1/10/2014	Mary Tan 	10330 Lockwood Drive , Cupertino, CA, 95014	2,001 - 3,000 sqft	Yes		50+35(2,702)+10Park	95
+1/11/2014	Lisa Loud	1216 Hollenbeck Ave , Sunnyvale, CA, 94087	2,001 - 3,000 sqft	Yes		50+55(2,100 Weekend Rate)	105
+1/13/2014	Catherine Qian	19266 Bountiful Acres , Saratoga, CA, 95070	2,001 - 3,000 sqft	Yes		50+50(3,319)	100
+1/13/2014	thuy do	3224 Terra Cotta Dr , San Jose, CA, 	1,501 - 2,000 sqft	Yes		50+10(1,829)	60
+1/13/2014	Chris Mosher	5842 El Dori , San Jose, CA, 95123	2,001 - 3,000 sqft	No	still cleaning	50	50
+1/13/2014	Chris Mosher	5842 El Dori , San Jose, CA, 95123	2,001 - 3,000 sqft	No	stil fixing things	50	50
+1/13/2014	Anna Liang	18481 Vanderbilt Drive , Saratoga, CA, 95070	Under 1,500 sqft	No	stil fixing things	50	50
+1/13/2014	Nathan Nguyen	4884 Rue Loiret , San Jose, CA, 95136	Under 1,500 sqft	No	still cleaning had to help out clean stuff	50	50
+1/14/2014	Monica Yeung	5518 Carew Way , San Jose, CA, 95123	1,501 - 2,000 sqft	No	still working on the property	50+10(1,501 - 2,000)	60
+1/14/2014	Ady Wunderman	1432 Alegria Loop , San Jose, CA, 95128	1,501 - 2,000 sqft	Yes		50+10(1,860)	60
+1/14/2014	Robert Yu	22682 Liberty Oak Ln , Cupertino, CA, 95014	Under 1,500 sqft	Yes		50	50
+1/14/2014	Howard Bloom	598 Printy  Ave , Milpitas, CA, 95035	1,501 - 2,000 sqft	Yes		50+35(2,178)	85
+1/15/2014	Dave Clark	1372 Cordilleras Avenue , Sunnyvale, CA, 94087	3,001 - 4,000 sqft	No	still cleaning had to help out clean stuff	50+50(3,380)	100
+1/15/2014	Harjinder Singh	1724 Almond Blossom Lane , San Jose, CA, 95124	Under 1,500 sqft	No	had to move some water hose	50	50
+1/15/2014	Kevin Khoi	3063 Apperson Ridge Drive , San Jose, CA, 95148	Under 1,500 sqft	Yes		50	50
+1/15/2014	Jinny Ahn	4924 Morden Drive , San Jose, CA, 95130	1,501 - 2,000 sqft	Yes		50(1386)	50
+1/16/2014	Jack Jweinat	4345 Terrabella Way , Oakland, CA, 94619	1,501 - 2,000 sqft	No	still working on the property	50+10(1,725)+35Travel	95
+1/16/2014	Rod Creason	789 Manor Way , Los Altos, CA, 94024	5500 sqft	Yes		50+150(5,500)	200
+1/16/2014	Howard Bloom	4671 Albany Circle Unit 132 , San Jose, CA, 95129	Under 1,500 sqft	Yes		50	50
+1/16/2014	Rod Creason	789 Manor Way , Los Altos, CA, 94024	5500 sqft	Yes		130+270 (5,500)	400
+1/20/2014	Rabia Alizai	215 Peppermint Tree Ter Unit 5 , Sunnyvale, CA, 94086	1,501 - 2,000 sqft	Yes		50+10(1,586)	60
+1/20/2014	Frank Kuo	13590 Beaumont Ave , Saratoga, CA, 95070	1,501 - 2,000 sqft	Yes		50+10(1,704)	60
+1/21/2014	Alex	3368 Napoli Loop , San Jose, CA, 95135	Under 1,500 sqft	Yes		50	50
+1/21/2014	Howard Bloom	2447 Villa Nueva Way , Mountain View, CA, 94040	1,501 - 2,000 sqft	Yes		50+10(1,910)	60
+1/21/2014	Alex	3368 Napoli Loop , San Jose, CA, 95135	Under 1,500 sqft	Yes		130	130
+1/22/2014	Alex Wang	240 Chiquita Ave , Mountain View, CA, 94041	2,001 - 3,000 sqft	Yes		50(individual units)	50
+1/22/2014	Alex Wang	240 Chiquita Ave , Mountain View, CA, 94041	2,001 - 3,000 sqft	No	owners had cats that keep getting in the shot	50(individual units)	50
+1/22/2014	Manie Kohn	183 Ruby Ave San Carlos, CA 94070, 	Under 1,500 sqft	Yes		50+30travel	80
+1/22/2014	Alex Wang	240 Chiquita Ave , Mountain View, CA, 94041	2,001 - 3,000 sqft	Yes		130(Individual Units)+130	260
+1/22/2014	Manie Kohn	183 Ruby Ave San Carlos, CA 94070, 	Under 1,500 sqft	Yes		130	130
+1/22/2014	Dave Clark	715 San Conrado Terrace Unit 6 , Sunnyvale, CA, 94085	Under 1,500 sqft	Yes		50	50
+1/27/2014	Rayin Lee	7260 Eagle Ridge Dr , Gilroy, CA, 95020	3,001 - 4,000 sqft	Yes		50+50(3,079)+35 travel	135
+1/27/2014	Mary 	18781 Newsom Avenue , Cupertino, CA, 	Under 1,500 sqft	Yes		50	50
+1/27/2014	Sirisha Sinha	332 Apple Blossonm Ln , Campbell, CA, 95008	1,501 - 2,000 sqft	Yes		50+35(2,069)+10 Park	95
+1/27/2014	Kevin Khoi	833 North Capitol Avenue, Unit 3 , San Jose, CA, 95133	Under 1,500 sqft	Yes		50+10 (train station)	60
+1/28/2014	Alana Lam	1558 Thornbriar Drive , San Jose, CA, 95131	Under 1,500 sqft	Yes		50	50
+1/28/2014	Mae Chang	3468 Flora Vista Ave , Santa Clara, CA, 95051	Under 1,500 sqft	Yes		50	50
+1/28/2014	Alex Wang	2378 Oakwood Dr , East Palo Alto, CA, 94303	Under 1,500 sqft	Yes		50+20 (Travel)	70
+1/29/2014	Justine Ford	3009 Melendy Drive Unit 2, San Carlos, CA, 94070	Under 1,500 sqft	Yes		50+10(1,570)+30travel	90
+1/29/2014	Kunja Kang	20488 Stevens Creek Blvd Unit 1402 , Cupertino, CA, 95014	Under 1,500 sqft	Yes		50+10(1,521)	60
+1/29/2014	Dave Clark	737 Pierino Avenue , Sunnyvale, CA, 94086	1,501 - 2,000 sqft	No	pool and hot tub had covers and alot of clutter in backyard 	50+10(1,529 )	60
+1/29/2014	Justine Ford	3009 Melendy Drive Unit 2, San Carlos, CA, 94070	Under 1,500 sqft	Yes		130+20(1,570)	150
+1/30/2014	Barbara Williams	651 Manresa Lane , Los Altos, CA, 94022	3,001 - 4,000 sqft	Yes		50+100(3,300+1,000sqfbasement)	150
+1/30/2014	Anita Hunter	7196 Queensbridge Way , San Jose, CA, 95120	2,001 - 3,000 sqft	Yes		50+50(3,055)	100
+1/30/2014	Valerie Lo	1935 Newbury Drive , Mountain View, CA, 94043	1,501 - 2,000 sqft	Yes		50+10(1,634 )+10Park	70
+1/31/2014	Max Lo	316 N El Camino Real Unit 312, San Mateo, CA, 94401	Under 1,500 sqft	Yes		50+30travel 	80
+1/31/2014	THE MARC, PALO ALTO	501 FOREST AVENUE , PALO ALTO, CA, 94301	Under 1,500 sqft	Yes		50+20 travel 	70
+1/31/2014	Betty Lin	114 Ross Creek Lane , Los Gatos, CA, 95032	2,001 - 3,000 sqft	No		50+35(2,195 )	85
+1/31/2014	Susan Kwon	4690 Calle De Farrar , San Jose, CA, 95118	1,501 - 2,000 sqft	Yes		50+10(1,614 )	60
+2/3/2014	Rebecca Pai	1414 Essex Way , San Jose, CA, 95117	Under 1,500 sqft	No	clutter everywhere 	50	50
+2/3/2014	Helen Lin	48972 Woodgrove Common , Fremont, CA, 94539	1,501 - 2,000 sqft	Yes		50+10(1,670)+20Travel	80
+2/4/2014	Jack Jweinat	677 Moraga Rd , Lafayette, CA, 94549	6500 sqft	Yes		50+150(5,702)+40Travel	240
+2/4/2014	Debbie Sharp	1229 Paloma Drive , Burlingame, CA, 94010	Under 1,500 sqft	Yes		50+30Travel 	80
+2/4/2014	Dedy Efendi	1269 Poplar Avenue Unit 106 , Sunnyvale, CA, 94086	Under 1,500 sqft	Yes		50	50
+2/5/2014	Dorit Alon	801 S. Winchester Blvd Unit 5100 , San Jose, CA, 95128	Under 1,500 sqft	No	not ready at all, had to help out clear stuff	50	50
+2/5/2014	Jaime Gonzalez	555 Skyline Drive , Daly City, CA, 94015	Under 1,500 sqft	Yes		50+35 Travel 	85
+2/5/2014	Olivia Lee	1142 Continentals Way , Belmont, CA, 94402	1,501 - 2,000 sqft	Yes		50+10(1,540)+30Travel 	90
+2/5/2014	Steve McCoy	286 Russo Comons , San Josw, CA, 95127	1,501 - 2,000 sqft	Yes		50+10(1,547)	60
+2/5/2014	Dave Clark	3799 Swallow Way , Santa Clara, CA, 95051	2,001 - 3,000 sqft	Yes		50+35(2,213 )	85
+2/6/2014	Frank Kuo	285 Heinlen Court , San Jose, CA, 95112	Under 1,500 sqft	Yes		50	50
+2/7/2014	xin cindy liu	300 Spence , Milpitas, CA, 95035	Under 1,500 sqft	Yes		50	50
+2/7/2014	Monica Yeung	3485 Prince Phillip Ct , San Jose, CA, 95132	Under 1,500 sqft	Yes		50	50
+2/7/2014	Nathan Nguyen	535 Castlerock Ct. , Sunnyvale, CA, 94087	1,501 - 2,000 sqft	Yes		50+10(1,540)	60
+2/10/2014	chris mosher	6272 Bothell Circle , San Jose, CA, 95123	1,501 - 2,000 sqft	No	property was not ready, did some shots then they had me reshot it because it was not ready but didnt say in the begining	50+10(1,562)	60
+2/10/2014	Julie Tsai Law	4248 Rickey\'s Way Unit J , Palo Alto, CA, 94306	1,501 - 2,000 sqft	No	property was not ready, did some shots then they had me reshot it because it was not ready but didnt say in the begining	50+10(1,500-2,000)+20Travel	80
+2/11/2014	Mary Ann Wallace	4681 Albany Cir Unit 140 , San Jose, CA, 95129	Under 1,500 sqft	Yes		50	50
+2/11/2014	Kim Connor	432 Tmor Terrace , Sunnyvale, CA, 94089	1,501 - 2,000 sqft	Yes		50+10(1,740)	60
+2/11/2014	Kim Connor	1493 Sturgeon Way , San Jose, CA, 95129	1,501 - 2,000 sqft	Yes		50+10(1,548)	60
+2/11/2014	Chelsea Bass	900 Wisconsin St , San Francisco, CA, 94107	Under 1,500 sqft	Yes		20 reschedule+35 travel	55
+2/11/2014	Justine Ford	2457 Melendy Drive , San Carlos, CA, 94070	1,501 - 2,000 sqft	No	not ready, make me a 45min delay	50+35(2,050)+30travel	115
+2/11/2014	Justine Ford	2457 Melendy Drive , San Carlos, CA, 94070	1,501 - 2,000 sqft	No	make me delay 45 min owners were still home getting items in and out of the house. 	130+40(2,050)	170
+2/12/2014	Jeff Ling	5190 Alan Ave , San Jose, CA, 95124	2,001 - 3,000 sqft	Yes		50+35(2,080)+20Rush	105
+2/12/2014	Tom Correia	751 Leong Drive , Mountain View, CA, 94041	Under 1,500 sqft	Yes		50	50
+2/12/2014	Chelsea Bass	900 Wisconsin St , San Francisco, CA, 94107	Under 1,500 sqft	No	had to help move stuff	50+10Basement+35travel 	95
+2/12/2014	Julie Tsai Law	4248 Rickey\\\\\\\'s Way Unit J , Palo Alto, CA, 94306	15001 - 2000	Yes		35 only some shots+20 travel 	55
+2/12/2014	thuy do	2309 Warfield Way Unit B , San Jose, CA, 95122	Under 1,500 sqft	Yes		50	50
+2/13/2014	Olivia Lee	222 8th Ave, Unit 320 , San Mateo, CA, 94401	1,501 - 2,000 sqft	Yes		50+10(1,693)+30 travel 	90
+2/13/2014	Yvette Stout	1250 Dewey Street , Redwood City, CA, 94061	Under 1,500 sqft	Yes		50+25(travel)+10(Attached office backyard)	85
+2/14/2014	Justine Ford	2089 Eaton Ave San , San Carlos, CA, 94070	1,501 - 2,000 sqft	No	adress was wrong, didnt have access code to remove lock box, too many water hoses to remove in backyard, owner was planting flowers in backyard as well	50+10(1,600)+30Travel	90
+2/14/2014	Kiet Tran	1780 Via Cinco De Mayo , San Jose, CA, 95132	1,501 - 2,000 sqft	Yes		50+10(1,999)	60
+2/14/2014	Justine Ford	2089 Eaton Ave San , San Carlos, CA, 94070	1,501 - 2,000 sqft	No	adress was wrong, didnt have access code to remove lock box, too many water hoses to remove in backyard, owner was planting flowers in backyard as well	130+20(1,600)	150
+2/17/2014	Kevin Pickett	713 Melissa Ct , San Mateo, CA, 94402	2,001 - 3,000 sqft	No	workes kept going in the shots, multiple areas were not ready (kitchen, front, Family Room, Backyard) rushed to try to finish entire video and photos shoot  	130+40(2,710)	170
+2/17/2014	Kevin Pickett	713 Melissa Ct , San Mateo, CA, 94402	2,001 - 3,000 sqft	Yes		50+35(2,710)+30Travel	115
+2/17/2014	Miri Bialik	812 Corvallis , Sunnyvale, CA, 94087	1,501 - 2,000 sqft	No	still cleaning and fixing stuff, had to work around them thru out the whole shoot	50+10(1805 )	60
+2/17/2014	Sara Greenwood	1238 Robway Avenue , Campbell, CA, 95008	1,501 - 2,000 sqft	Yes		50+10(1572)	60
+2/17/2014	Alex Wang	722 Russett Terrace , Sunnyvale, CA, 94087	Under 1,500 sqft	Yes		50	50
+2/17/2014	Alex Wang	722 Russett Terrace , Sunnyvale, CA, 94087	Under 1,500 sqft	Yes		130	130
+2/18/2014	Michael McDonald	506 W Cliff Dr , Santa Cruz, CA, 95060	Under 1,500 sqft	Yes		50+10(1,890)+40Travel	100
+2/18/2014	Christine Ko	4876 Rue Loiret , San Jose, CA, 95136	1,501 - 2,000 sqft	Yes		50+10(1,732)	60
+2/18/2014	John Chao	1701 Mossbrook Avenue , San Jose, CA, 95130	1,501 - 2,000 sqft	No	people working on the property	50+10(1,785)	60
+2/19/2014	Justine Ford	3121 Melendy Dr , San Carlos, CA, 94070	1,501 - 2,000 sqft	Yes		50+10(1,890)+30travel	90
+2/19/2014	Justine Ford	917 Rosewood Ave. , San Carlos, CA, 94070	1,501 - 2,000 sqft	Yes		50+10(1,870)	60
+2/19/2014	Justine Ford	917 Rosewood Ave. , San Carlos, CA, 94070	1,501 - 2,000 sqft	Yes		50+10(1,870)+10 Office attach by garage	70
+2/19/2014	Gabe Gabrielson	1460 Luning Dr. , San Jose, CA, 95118	2,001 - 3,000 sqft	Yes		50+35(2,318 )	85
+2/19/2014	Justine Ford	3121 Melendy Dr , San Carlos, CA, 94070	1,501 - 2,000 sqft	Yes		130+20(1,890)	150
+2/19/2014	Justine Ford	917 Rosewood Ave. , San Carlos, CA, 94070	1,501 - 2,000 sqft	Yes		130+20(1,870)+20Office by garage, room not listed	170
+2/20/2014	Jack	2325 Falling Water Ct , Santa Clara, CA, 95054	1,501 - 2,000 sqft	Yes		50+10(1,564)+20rush	80
+2/20/2014	Michael Galli	201 Flynn Avenue Unit 22 , Mountain View, CA, 94043	Under 1,500 sqft	Yes		50	
+2/20/2014	Bill Gorman	14900 Farwell Ave. , Saratoga, CA, 95070	4024 sqft	Yes		50+100(4,024)	150
+2/20/2014	Howard Bloom	344 Oaktree Drive , Mountain View, CA, 94040	Under 1,500 sqft	Yes		50+10 Park	60
+2/20/2014	Erick Fernandez	675 Serenade Way , San Jose, CA, 95111	Under 1,500 sqft	No	clean stuff	50	
+2/20/2014	Kamala Venkatesan	214 Wyandotte , San Jose, CA, 95123	2,001 - 3,000 sqft	No	still cleaning	50+35(2,186)	85
+2/20/2014	Bill Gorman	14900 Farwell Ave. , Saratoga, CA, 95070	4024 sqft	Yes		50+50Twilight	100
+2/21/2014	Carol DesCamp	1060 S 3rd St Unit 122 , San Jose, CA, 95112	Under 1,500 sqft	Yes		50	50
+2/21/2014	Dorit Alon	801 S. Winchester Blvd Unit  3405 , San Jose, CA, 95128	Under 1,500 sqft	Yes		50	50
+2/21/2014	Kumar Talluri	1474 Montego Dr , San Jose, CA, 95120	2,001 - 3,000 sqft	Yes		50+35(2,275)+10Park	95
+2/21/2014	Mary Tan;George Tan	10745 N. De Anza Blvd. , Cupertino, CA, 95014	1,501 - 2,000 sqft	Yes		50+10(1,638)	60
+2/21/2014	Catherine Qian	8136 Park Villa Cir , Cupertino, CA, 95014	Under 1,500 sqft	Yes		50	50
+2/24/2014	Doug Gonzalez	2415 Hillside Drive , Burlingame, CA, 94010	2,001 - 3,000 sqft	Yes		50+35(2,000-3,000)+30Travel	115
+2/24/2014	Frank Kuo	286 Pettis Ave , Mountain View, CA, 94041	1,501 - 2,000 sqft	Yes		50+10(1,678)	60
+2/24/2014	Ping Cao	4159 El Camino Way Unit B , Palo Alto, CA, 94306	Under 1,500 sqft	Yes		50+20 travel 	70
+2/24/2014	Sara Greenwood	827 Widget Drive , San Jose, CA, 95117	Under 1,500 sqft	Yes		50	50
+2/24/2014	Frank Kuo	382 E. Hedding St , San Jose, CA, 95112	1,501 - 2,000 sqft	Yes		50+10(1,675)	60
+2/24/2014	Gabe Gabrielson	445 Casselino Dr. , San Jose, CA, 95136	Under 1,500 sqft	Yes		50	50
+2/25/2014	Dave Clark	1055 Prune Court , Sunnyvale, CA, 94087	2,001 - 3,000 sqft	No	workers in the front planting flowers, property not ready at all, alot of clutter to move around	50+35(2,106)		85
+2/25/2014	Angie	6238 Hopi Circle , San JOse, CA, 95123	Under 1,500 sqft	Yes		50+10(School)	60
+2/25/2014	Frank Kuo	13349 McCulloch Ave , Saratoga, CA, 95070	1,501 - 2,000 sqft	No	still cleaning and fixing stuff	50+10(1,546)	60
+2/25/2014	Adele Della-Santina	8 Arroyo View Circle , Belmont, CA, 94002	Under 1,500 sqft	Yes		50+10(1,520+30travel	90
+2/25/2014	Adele Della-Santina	8 Arroyo View Circle , Belmont, CA, 94002	Under 1,500 sqft	Yes		50+10(1,520)Twilights 	60
+2/25/2014	Mary Tan;George Tan	10745 N. De Anza Blvd. , Cupertino, CA, 95014	1,501 - 2,000 sqft	Yes		130+20(1,638)+10Intro	160
+2/26/2014	Justine Ford	990 Orange Avenue , San Carlos, CA, 94070	Under 1,500 sqft	Yes		50+30 travel 	80
+2/26/2014	Mi Young Lee	590 Marlin Court , Redwood City, CA, 94065	1,501 - 2,000 sqft	No	still staging 	50+10(1,740)+25Travel 	85
+2/26/2014	Georgie Huff	108 Balbach Unit 12 , San Jose, CA, 95110	Under 1,500 sqft	No	had to help move stuff	50+10(1,675)	60
+2/26/2014	Justine Ford	990 Orange Avenue , San Carlos, CA, 94070	Under 1,500 sqft	Yes		130	130
+2/27/2014	Shawn Chen	3227 Sieber Way , San Jose, CA, 95111	Under 1,500 sqft	Yes		50	50
+2/28/2014	Torie Santos	7555 Circle Hill Drive, , Oakland, CA, 94605	Under 1,500 sqft	Yes		40 + 25 Distance	65
+2/28/2014	Heather Hansen	1919Alameda Unit 90 , San Mateo, CA, 94404	Under 1,500 sqft	Yes		50+30 travel 	80
+2/28/2014	Rip Miller	1765 Crockett Lane , Hillsborough, CA, 94010	3,001 - 4,000 sqft	No	still cleaning	50+50(3,600 )+30Travel	130
+2/28/2014	Mary Tan, George Tan	10564 Meteor Place , Cupertino, CA, 95014	1,501 - 2,000 sqft	No	still staging 	50+10(1,852)	60
+3/3/2014	James Fucillo	2494 Lone Oak Drive , San Jose, CA, 95121	Under 1,500 sqft	No	had to help move stuff	50+10(1,678)	60
+3/3/2014	Alisa	1623 Juanita Avenue , San Jose, CA, 95125	2,001 - 3,000 sqft	Yes		50+35(2,462)+10Panos+10Attic	115
+3/3/2014	Howard Bloom	1534 Clay Drive , Los Altos, CA, 94024	2,001 - 3,000 sqft	Yes		50+35(2,592)+10Panos	95
+3/3/2014	Qi Jing	230 Alvarez Common , Milpitas, CA, 95035	1,501 - 2,000 sqft	Yes		50+10(park)+10(1,770)+10Panos	80
+3/3/2014	Mary Tan, George Tan	10564 Meteor Place , Cupertino, CA, 95014	1,501 - 2,000 sqft	Yes		130+20(1,852)+10 Intro	160
+3/4/2014	Rabia Alizai	501 San Jorge Ter , Sunnyvale, CA, 94089	1,501 - 2,000 sqft	Yes		50+10(1,615)+20(Rush)+10(Panos)	90
+3/4/2014	Julie Tsai Law	648 W. Garland Ter , Sunnyvale, CA, 94086	Under 1,500 sqft	Yes	didnt get photos of sauna, and spa since i didnt have access, took photo of pool from over the fence	50+10Panos	60 
+3/4/2014	John Chao	4030 Soelro Court , San Jose, CA, 95127	3,001 - 4,000 sqft	Yes		50+100(4,168)+10 panos 	160 
+3/4/2014	Justine Ford	1906 St. Francis , San Carlos, CA, 94070	1,501 - 2,000 sqft	Yes		50+10(1,620)+30Travel	90
+3/4/2014	Justine Ford	1906 St. Francis , San Carlos, CA, 94070	1,501 - 2,000 sqft	Yes		130+20(1,620) 	150
+3/4/2014	internet	internet-February	3,001 - 4,000 sqft	Yes		75	75 internet February-if you can please pitch in with $75, we appreciate it.Thanks
+3/5/2014	Dave Clark	566 Carlisle Way , Sunnyvale, CA, 94087	2,001 - 3,000 sqft	Yes		50+35(2,524)+10Panos 	95
+3/5/2014	Adele Della-Santina	2616 Hallmark Drive , Belmont, CA, 94002	3,001 - 4,000 sqft	Yes		50+50(3,001 - 4,000)+30Travel+10Panos	140
+3/5/2014	Kim Connor	1742 Plaza Sol , San Jose, CA, 95131	2,001 - 3,000 sqft	No	still staging, and cleaning stuff 	50+35(2,036)+10Park+10 Panos 	105
+3/6/2014	Dave Clark	1457 Hollenbeck Avenue , Sunnyvale, CA, 94087	1,501 - 2,000 sqft	No	agent submitted wrong adress	50+10(1,768 )+10panos+20reschedule	90
+3/6/2014	Jinny Ahn	5946 Crossmont Circle , San Jose, CA, 95120	3,001 - 4,000 sqft	No	not ready at all, car parked in drive way, called agent no response, too much clutter to move	50+50(3,260)+10 panos 	110
+3/6/2014	Jinny Ahn	693 W. Remington Drive , Sunnyvale, CA, 94087	2,001 - 3,000 sqft	No	people working in front and backyard, workers took too long for me to wait for them to clear out the front and back, had to shoot as is 	50+35(2,015)+10panos+20 reschedule	115
+3/6/2014	Julie Tsai Law	4178 King Arthur Ct , Palo Alto, CA, 94306	2,001 - 3,000 sqft	No	julie had another photographer shooting at the same time as me, throughout my entire shoot, wasnt able to get as many shots as i wanted to for twilights, please advice agent to not schedule people as the same time as us. 	50+20(2,375)Twilights	70
+3/6/2014	Julie Tsai Law	4178 King Arthur Ct , Palo Alto, CA, 94306	2,001 - 3,000 sqft	No	owner occupy and agent , people kept walking in my shots 	50+35(2,375)+20travel	105
+3/7/2014	Martin Ku	112 Amber Oak Ct , Los Gatos, CA, 95032	1,501 - 2,000 sqft	Yes		50+10(1,620)+10panos	70
+3/7/2014	Monica Yeung	3407 Prince Albert Ct , San Jose, CA, 95132	Under 1,500 sqft	No	agent got there a few min after	50	50
+3/7/2014	Mary Tan	228 Gabilan Avenue , Sunnyvale, CA, 94086	1,501 - 2,000 sqft	Yes		50+10(1,543)	60
+3/7/2014	Mary Tan	2550 Huran Court , San Jose, CA, 95122	1,501 - 2,000 sqft	Yes		50+10(1,613)	60
+3/7/2014	Julie Tsai Law	648 W. Garland Ter , Sunnyvale, CA, 94086	Under 1,500 sqft	No	agent didnt metion bonus bedroom, had to go back and reshoot 	10bonus bedroom	10
+3/7/2014	Jinny Ahn	14610 Quito Road , Los Gatos, CA, 95032	7312 sqft	Yes		50+300(8,001+)+10Panos 	360

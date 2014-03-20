@@ -1,20 +1,11 @@
-class SiteController < ApplicationController
-
-  before_action :is_authenticated?
+class SiteController < ActionController::Base
+  # Prevent CSRF attacks by raising an exception.
+  # For APIs, you may want to use :null_session instead.
 
   def index
-    # render json: User.all.entries
-    @users = User.all.entries
   end
 
-  def privacy
-  end
-
-  def terms
-  end
-
-  def wdi
-    @fuck = "you"
+  def login
   end
 
 end

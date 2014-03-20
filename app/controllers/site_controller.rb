@@ -5,7 +5,10 @@ class SiteController < ActionController::Base
   def index
   end
 
-  def login
+  def privacy
+  end
+
+  def terms
   end
 
 end

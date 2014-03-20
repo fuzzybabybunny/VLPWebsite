@@ -3,7 +3,8 @@
 
   <head>
     <%= favicon_link_tag "favicon.ico" %>
-    <title>Victor Lin Photography</title>
+    <title>Victor Lin Photography</title>\
+    <%= stylesheet_link_tag "//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" %>
     <%= stylesheet_link_tag "global", "master", "site" %>
     <%= javascript_include_tag "application" %>
     <%= javascript_include_tag "//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js" %>
@@ -35,7 +36,7 @@
         <div id="nav">
           <div id="nav_left">
             <ul>
-              <li><a href="../realestate/index.php" class="navon"><%= image_tag "nav/nav_realestate.jpg", alt: "Real Estate" %></li>
+              <li><a href="../realestate/index.html" class="navon"><%= image_tag "nav/nav_realestate.jpg", alt: "Real Estate" %></li>
             </ul>
           </div>
           <div id="nav_right">
@@ -48,7 +49,7 @@
         </div>
         <div id="sub_nav">
           <ul>
-            <li><a href="index.php" class="navon">Introduction</a></li>
+            <li><a href="index.html" class="navon">Introduction</a></li>
             <li>|</li>
             <li><a href="images.php" class="navon">Images</a></li>
             <li>|</li>

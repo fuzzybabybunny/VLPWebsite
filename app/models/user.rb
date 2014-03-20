@@ -1,3 +1,5 @@
+#This is from Mongo, so it is going to perform differently from other class. For example, we're not initializing anything in it
+
 require 'bcrypt'
 
 PASSWORD_RESET_EXPIRES = 4

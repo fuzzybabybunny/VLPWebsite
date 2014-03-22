@@ -22,8 +22,6 @@ body#header_small {
 
 #container {
 	width:1000px;
-	margin:0 auto;
-	text-align:left;
 }
 
 #header {
@@ -564,11 +562,23 @@ body#header_small {
 
 /* SUB NAV */
 
+#sub_nav_wrapper {
+	width: 100%;
+	height: 90px;
+	background: rgba(0,0,0,0.2);
+	border-color: #fff;
+	border-bottom: 1px solid;
+	position: fixed;
+	top: 0;
+	z-index: 10;
+}
+
 #sub_nav {
+	white-space: nowrap;
 	width:936px !important;
-	width:1000px;
-	width/**/:/**/936px;
 	height:32px;
+	text-align: center;
+	margin-top: 35px;
 	padding-left:32px;
 	padding-right:32px;
 	background:url(../images/nav/navbg_subnav1.jpg) bottom left repeat-x;
@@ -584,8 +594,9 @@ body#header_small {
 	font-size:1.2em;
 	height:32px;
 	color:#8A8A8A;
-	float:left;
+	float:center;
 	display:block;
+	padding: 0, 10px, 0, 10px;
 }
 
 #sub_nav a:hover,

@@ -13,6 +13,25 @@
 
   <body id="header_big">
     <div id="container">
+      <div id="sub_nav_wrapper">
+        <div id="sub_nav" >
+
+          <a class="nav_item" href="index.html" class="navon">Introduction</a>
+
+          <a class="nav_item" href="images.html" class="navon">Images</a>
+
+          <a class="nav_item" href="videos.html" class="navon">Videos</a>
+
+          <a class="nav_item" href="single-property-websites.html" class="navon">Single Property Websites</a>
+
+          <a class="nav_item" href="technique.html" class="navon">Technique</a>
+
+          <a class="nav_item" href="prices.html" class="navon">Prices &amp; Ordering</a>
+
+          <a class="nav_item" href="testimonials.html" class="navon">Testimonials</a>
+
+        </div>
+      </div>
       <div id="header">
       <br/>
         <div id="example">
@@ -26,10 +45,10 @@
               <img src="../images/headers/landscape_header_thumb-6.jpg" width="1000" height="380" alt="Slide 6">
               <img src="../images/headers/landscape_header_thumb-7.jpg" width="1000" height="380" alt="Slide 7">
             </div>
-              <a href="#" class="prev"><img src="/images/slides/arrow-prev.png" width="24" height="43" alt="Arrow Prev"></a>
-              <a href="#" class="next"><img src="/images/slides/arrow-next.png" width="24" height="43" alt="Arrow Next"></a>
+              <a href="#" class="prev"><%= image_tag "slides/arrow-prev.png",width: "24", height:"43", alt:"Arrow Prev" %></a>
+              <a href="#" class="next"><%= image_tag "slides/arrow-next.png",width: "24", height:"43", alt:"Arrow Next" %></a>
           </div>
-          <img src="/images/slides/example-frame.png" width="1329" height="460" alt="Example Frame" id="frame">
+          <%= image_tag "slides/example-frame.png", width: "1329", height: "460", alt: "Example Frame", id: "frame" %>
         </div>
 
 
@@ -41,31 +60,16 @@
           </div>
           <div id="nav_right">
             <ul>
-              <li><a href="../about.php" ><%= image_tag "nav/nav_about.jpg", alt: "About" %></a></li>
+              <li><a href="../about.html" ><%= image_tag "nav/nav_about.jpg", alt: "About" %></a></li>
               <li>|</li>
-              <li style="margin-right:0px;"><a href="../contact.php" ><%= image_tag "nav/nav_contact.jpg", alt: "Contact" %></li>
+              <li style="margin-right:0px;"><a href="../contact.html" ><%= image_tag "nav/nav_contact.jpg", alt: "Contact" %></li>
             </ul>
           </div>
         </div>
-        <div id="sub_nav">
-          <ul>
-            <li><a href="index.html" class="navon">Introduction</a></li>
-            <li>|</li>
-            <li><a href="images.php" class="navon">Images</a></li>
-            <li>|</li>
-            <li><a href="videos.php" class="navon">Videos</a></li>
-            <li>|</li>
-            <li><a href="virtualtours.php" class="navon">Single Property Websites</a></li>
-            <li>|</li>
-            <li><a href="technique.php" class="navon">Technique</a></li>
-            <li>|</li>
-            <li><a href="prices.php" class="navon">Prices &amp; Ordering</a></li>
-            <li>|</li>
-            <li><a href="testimonials.php" class="navon">Testimonials</a></li>
-          </ul>
-        </div>
+
 
         <%= yield %>
+        <%= render partial: "layouts/messages" %>
 
       <div id="footer">
         <span class="orange footer_spacing">

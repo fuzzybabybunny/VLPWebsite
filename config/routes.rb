@@ -5,12 +5,21 @@ VLPRails::Application.routes.draw do
   root 'site#index'
 
   get 'index' => 'site#index'
+  get 'images' => 'site#images'
+  get 'videos' => 'site#videos'
+  get 'single-property-websites' => 'site#single-property-websites'
+  get 'technique' => 'site#technique'
+  get 'prices' => 'site#prices'
+  get 'testimonials' => 'site#testimonials'
+  get 'about' => 'site#about'
+  get 'contact' => 'site#contact'
+
+
   get 'login' => 'session#new'
   post 'login' => 'session#create'
   delete 'logout' => 'session#destroy'
 
   get 'logout' => 'session#destroy' # delete before deployment
-
 
   get 'privacy' => 'site#privacy'
   get 'terms' => 'site#terms'
@@ -20,5 +29,8 @@ VLPRails::Application.routes.draw do
   get 'reset/:code' => 'password#edit', as: :reset
   put 'reset/:code' => 'password#update'
   patch 'reset/:code' => 'password#update'
+
+
+  get 'order' => 'site#order'
 
 end

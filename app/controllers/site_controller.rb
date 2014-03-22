@@ -5,6 +5,30 @@ class SiteController < ActionController::Base
   def index
   end
 
+  def images
+  end
+
+  def videos
+  end
+
+  def single_property_websites
+  end
+
+  def technique
+  end
+
+  def prices
+  end
+
+  def testimonials
+  end
+
+  def about
+  end
+
+  def contact
+  end
+
   def privacy
   end
 

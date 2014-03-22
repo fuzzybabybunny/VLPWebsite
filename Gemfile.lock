@@ -139,6 +139,6 @@ DEPENDENCIES
   pry
   quiet_assets
   rails (= 4.0.3)
-  slim
+  slim (= 2.0.2)
   sprockets
   uglifier

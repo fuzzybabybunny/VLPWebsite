@@ -30,7 +30,8 @@ VLPRails::Application.routes.draw do
   put 'reset/:code' => 'password#update'
   patch 'reset/:code' => 'password#update'
 
-
   get 'order' => 'site#order'
+
+  get 'newsite' => 'newsite#index'
 
 end

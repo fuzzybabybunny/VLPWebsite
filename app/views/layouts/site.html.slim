@@ -26,16 +26,15 @@ html
             a.nav-links href="prices" Prices
             a.nav-links href="contact" Contact
             a.nav-links href="about" About
-
-
       .container
-        == yield
-        == render partial: "layouts/messages"
+        .content-container
+          == yield
+          == render partial: "layouts/messages"
 
       #push
 
     #footer
-      .container
+      .footer-container
         span.white.footer-spacing
           | Copyright &copy;
           javascript:

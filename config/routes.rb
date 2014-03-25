@@ -4,6 +4,7 @@ VLPRails::Application.routes.draw do
   # and defined in controller
   root 'site#index'
 
+  # MAIN SITE ROUTING
   get 'index' => 'site#index'
   get 'images' => 'site#images'
   get 'videos' => 'site#videos'
@@ -14,24 +15,26 @@ VLPRails::Application.routes.draw do
   get 'about' => 'site#about'
   get 'contact' => 'site#contact'
   get 'register' => 'site#register'
+  get 'order' => 'site#order'
 
+  # ORDER SUBMISSION FORM
+  post    'order'     =>  'order_submissions#create_order'
+  patch   'order/edit' =>  'order_submissions#edit_order'
+
+  # LOGIN / LOGOUT ROUTING
   get 'login' => 'session#new'
   post 'login' => 'session#create'
   delete 'logout' => 'session#destroy'
-
   get 'logout' => 'session#destroy' # delete before deployment
 
-  get 'privacy' => 'site#privacy'
-  get 'terms' => 'site#terms'
+  get 'admin' => 'backend#index'
 
-  get 'privacy/stuff' => 'site#stuff'
-
+  # RESET PASSWORD ROUTING
   get 'reset/:code' => 'password#edit', as: :reset
   put 'reset/:code' => 'password#update'
   patch 'reset/:code' => 'password#update'
 
-  get 'order' => 'site#order'
-
+  # TEST
   get 'newsite' => 'newsite#index'
 
 end

@@ -30,4 +30,6 @@ VLPRails::Application.configure do
   # Set Slim html output
 
   Slim::Engine.default_options[:pretty] = true
+
+  config.action_controller.include_all_helpers = true
 end

@@ -38,4 +38,8 @@ class SiteController < ActionController::Base
   def register
   end
 
+  def backend
+    redirect_to backend_url
+  end
+
 end

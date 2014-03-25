@@ -1,0 +1,130 @@
+
+#content
+  #left_even
+    h1 Order Inquiry Form
+    p Please submit an order inquiry and we will get in touch with you. Be sure to note our prices on the right.
+
+    = form_for :order_submissions, url: order_url, html: { id: "order_form"} do |f|
+      fieldset
+
+        legend Basic Information
+        #order-form.form-group
+          = f.text_field :agentFirstName, class: "form-control", class: "form-control", placeholder: "Agent's First Name", size: "40", autocomplete: "off", required: "required"
+        #order-form.form-group
+          = f.text_field :agentLastName, class: "form-control", class: "form-control", placeholder: "Agent's Last Name", size: "40", autocomplete: "off", required: "required"
+        #order-form.form-group
+          = f.text_field :agentEmail, class: "form-control", placeholder: "Agent's Email", size: "40", autocomplete: "off", required: "required"
+        #order-form.form-group
+          = f.text_field :agentPhone, class: "form-control", placeholder: "Agent's Phone Number", size: "40", autocomplete: "off", required: "required"
+        #order-form.form-group
+          = f.text_field :otherEmail, class: "form-control", placeholder: "Your Email (If different from above)", size: "40", autocomplete: "off"
+        #order-form.form-group
+          = f.text_field :address1Prop, class: "form-control", placeholder: "Address Line 1 of Property", size: "40", autocomplete: "off", required: "required"
+        #order-form.form-group
+          = f.text_field :address2Prop, class: "form-control", placeholder: "Address Line 2 of Property", size: "40", autocomplete: "off", required: "required"
+        #order-form.form-group
+          = f.text_field :city, class: "form-control", placeholder: "City", size: "40", autocomplete: "off", required: "required"
+        #order-form.form-group
+          = f.select(:state, options_for_select(us_states, "CA"))
+
+        / #order-form.form-group
+        /   p.dark-gray.dropdown-form
+        /     select autocomplete="off" name="state" required=""
+        /       option value="AL"  Alabama
+        /       option value="AK"  Alaska
+        /       option value="AZ"  Arizona
+        /       option value="AR"  Arkansas
+        /       option selected="" value="CA"  California
+        /       option value="CO"  Colorado
+        /       option value="CT"  Connecticut
+        /       option value="DE"  Delaware
+        /       option value="DC"  District of Columbia
+        /       option value="FL"  Florida
+        /       option value="GA"  Georgia
+        /       option value="HI"  Hawaii
+        /       option value="ID"  Idaho
+        /       option value="IL"  Illinois
+        /       option value="IN"  Indiana
+        /       option value="IA"  Iowa
+        /       option value="KS"  Kansas
+        /       option value="KY"  Kentucky
+        /       option value="LA"  Louisiana
+        /       option value="ME"  Maine
+        /       option value="MD"  Maryland
+        /       option value="MA"  Massachusetts
+        /       option value="MI"  Michigan
+        /       option value="MN"  Minnesota
+        /       option value="MS"  Mississippi
+        /       option value="MO"  Missouri
+        /       option value="MT"  Montana
+        /       option value="NE"  Nebraska
+        /       option value="NV"  Nevada
+        /       option value="NH"  New Hampshire
+        /       option value="NJ"  New Jersey
+        /       option value="NM"  New Mexico
+        /       option value="NY"  New York
+        /       option value="NC"  North Carolina
+        /       option value="ND"  North Dakota
+        /       option value="OH"  Ohio
+        /       option value="OK"  Oklahoma
+        /       option value="OR"  Oregon
+        /       option value="PA"  Pennsylvania
+        /       option value="RI"  Rhode Island
+        /       option value="SC"  South Carolina
+        /       option value="SD"  South Dakota
+        /       option value="TN"  Tennessee
+        /       option value="TX"  Texas
+        /       option value="UT"  Utah
+        /       option value="VT"  Vermont
+        /       option value="VA"  Virginia
+        /       option value="WA"  Washington
+        /       option value="WV"  West Virginia
+        /       option value="WI"  Wisconsin
+        /       option value="WY"  Wyoming
+        #order-form.form-group
+          = f.text_field :zipcode, class: "form-control", placeholder: "Zip Code", size: "40", autocomplete: "off", required: "required"
+        #order-form.form-group
+          = f.text_field :sqft, class: "form-control", placeholder: "Exact Square Footage of all Living Spaces", size: "40", autocomplete: "off", required: "required"
+        #order-form.form-group
+          = f.submit "Submit", class: "btn btn-success"
+        p
+
+        / legend Which Services would you like?
+
+        / .form-group
+        /   = f.check_box_tag(:hdrPhotos, true)
+        /   = label_tag(:hdrPhotos, "Unlimited HDR Photos - no Panoramas")
+        / .form-group
+        /   = f.check_box_tag(:panoramas, true)
+        /   = label_tag(:panoramas, "Panoramas / Virtual Tour Effect: $20")
+        / .form-group
+        /   = f.check_box_tag(:spw, true)
+        /   = label_tag(:spw, "Single Property Website: $25")
+        / .form-group
+        /   = f.check_box_tag(:url, false)
+        /   = label_tag(:url, "Custom Website Address")
+        /   p
+        /     | What would you like your custom website address for
+        /     | your Single Property Website to be?
+        /   .form-group
+        /     = f.text_field :urlDesired, class: "form-control", placeholder: "www.1234MainSt.com", size: "40", autocomplete: "off"
+        / .form-group
+        /   = f.check_box_tag(:videoFull, false)
+        /   = label_tag(:videoFull, "Full Motion Video Tour shot with Video Cameras")
+        / .form-group
+        /   = f.check_box_tag(:twilightPhotos, false)
+        /   = label_tag(:twilightPhotos, "Twilight Photography")
+        / .form-group
+        /   = f.check_box_tag(:twilightVideo, false)
+        /   = label_tag(:twilightVideo, "Twilight Videography - Video Tour shot with Video Cameras")
+        / .form-group
+        /   = f.check_box_tag(:rush, false)
+        /   = label_tag(:rush, "RUSH Delivery before 6PM: $50")
+        / .form-group
+        /   = f.check_box_tag(:tourfactory, false)
+        /   = label_tag(:tourfactory, "Upload to Agent's TourFactory Account: FREE with Single Property Website orders, $25 for orders without.")
+        /   p TourFactory Username and Password?
+        /   .form-group
+        /     = f.text_field :tourfactoryUsernamePassword, class: "form-control", placeholder: "", size: "40", autocomplete: "off"
+
+      / f.submit

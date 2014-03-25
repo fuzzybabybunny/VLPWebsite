@@ -23,23 +23,32 @@
 
 html, body {
   height: 100%;
-  background-image: url(<%= asset_path 'bg-images/bg1.jpg' %>);
+  background-image: url(<%= asset_path 'bg-images/bg_gradient-2.png' %>), url(<%= asset_path 'bg-images/bg1.jpg' %>) ;
   background-size: 1900px;
   font-family: 'Spinnaker', sans-serif;
   font-size: 100%;
   color: hsla(   0,   0.0%, 100.0%, 1 );
  }
 
+.container {
+  padding-top: 110px;
+}
+
 #content {
   width:1000px;
   padding-left:32px;
   padding-right:32px;
-  padding-top:60px;
+  padding-top:0px;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 100px;
-  background-color: hsla(0, 0.0%, 0.0%, 0.7);
+  margin-top: 0px;
   font-size: 90%;
+}
+
+.header {
+  background-image: url(<%= asset_path 'header_images/banner1.jpg' %>);
+  height: 250px;
+  max-width: 100%;
 }
 
 /* Wrapper for page content to push down footer */
@@ -67,7 +76,7 @@ html, body {
   top:0;
   left:0;
   font-family: 'Spinnaker', sans-serif;
-  font-size: 130%;
+  font-size: 100%;
   padding-top: 35px;
   transition: all 0.2s ease-in-out;
 }
@@ -75,7 +84,7 @@ html, body {
   height:40px;
   background-color: hsla(   0,   0.0%,  0.0%, 1 ) ; /*black*/
   font-family: 'Spinnaker', sans-serif;
-  font-size: 100%;
+  font-size: 85%;
   padding-top: 10px;
 }
 
@@ -96,8 +105,20 @@ html, body {
   text-shadow: 0px 1px 0px hsla(   0,   0.0%, 100.0%, 1 );
 }
 
+legend {
+  color: white;
+}
+
 .form-group {
   color: black;
+}
+
+#login {
+  width: 400px;
+}
+
+#order-form {
+  width: 400px;
 }
 
 .dropdown-form {
@@ -122,6 +143,10 @@ html, body {
   text-align: center;
 /*  padding-top: 5px;*/
   background-color: hsla(   0,   0.0%,  13.3%, 0.7 ) ;
+}
+
+.footer-container {
+
 }
 
 @media (max-width: 2000px) {

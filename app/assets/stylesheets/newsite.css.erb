@@ -53,21 +53,35 @@ html, body {
 
 .navbar .container {
   width: auto;
-  padding: 0;
 }
 
 #top-nav {
-  height: 100px;
   text-align: center;
-  padding-top: 35px;
+  width:100%;
+}
+
+.resize {
+  height:100px;
   background-color: hsla(   0,   0.0%,  0.0%, 0.7 ) ; /*dark gray*/
+  color: #fff;
+  top:0;
+  left:0;
+  font-family: 'Spinnaker', sans-serif;
+  font-size: 130%;
+  padding-top: 35px;
+  transition: all 0.2s ease-in-out;
+}
+.resize.tiny {
+  height:40px;
+  background-color: hsla(   0,   0.0%,  0.0%, 1 ) ; /*black*/
+  font-family: 'Spinnaker', sans-serif;
+  font-size: 100%;
+  padding-top: 10px;
 }
 
 .nav-links {
   margin-left: 20px;
   margin-right: 20px;
-  font-family: 'Spinnaker', sans-serif;
-  font-size: 130%;
 }
 
 .navbar a {

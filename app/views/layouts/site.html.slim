@@ -3,6 +3,7 @@ html
   head
     meta charset="utf-8"
     meta content="width=device-width, initial-scale=1.0" name="viewport"
+    = csrf_meta_tags
 
     title Victor Lin Photography
     = favicon_link_tag "favicon.ico"
@@ -25,6 +26,7 @@ html
             a.nav-links href="prices" Prices
             a.nav-links href="contact" Contact
             a.nav-links href="about" About
+
 
       .container
         == yield
@@ -62,3 +64,5 @@ javascript:
           $('#top-nav').addClass('tiny');
       }
   });
+
+

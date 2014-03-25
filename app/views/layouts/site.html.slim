@@ -1,27 +1,30 @@
 doctype html
 html
   head
+    meta charset="utf-8"
+    meta content="width=device-width, initial-scale=1.0" name="viewport"
+
     title Victor Lin Photography
     = favicon_link_tag "favicon.ico"
     = stylesheet_link_tag "//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css"
     = stylesheet_link_tag "newsite"
     = stylesheet_link_tag "http://fonts.googleapis.com/css?family=Spinnaker"
     = javascript_include_tag "application"
+    = javascript_include_tag "//ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"
 
   body
     #wrap
       .navbar.navbar-fixed-top
         .navbar-inner
-          .container
-            nav#top-nav role="navigation"
-              a.nav-links href="images" Images
-              a.nav-links href="videos" Videos
-              a.nav-links href="websites" Single Property Websites
-              a.nav-links href="technique" Technique
-              a.nav-links href="testimonails" Testimonials
-              a.nav-links href="prices" Prices
-              a.nav-links href="contact" Contact
-              a.nav-links href="about" About
+          #top-nav.container.resize
+            a.nav-links href="images" Images
+            a.nav-links href="videos" Videos
+            a.nav-links href="websites" Single Property Websites
+            a.nav-links href="technique" Technique
+            a.nav-links href="testimonials" Testimonials
+            a.nav-links href="prices" Prices
+            a.nav-links href="contact" Contact
+            a.nav-links href="about" About
 
       .container
         == yield
@@ -51,4 +54,11 @@ html
             pageTracker._trackPageview();
             } catch(err) {}
 
-
+javascript:
+  $(window).scroll(function () {
+      if ($(document).scrollTop() == 0) {
+          $('#top-nav').removeClass('tiny');
+      } else {
+          $('#top-nav').addClass('tiny');
+      }
+  });

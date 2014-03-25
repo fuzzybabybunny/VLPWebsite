@@ -13,7 +13,7 @@ VLPRails::Application.routes.draw do
   get 'testimonials' => 'site#testimonials'
   get 'about' => 'site#about'
   get 'contact' => 'site#contact'
-
+  get 'register' => 'site#register'
 
   get 'login' => 'session#new'
   post 'login' => 'session#create'

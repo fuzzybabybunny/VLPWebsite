@@ -10,22 +10,25 @@
  */
 
 .orange {
-  color: hsla(24, 100%, 30%, 1)
+  color: hsla(24, 100%, 30%, 1);
 }
 
 .white {
-  color: hsla(   0,   0.0%, 100.0%, 1 )
+  color: hsla(   0,   0.0%, 100.0%, 1 );
+}
+
+.dark-gray {
+  color: hsla(   0,   0.0%,  13.3%, 1 );   /* dark gray */
 }
 
 html, body {
   height: 100%;
   background-image: url(<%= asset_path 'bg-images/bg1.jpg' %>);
   background-size: 1900px;
+  font-family: 'Spinnaker', sans-serif;
+  font-size: 100%;
+  color: hsla(   0,   0.0%, 100.0%, 1 );
  }
-
-.container {
-  width: 100%;
-}
 
 #content {
   width:1000px;
@@ -34,7 +37,9 @@ html, body {
   padding-top:60px;
   margin-left: auto;
   margin-right: auto;
-  background-color: hsla(0, 0%, 0%, 0.2);
+  margin-top: 100px;
+  background-color: hsla(0, 0.0%, 0.0%, 0.7);
+  font-size: 90%;
 }
 
 /* Wrapper for page content to push down footer */
@@ -46,12 +51,16 @@ html, body {
   margin: 0 auto -45px;
 }
 
+.navbar .container {
+  width: auto;
+  padding: 0;
+}
+
 #top-nav {
-  width: 100%;
   height: 100px;
   text-align: center;
   padding-top: 35px;
-  background-color: hsla(   0,   0.0%,  13.3%, 0.7 ) ; /*dark gray*/
+  background-color: hsla(   0,   0.0%,  0.0%, 0.7 ) ; /*dark gray*/
 }
 
 .nav-links {
@@ -61,20 +70,33 @@ html, body {
   font-size: 130%;
 }
 
-nav a {
+.navbar a {
   text-decoration: none;
   color: hsla(   0,   0.0%, 100.0%, 1 );
   text-shadow: 0px 1px 0px hsla(   0,   0.0%, 100.0%, 0.5 );
 }
 
-nav a:hover {
+.navbar a:hover {
   text-decoration: none;
   color: hsla(   0,   0.0%, 100.0%, 1 );
   text-shadow: 0px 1px 0px hsla(   0,   0.0%, 100.0%, 1 );
 }
 
+.form-group {
+  color: black;
+}
+
+.dropdown-form {
+  margin-bottom: 15px;
+}
+
 #push {
   height: 45px;
+}
+
+.signature {
+  padding-bottom: 10px;
+  padding-left: 25px;
 }
 
 #footer {

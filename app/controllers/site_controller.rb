@@ -35,4 +35,7 @@ class SiteController < ActionController::Base
   def terms
   end
 
+  def register
+  end
+
 end

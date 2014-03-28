@@ -18,8 +18,11 @@ VLPRails::Application.routes.draw do
   get 'order' => 'site#order'
 
   # ORDER SUBMISSION FORM
-  post    'order'     =>  'order_submissions#create_order'
-  patch   'order/edit' =>  'order_submissions#edit_order'
+  post    'order'     =>  'backend#create'
+
+  # ORDER CRUD IN ADMIN PANEL
+  patch   'order' =>  'backend#update', as: :update_order_submission
+  get     'order' => 'bcakend#edit', as: :order_submission_form
 
   # LOGIN / LOGOUT ROUTING
   get 'login' => 'session#new'

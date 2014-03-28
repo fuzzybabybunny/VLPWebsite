@@ -11,7 +11,7 @@
     h1 Order Inquiries
     p Please submit an order inquiry and we will get in touch with you. Be sure to note our prices on the right.
 
-    = form_for :order_submissions, url: order_url, html: { id: "order_form"} do |f|
+    = form_for :order_submission, url: order_url, html: { id: "order_form"} do |f|
       fieldset
 
         legend Basic Information
@@ -28,7 +28,7 @@
         #order-form.form-group
           = f.text_field :address1Prop, class: "form-control", placeholder: "Address Line 1 of Property", size: "40", autocomplete: "off", required: "required"
         #order-form.form-group
-          = f.text_field :address2Prop, class: "form-control", placeholder: "Address Line 2 of Property", size: "40", autocomplete: "off", required: "required"
+          = f.text_field :address2Prop, class: "form-control", placeholder: "Address Line 2 of Property", size: "40", autocomplete: "off"
         #order-form.form-group
           = f.text_field :city, class: "form-control", placeholder: "City", size: "40", autocomplete: "off", required: "required"
         #order-form.form-group

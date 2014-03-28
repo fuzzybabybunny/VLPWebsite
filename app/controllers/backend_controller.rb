@@ -1,41 +1,61 @@
-class BackendController < ActionController::Base
-  # Prevent CSRF attacks by raising an exception.
-  # For APIs, you may want to use :null_session instead.
-  protect_from_forgery with: :exception
-  helper_method :current_user
-  before_filter :make_action_mailer_user_request_host_and_protocol
+class BackendController < ApplicationController
+  before_action :is_authenticated?
 
   layout "site"
 
-  def is_authenticated?
-    #check session hash for a :user_id (true/false)
-    # not session[:user_id].nil?
-    # redirect_to login_url if session[:user_id].nil?
-    redirect_to admin_url unless current_user
+  def index
+    @users = User.all.entries
+    @order_submissions = OrderSubmission.all.entries
   end
 
-  def current_user
-    # Notice that we don't need to do User.new for this. Because User is a Mongo thing.
-    @current_user ||= User.find_by(id: session[:user_id])
+  def show
   end
 
-  def log_user_in(user, notice = nil)
-    if user
-      session[:user_id] = user.id
-      redirect_to root_url, notice: notice
+  def new
+    @order_submission = OrderSubmission.new
+  end
+
+  def create
+    @order_submission = OrderSubmission.new( order_submission_params )
+
+    if @order_submission.save
+      redirect_to order_url( @order_submission )
+    else
+      flash.now[:alert] = @order_submission.errors
+      render :new
     end
   end
 
-  def log_user_out
-    session[:user_id] = nil
-    redirect_to login_url, notice: "You've successfully logged out."
+  def edit
+  end
+
+  def update
+    if @order_submission.update_attributes( prder_submission_params )
+      redirect_to order_submission_url( @order_submission)
+    else
+      flash.now[:alert] = @order_submission_errors
+      render :edit
+    end
+  end
+
+  def destroy
+    @order_submission.destroy
+    redirect_to order_submissions_url, notice: "Deleted #{@order_submission.address1Prop}."
   end
 
   private
 
-  def make_action_mailer_user_request_host_and_protocol
-    ActionMailer::Base.default_url_options[:protocol] = request.protocol
-    ActionMailer::Base.default_url_options[:host] = request.host_with_port
+  def get_order_submission
+    @order_submission = OrderSubmission.find( params[:id] )
   end
+
+  def order_submission_params
+    params.require(:order_submission).permit(
+      :agentFirstName, :agentLastName, :agentEmail, :agentPhone,
+      :otherEmail, :address1Prop, :address2Prop, :city,
+      :state, :zipcode, :sqft)
+  end
+
+
 
 end

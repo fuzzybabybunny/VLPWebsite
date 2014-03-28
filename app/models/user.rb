@@ -22,10 +22,18 @@ class User
   validates :email, presence: true, uniqueness: {case_sensitive: false}
   validates :password, confirmation: true
 
+  # Used to authenticate a user
+
   def self.authenticate email, password
     user = User.find_by email: email
     user if user and user.authenticate(password)
   end
+
+  def authenticate password
+    self.fish == BCrypt::Engine.hash_secret(password, self.salt)
+  end
+
+  # Used for Password Reset
 
   def self.find_by_code code
     if user = User.find_by({:code => code, :expires_at => {"$gte" => Time.now.gmtime}})
@@ -33,11 +41,6 @@ class User
     end
     user
   end
-
-  def authenticate password
-    self.fish == BCrypt::Engine.hash_secret(password, self.salt)
-  end
-
 
   def set_password_reset
     self.code = SecureRandom.urlsafe_base64

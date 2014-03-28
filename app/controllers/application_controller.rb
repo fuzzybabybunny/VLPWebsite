@@ -5,6 +5,7 @@ class ApplicationController < ActionController::Base
   helper_method :current_user
   before_filter :make_action_mailer_user_request_host_and_protocol
 
+
   def is_authenticated?
     #check session hash for a :user_id (true/false)
     # not session[:user_id].nil?

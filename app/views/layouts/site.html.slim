@@ -20,7 +20,7 @@ html
           #top-nav.container.resize
             a.nav-links href="images" Images
             a.nav-links href="videos" Videos
-            a.nav-links href="websites" Single Property Websites
+            a.nav-links href="single-property-websites" Single Property Websites
             a.nav-links href="technique" Technique
             a.nav-links href="testimonials" Testimonials
             a.nav-links href="prices" Prices
@@ -45,7 +45,8 @@ html
         span.white.footer-spacing
           | All rights reserved.
         span.footer-spacing
-          a href="login.html"  Login
+          = show_login_or_logout
+
           javascript:
             var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
             document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));

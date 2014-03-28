@@ -1,8 +1,10 @@
 p
-  = "Welcome, #{@current_user.email}"
+  h1.center
+    = "Welcome, #{@current_user.email}"
 
 p
-  | All Registered Users
+  h2
+    | All Registered Users
 
 ol
   - @users.each do |some_user|
@@ -10,7 +12,8 @@ ol
       = some_user.email
 
 p
-  | All Orders
+  h2
+    | All Orders
 
 table.table.table-bordered
   thead
@@ -32,4 +35,4 @@ table.table.table-bordered
         td = order.city
         td = order.state
         td = order.zipcode
-        td = order._id
+        td = link_to "edit", ordering_url(order)

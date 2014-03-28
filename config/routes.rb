@@ -15,27 +15,29 @@ VLPRails::Application.routes.draw do
   get 'about' => 'site#about'
   get 'contact' => 'site#contact'
   get 'register' => 'site#register'
-  get 'order' => 'site#order'
+
+  # ORDER CRUD IN ADMIN PANEL
+  patch   'ordering/:id' =>  'backend#update', as: :update_order_submission
+  get     'ordering/:id' => 'backend#edit', as: :ordering
 
   # ORDER SUBMISSION FORM
   post    'order'     =>  'backend#create'
 
-  # ORDER CRUD IN ADMIN PANEL
-  patch   'order' =>  'backend#update', as: :update_order_submission
-  get     'order' => 'bcakend#edit', as: :order_submission_form
+  get 'order' => 'site#order'
 
   # LOGIN / LOGOUT ROUTING
-  get 'login' => 'session#new'
-  post 'login' => 'session#create'
-  delete 'logout' => 'session#destroy'
-  get 'logout' => 'session#destroy' # delete before deployment
+  get     'login' => 'session#new'
+  post    'login' => 'session#create'
+  delete  'logout' => 'session#destroy'
+  get     'logout' => 'session#destroy' # delete before deployment
 
+  # BACKEND ROUTING
   get 'admin' => 'backend#index'
 
   # RESET PASSWORD ROUTING
-  get 'reset/:code' => 'password#edit', as: :reset
-  put 'reset/:code' => 'password#update'
-  patch 'reset/:code' => 'password#update'
+  get     'reset/:code' => 'password#edit', as: :reset
+  put     'reset/:code' => 'password#update'
+  patch   'reset/:code' => 'password#update'
 
   # TEST
   get 'newsite' => 'newsite#index'

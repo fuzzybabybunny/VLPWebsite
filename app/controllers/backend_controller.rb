@@ -1,5 +1,6 @@
 class BackendController < ApplicationController
   before_action :is_authenticated?
+  before_action :get_current_order_submission, except: [ :index, :new, :create, :admin ]
 
   layout "site"
 
@@ -27,6 +28,7 @@ class BackendController < ApplicationController
   end
 
   def edit
+    @current_order_submission = OrderSubmission.find( params[:id] )
   end
 
   def update
@@ -45,8 +47,8 @@ class BackendController < ApplicationController
 
   private
 
-  def get_order_submission
-    @order_submission = OrderSubmission.find( params[:id] )
+  def get_current_order_submission
+    @current_order_submission = OrderSubmission.find( params[:id] )
   end
 
   def order_submission_params

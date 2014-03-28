@@ -1,0 +1,175 @@
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} runtime: 36.2234ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>nil} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 14.0666ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Avictor@victorlinphoto\.com$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 8.7649ms
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} runtime: 1.1340ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Avictor@victorlinphoto\.com$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.3268ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>nil} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.3599ms
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} runtime: 1.4245ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Asdafsdaf$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.3792ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>nil} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.6151ms
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} runtime: 0.8961ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\A$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.3576ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Asdafsdaf$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.5471ms
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} runtime: 1.4565ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>nil} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.2853ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\A$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.4314ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>nil} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.2081ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>nil} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.2867ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Asdafsdaf$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 5.0404ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>nil} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 4.0751ms
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} runtime: 1.3284ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>nil} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.3455ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\A$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.7108ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Asdafsdaf$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.3524ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>nil} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.4027ms
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} runtime: 1.1296ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Asdafsdaf$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.4557ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Asdafsdaf$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.8447ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\A$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.5805ms
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} runtime: 3.2931ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\A$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.3989ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Asdafsdaf$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.3930ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Asdafsdaf$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.2960ms
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} runtime: 1.1000ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\A$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.3391ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Asdafsdaf$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.4289ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Asdafsdaf$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.3990ms
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} runtime: 1.2077ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Asdafsdaf$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.3255ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\A$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.4667ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Asdafsdaf$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.3990ms
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} runtime: 2.8690ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\A$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.5658ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Asdafsdaf$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.6728ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Asdafsdaf$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.7127ms
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} runtime: 1.1069ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\A$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.3498ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Asdafsdaf$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.3617ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Asdafsdaf$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.3237ms
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} runtime: 4.4821ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Asdafsdaf$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.3776ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Asdafsdaf$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 4.6245ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\A$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.7623ms
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} runtime: 1.1714ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Asdafsdaf$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.3539ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Asdafsdaf$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 9.7070ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\A$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.6086ms
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} runtime: 1.1622ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Asdafsdaf$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.3704ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Asdafsdaf$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.9300ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\A$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.5008ms
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} runtime: 1.6533ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Asdafsdaf$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.3953ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\A$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.6146ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Asdafsdaf$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.6197ms
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} runtime: 1.1959ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Asdafsdaf$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.3713ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\A$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.5094ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Asdafsdaf$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.4759ms
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} runtime: 1.1203ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Asdafsdaf$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.3728ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Asdafsdaf$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 7.9201ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\A$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.4850ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>nil} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.3379ms
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} runtime: 1.0934ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Asdafsdaf$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.3702ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>nil} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.4664ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\A$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.6547ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Asdafsdaf$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.4220ms
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} runtime: 1.4276ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Asdafsdaf$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 6.7690ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\A$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.4520ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Aemail@email\.com$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.4685ms
+  MOPED: 127.0.0.1:27017 INSERT       database=vlp_rails_test collection=users documents=[{"_id"=>BSON::ObjectId('5333ead8776469305b000000'), "email"=>"email@email.com", "salt"=>"$2a$10$Xaf7tR.30JeH8L7.MmWd3u", "fish"=>"$2a$10$Xaf7tR.30JeH8L7.MmWd3u0JqF1a5ErTWsU/hMUHvYPSb1zUP.hrS", "updated_at"=>2014-03-27 09:09:44 UTC, "created_at"=>2014-03-27 09:09:44 UTC}] flags=[]
+                         COMMAND      database=vlp_rails_test command={:getlasterror=>1, :w=>1} runtime: 52.9296ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Asdafsdaf$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 2.3433ms
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} runtime: 3.0922ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Aemail@email\.com$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 2.5245ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Asdafsdaf$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 1.1742ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\A$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.4693ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Asdafsdaf$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.4436ms
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} runtime: 2.4030ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Asdafsdaf$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.4754ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Aemail@email\.com$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 1.8424ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Asdafsdaf$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.5173ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\A$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.4028ms
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} runtime: 5.8383ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Asdafsdaf$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.5124ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Asdafsdaf$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 3.4706ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"$query"=>{"email"=>"victor@victorlinphoto.com"}, "$orderby"=>{:_id=>1}} flags=[] limit=-1 skip=0 batch_size=nil fields=nil runtime: 3.6909ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\A$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.8637ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Aemail@email\.com$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.9594ms
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} runtime: 7.7014ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Asdafsdaf$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 10.5447ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Asdafsdaf$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 1.8334ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\A$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 1.1803ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Avictor@victorlinphoto\.com$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.3568ms
+  MOPED: 127.0.0.1:27017 INSERT       database=vlp_rails_test collection=users documents=[{"_id"=>BSON::ObjectId('5333ef4977646931fe000000'), "email"=>"victor@victorlinphoto.com", "salt"=>"$2a$10$rPBWfpIuOfaxEJG4x..kfu", "fish"=>"$2a$10$rPBWfpIuOfaxEJG4x..kfuX42MImT5uurRBoaVu2WzomZY.zUcKeW", "updated_at"=>2014-03-27 09:28:41 UTC, "created_at"=>2014-03-27 09:28:41 UTC}] flags=[]
+                         COMMAND      database=vlp_rails_test command={:getlasterror=>1, :w=>1} runtime: 0.5242ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"$query"=>{"email"=>"victor@victorlinphoto.com"}, "$orderby"=>{:_id=>1}} flags=[] limit=-1 skip=0 batch_size=nil fields=nil runtime: 0.5212ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Aemail@email\.com$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.4284ms
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} runtime: 1.3749ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Asdafsdaf$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.2313ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\A$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.6389ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Aemail@email\.com$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.5498ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Asdafsdaf$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.6071ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Avictor@victorlinphoto\.com$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 5.0708ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"$query"=>{"email"=>"victor@victorlinphoto.com"}, "$orderby"=>{:_id=>1}} flags=[] limit=-1 skip=0 batch_size=nil fields=nil runtime: 1.8286ms
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} runtime: 2.1307ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Aemail@email\.com$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.4357ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Avictor@victorlinphoto\.com$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.7315ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"$query"=>{"email"=>"victor@victorlinphoto.com"}, "$orderby"=>{:_id=>1}} flags=[] limit=-1 skip=0 batch_size=nil fields=nil runtime: 0.6488ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Asdafsdaf$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.7887ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\A$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 7.8275ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Asdafsdaf$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 5.5937ms
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} runtime: 9.1019ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Asdafsdaf$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 5.4264ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Aemail@email\.com$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 7.8396ms
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} runtime: 1.1359ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Asdafsdaf$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 1.2938ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\A$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.5453ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Avictor@victorlinphoto\.com$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.4266ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"$query"=>{"email"=>"victor@victorlinphoto.com"}, "$orderby"=>{:_id=>1}} flags=[] limit=-1 skip=0 batch_size=nil fields=nil runtime: 0.4631ms
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} runtime: 1.2049ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Avictor@victorlinphoto\.com$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.4677ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"$query"=>{"email"=>"victor@victorlinphoto.com"}, "$orderby"=>{:_id=>1}} flags=[] limit=-1 skip=0 batch_size=nil fields=nil runtime: 0.8065ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Asdafsdaf$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.5195ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\A$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 3.4907ms
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} runtime: 1.6800ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\A$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.4645ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Avictor@victorlinphoto\.com$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.4837ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"$query"=>{"email"=>"victor@victorlinphoto.com"}, "$orderby"=>{:_id=>1}} flags=[] limit=-1 skip=0 batch_size=nil fields=nil runtime: 0.4841ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Asdafsdaf$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.8234ms
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} runtime: 1.7877ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Avictor@victorlinphoto\.com$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.4702ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"$query"=>{"email"=>"victor@victorlinphoto.com"}, "$orderby"=>{:_id=>1}} flags=[] limit=-1 skip=0 batch_size=nil fields=nil runtime: 0.6209ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\A$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.6181ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Asdafsdaf$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.3560ms
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} runtime: 1.1841ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Asdafsdaf$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.4152ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\A$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.6373ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"$query"=>{"email"=>"victor@victorlinphoto.com"}, "$orderby"=>{:_id=>1}} flags=[] limit=-1 skip=0 batch_size=nil fields=nil runtime: 0.8795ms
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} runtime: 1.1552ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Ame@me\.com$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.3682ms
+  MOPED: 127.0.0.1:27017 INSERT       database=vlp_rails_test collection=users documents=[{"_id"=>BSON::ObjectId('5333f4e47764693620000000'), "email"=>"me@me.com", "salt"=>"$2a$10$kVDD/44KssONpwEtov.Rg.", "fish"=>"$2a$10$kVDD/44KssONpwEtov.Rg.81DtSU7.7rwS.O1Zezwe1O8sF12sV3O", "updated_at"=>2014-03-27 09:52:36 UTC, "created_at"=>2014-03-27 09:52:36 UTC}] flags=[]
+                         COMMAND      database=vlp_rails_test command={:getlasterror=>1, :w=>1} runtime: 0.5851ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\A$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 1.0992ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"$query"=>{"email"=>"victor@victorlinphoto.com"}, "$orderby"=>{:_id=>1}} flags=[] limit=-1 skip=0 batch_size=nil fields=nil runtime: 0.5914ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Asdafsdaf$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.6118ms
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} runtime: 1.9957ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Ame@me\.com$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.4458ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Asdafsdaf$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.6261ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"$query"=>{"email"=>"me@me.com"}, "$orderby"=>{:_id=>1}} flags=[] limit=-1 skip=0 batch_size=nil fields=nil runtime: 0.8665ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\A$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.4951ms
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} runtime: 1.3132ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Ame@me\.com$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.6624ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"$query"=>{"email"=>"me@me.com"}, "$orderby"=>{:_id=>1}} flags=[] limit=-1 skip=0 batch_size=nil fields=nil runtime: 1.6441ms
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} runtime: 1.4159ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Ame@me\.com$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.4888ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"$query"=>{"email"=>"me@me.com"}, "$orderby"=>{:_id=>1}} flags=[] limit=-1 skip=0 batch_size=nil fields=nil runtime: 1.2140ms
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} runtime: 4.8120ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Ame@me\.com$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.5760ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"$query"=>{"email"=>"me@me.com"}, "$orderby"=>{:_id=>1}} flags=[] limit=-1 skip=0 batch_size=nil fields=nil runtime: 0.6219ms
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} runtime: 2.0362ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"email"=>/\Ame@me\.com$/i} flags=[] limit=-1 skip=0 batch_size=nil fields={:_id=>1} runtime: 0.3986ms
+  MOPED: 127.0.0.1:27017 QUERY        database=vlp_rails_test collection=users selector={"$query"=>{"email"=>"me@me.com"}, "$orderby"=>{:_id=>1}} flags=[] limit=-1 skip=0 batch_size=nil fields=nil runtime: 0.6876ms

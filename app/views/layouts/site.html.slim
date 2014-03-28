@@ -8,7 +8,7 @@ html
     title Victor Lin Photography
     = favicon_link_tag "favicon.ico"
     = stylesheet_link_tag "//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css"
-    = stylesheet_link_tag "newsite"
+    = stylesheet_link_tag "site"
     = stylesheet_link_tag "http://fonts.googleapis.com/css?family=Spinnaker"
     = javascript_include_tag "application"
     = javascript_include_tag "//ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"
@@ -55,13 +55,6 @@ html
             pageTracker._trackPageview();
             } catch(err) {}
 
-javascript:
-  $(window).scroll(function () {
-      if ($(document).scrollTop() == 0) {
-          $('#top-nav').removeClass('tiny');
-      } else {
-          $('#top-nav').addClass('tiny');
-      }
-  });
+= javascript_include_tag "resize-nav-on-scroll"
 
 

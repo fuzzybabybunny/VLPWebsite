@@ -1,7 +1,14 @@
 
 #content
   #left_even
-    h1 Order Inquiry Form
+    h1 Prices For:
+    p Campbell, Cupertino, East Palo Alto, Fremont, Los Altos, Los Gatos, Menlo Park, Milpitas, Mountain View, Newark, Palo Alto, San Jose, Santa Clara, Saratoga, Sunnyvale, Union City
+
+    p#hdr Unlimited HDR Photography:
+
+
+
+    h1 Order Inquiries
     p Please submit an order inquiry and we will get in touch with you. Be sure to note our prices on the right.
 
     = form_for :order_submissions, url: order_url, html: { id: "order_form"} do |f|
@@ -128,3 +135,5 @@
         /     = f.text_field :tourfactoryUsernamePassword, class: "form-control", placeholder: "", size: "40", autocomplete: "off"
 
       / f.submit
+
+= javascript_include_tag "order-form-prices"

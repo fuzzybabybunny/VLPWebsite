@@ -17,7 +17,7 @@ VLPRails::Application.routes.draw do
   get 'register' => 'site#register'
 
   # ORDER CRUD IN ADMIN PANEL
-  patch   'ordering/:id' =>  'backend#update', as: :update_order_submission
+  post   'ordering/:id' =>  'backend#update', as: :update_order_submission
   get     'ordering/:id' => 'backend#edit', as: :ordering
 
   # ORDER SUBMISSION FORM

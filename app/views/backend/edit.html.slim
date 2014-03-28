@@ -1,6 +1,6 @@
 h1 Edit Order
 #left_even
-  = form_for :order_submission, url: order_url, html: { id: "order_form"} do |f|
+  = form_for :order_submission, :url => {:action => 'update', :id => @current_order_submission.id}, html: { id: "order_form"} do |f|
     fieldset
       legend Basic Information
       #order-form.form-group
@@ -26,4 +26,4 @@ h1 Edit Order
       #order-form.form-group
         = f.text_field :sqft, class: "form-control", placeholder: "Exact Square Footage of all Living Spaces", size: "40", autocomplete: "off", required: "required", value: @current_order_submission.sqft
       #order-form.form-group
-        = f.submit "Submit", class: "btn btn-success"
+        = f.submit "Update Order", class: "btn btn-success"

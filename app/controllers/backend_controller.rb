@@ -32,11 +32,13 @@ class BackendController < ApplicationController
   end
 
   def update
-    if @order_submission.update_attributes( prder_submission_params )
-      redirect_to order_submission_url( @order_submission)
+    @current_order_submission = OrderSubmission.find(params[:id])
+
+    if @current_order_submission.update_attributes(order_submission_params)
+      redirect_to admin_url( @order_submission )
     else
-      flash.now[:alert] = @order_submission_errors
-      render :edit
+      flash.now[:alert] = @order_submission.errors
+      render :new
     end
   end
 

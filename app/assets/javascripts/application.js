@@ -14,7 +14,3 @@
 //= require ./vendor/noty/packaged/jquery.noty.packaged.min
 //= require ./vendor/noty/themes/default
 //= require google-analytics
-//= require jquery.lightbox-0.5
-//= require jquery.newsslider
-//= require slides.min.jquery
-//= require upper-banner-slider

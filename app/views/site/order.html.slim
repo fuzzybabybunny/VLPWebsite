@@ -13,98 +13,99 @@
 
 
 
-    /! multistep form
-    = form_for :order_submission, url: order_url, html: { id: "msform"} do |f|
-      /! progressbar
-      ul#progressbar
-        li.active Basic Information
-        li Photography
-        li Videography
-        li Order Review
-        li Terms of Service
-      /! fieldsets
-      fieldset
-        h2.fs-title Basic Information
-        h3.fs-subtitle This is step 1
-        #order-form.form-group
-          = f.text_field :agentFirstName, class: "form-control", class: "form-control", placeholder: "Agent's First Name", size: "40", autocomplete: "off", required: "required"
-        #order-form.form-group
-          = f.text_field :agentLastName, class: "form-control", class: "form-control", placeholder: "Agent's Last Name", size: "40", autocomplete: "off", required: "required"
-        #order-form.form-group
-          = f.text_field :agentEmail, class: "form-control", placeholder: "Agent's Email", size: "40", autocomplete: "off", required: "required"
-        #order-form.form-group
-          = f.text_field :agentPhone, class: "form-control", placeholder: "Agent's Phone Number", size: "40", autocomplete: "off", required: "required"
-        #order-form.form-group
-          = f.text_field :otherEmail, class: "form-control", placeholder: "Your Email (If different from above)", size: "40", autocomplete: "off"
-        #order-form.form-group
-          = f.text_field :address1Prop, class: "form-control", placeholder: "Address Line 1 of Property", size: "40", autocomplete: "off", required: "required"
-        #order-form.form-group
-          = f.text_field :address2Prop, class: "form-control", placeholder: "Address Line 2 of Property", size: "40", autocomplete: "off"
-        #order-form.form-group
-          = f.text_field :city, class: "form-control", placeholder: "City", size: "40", autocomplete: "off", required: "required"
-        #order-form.form-group
-          = f.select(:state, options_for_select(us_states, "CA"))
-        #order-form.form-group
-          = f.text_field :zipcode, class: "form-control", placeholder: "Zip Code", size: "40", autocomplete: "off", required: "required"
-        #order-form.form-group
-          = f.text_field :sqft, class: "form-control", placeholder: "Exact Square Footage of all Living Spaces", size: "40", autocomplete: "off", required: "required"
-        input.next.btn.btn-primary name="next" type="button" value="Next" /
-      fieldset
-        h2.fs-title Photography
-        h3.fs-subtitle
-        #order-form.form-group
-          = f.text_field :agentFirstName, class: "form-control", class: "form-control", placeholder: "Agent's First Name", size: "40", autocomplete: "off", required: "required"
-        #order-form.form-group
-          = f.text_field :agentLastName, class: "form-control", class: "form-control", placeholder: "Agent's Last Name", size: "40", autocomplete: "off", required: "required"
-        #order-form.form-group
-          = f.text_field :agentEmail, class: "form-control", placeholder: "Agent's Email", size: "40", autocomplete: "off", required: "required"
-        #order-form.form-group
-          = f.text_field :agentPhone, class: "form-control", placeholder: "Agent's Phone Number", size: "40", autocomplete: "off", required: "required"
-        #order-form.form-group
-          = f.text_field :otherEmail, class: "form-control", placeholder: "Your Email (If different from above)", size: "40", autocomplete: "off"
-        #order-form.form-group
-          = f.text_field :address1Prop, class: "form-control", placeholder: "Address Line 1 of Property", size: "40", autocomplete: "off", required: "required"
-        #order-form.form-group
-          = f.text_field :address2Prop, class: "form-control", placeholder: "Address Line 2 of Property", size: "40", autocomplete: "off"
-        #order-form.form-group
-          = f.text_field :city, class: "form-control", placeholder: "City", size: "40", autocomplete: "off", required: "required"
-        #order-form.form-group
-          = f.select(:state, options_for_select(us_states, "CA"))
-        #order-form.form-group
-          = f.text_field :zipcode, class: "form-control", placeholder: "Zip Code", size: "40", autocomplete: "off", required: "required"
-        #order-form.form-group
-          = f.text_field :sqft, class: "form-control", placeholder: "Exact Square Footage of all Living Spaces", size: "40", autocomplete: "off", required: "required"
-        input.previous.btn.btn-warning name="previous" type="button" value="Previous" /
-        input.next.btn.btn-primary name="next" type="button" value="Next" /
-      fieldset
-        h2.fs-title Videography
-        h3.fs-subtitle
-        #order-form.form-group
-          = f.text_field :agentFirstName, class: "form-control", class: "form-control", placeholder: "Agent's First Name", size: "40", autocomplete: "off", required: "required"
-        #order-form.form-group
-          = f.text_field :agentLastName, class: "form-control", class: "form-control", placeholder: "Agent's Last Name", size: "40", autocomplete: "off", required: "required"
-        #order-form.form-group
-          = f.text_field :agentEmail, class: "form-control", placeholder: "Agent's Email", size: "40", autocomplete: "off", required: "required"
-        #order-form.form-group
-          = f.text_field :agentPhone, class: "form-control", placeholder: "Agent's Phone Number", size: "40", autocomplete: "off", required: "required"
-        #order-form.form-group
-          = f.text_field :otherEmail, class: "form-control", placeholder: "Your Email (If different from above)", size: "40", autocomplete: "off"
-        #order-form.form-group
-          = f.text_field :address1Prop, class: "form-control", placeholder: "Address Line 1 of Property", size: "40", autocomplete: "off", required: "required"
-        #order-form.form-group
-          = f.text_field :address2Prop, class: "form-control", placeholder: "Address Line 2 of Property", size: "40", autocomplete: "off"
-        #order-form.form-group
-          = f.text_field :city, class: "form-control", placeholder: "City", size: "40", autocomplete: "off", required: "required"
-        #order-form.form-group
-          = f.select(:state, options_for_select(us_states, "CA"))
-        #order-form.form-group
-          = f.text_field :zipcode, class: "form-control", placeholder: "Zip Code", size: "40", autocomplete: "off", required: "required"
-        #order-form.form-group
-          = f.text_field :sqft, class: "form-control", placeholder: "Exact Square Footage of all Living Spaces", size: "40", autocomplete: "off", required: "required"
-        input.previous.btn.btn-warning name="previous" type="button" value="Previous" /
-        #order-form.form-group.submit
-          = f.submit "Submit", class: "btn btn-success submit"
-        p
+    .form-container
+      /! multistep form
+      = form_for :order_submission, url: order_url, html: { id: "msform"} do |f|
+        /! progressbar
+        ul#progressbar
+          li.active Basic Information
+          li Photography
+          li Videography
+          li Order Review
+          li Terms of Service
+        /! fieldsets
+        fieldset
+          legend.h2.fs-title Basic Information
+          h3.fs-subtitle This is step 1
+          #order-form.form-group
+            = f.text_field :agentFirstName, class: "form-control", class: "form-control", placeholder: "Agent's First Name", size: "40", autocomplete: "off", required: "required"
+          #order-form.form-group
+            = f.text_field :agentLastName, class: "form-control", class: "form-control", placeholder: "Agent's Last Name", size: "40", autocomplete: "off", required: "required"
+          #order-form.form-group
+            = f.text_field :agentEmail, class: "form-control", placeholder: "Agent's Email", size: "40", autocomplete: "off", required: "required"
+          #order-form.form-group
+            = f.text_field :agentPhone, class: "form-control", placeholder: "Agent's Phone Number", size: "40", autocomplete: "off", required: "required"
+          #order-form.form-group
+            = f.text_field :otherEmail, class: "form-control", placeholder: "Your Email (If different from above)", size: "40", autocomplete: "off"
+          #order-form.form-group
+            = f.text_field :address1Prop, class: "form-control", placeholder: "Address Line 1 of Property", size: "40", autocomplete: "off", required: "required"
+          #order-form.form-group
+            = f.text_field :address2Prop, class: "form-control", placeholder: "Address Line 2 of Property", size: "40", autocomplete: "off"
+          #order-form.form-group
+            = f.text_field :city, class: "form-control", placeholder: "City", size: "40", autocomplete: "off", required: "required"
+          #order-form.form-group
+            = f.select(:state, options_for_select(us_states, "CA"))
+          #order-form.form-group
+            = f.text_field :zipcode, class: "form-control", placeholder: "Zip Code", size: "40", autocomplete: "off", required: "required"
+          #order-form.form-group
+            = f.text_field :sqft, class: "form-control", placeholder: "Exact Square Footage of all Living Spaces", size: "40", autocomplete: "off", required: "required"
+          input.next.btn.btn-primary name="next" type="button" value="Next" /
+        fieldset
+          legend.h2.fs-title Photography
+          h3.fs-subtitle
+          #order-form.form-group
+            = f.text_field :agentFirstName, class: "form-control", class: "form-control", placeholder: "Agent's First Name", size: "40", autocomplete: "off", required: "required"
+          #order-form.form-group
+            = f.text_field :agentLastName, class: "form-control", class: "form-control", placeholder: "Agent's Last Name", size: "40", autocomplete: "off", required: "required"
+          #order-form.form-group
+            = f.text_field :agentEmail, class: "form-control", placeholder: "Agent's Email", size: "40", autocomplete: "off", required: "required"
+          #order-form.form-group
+            = f.text_field :agentPhone, class: "form-control", placeholder: "Agent's Phone Number", size: "40", autocomplete: "off", required: "required"
+          #order-form.form-group
+            = f.text_field :otherEmail, class: "form-control", placeholder: "Your Email (If different from above)", size: "40", autocomplete: "off"
+          #order-form.form-group
+            = f.text_field :address1Prop, class: "form-control", placeholder: "Address Line 1 of Property", size: "40", autocomplete: "off", required: "required"
+          #order-form.form-group
+            = f.text_field :address2Prop, class: "form-control", placeholder: "Address Line 2 of Property", size: "40", autocomplete: "off"
+          #order-form.form-group
+            = f.text_field :city, class: "form-control", placeholder: "City", size: "40", autocomplete: "off", required: "required"
+          #order-form.form-group
+            = f.select(:state, options_for_select(us_states, "CA"))
+          #order-form.form-group
+            = f.text_field :zipcode, class: "form-control", placeholder: "Zip Code", size: "40", autocomplete: "off", required: "required"
+          #order-form.form-group
+            = f.text_field :sqft, class: "form-control", placeholder: "Exact Square Footage of all Living Spaces", size: "40", autocomplete: "off", required: "required"
+          input.previous.btn.btn-warning name="previous" type="button" value="Previous" /
+          input.next.btn.btn-primary name="next" type="button" value="Next" /
+        fieldset
+          legend.h2.fs-title Videography
+          h3.fs-subtitle
+          #order-form.form-group
+            = f.text_field :agentFirstName, class: "form-control", class: "form-control", placeholder: "Agent's First Name", size: "40", autocomplete: "off", required: "required"
+          #order-form.form-group
+            = f.text_field :agentLastName, class: "form-control", class: "form-control", placeholder: "Agent's Last Name", size: "40", autocomplete: "off", required: "required"
+          #order-form.form-group
+            = f.text_field :agentEmail, class: "form-control", placeholder: "Agent's Email", size: "40", autocomplete: "off", required: "required"
+          #order-form.form-group
+            = f.text_field :agentPhone, class: "form-control", placeholder: "Agent's Phone Number", size: "40", autocomplete: "off", required: "required"
+          #order-form.form-group
+            = f.text_field :otherEmail, class: "form-control", placeholder: "Your Email (If different from above)", size: "40", autocomplete: "off"
+          #order-form.form-group
+            = f.text_field :address1Prop, class: "form-control", placeholder: "Address Line 1 of Property", size: "40", autocomplete: "off", required: "required"
+          #order-form.form-group
+            = f.text_field :address2Prop, class: "form-control", placeholder: "Address Line 2 of Property", size: "40", autocomplete: "off"
+          #order-form.form-group
+            = f.text_field :city, class: "form-control", placeholder: "City", size: "40", autocomplete: "off", required: "required"
+          #order-form.form-group
+            = f.select(:state, options_for_select(us_states, "CA"))
+          #order-form.form-group
+            = f.text_field :zipcode, class: "form-control", placeholder: "Zip Code", size: "40", autocomplete: "off", required: "required"
+          #order-form.form-group
+            = f.text_field :sqft, class: "form-control", placeholder: "Exact Square Footage of all Living Spaces", size: "40", autocomplete: "off", required: "required"
+          input.previous.btn.btn-warning name="previous" type="button" value="Previous" /
+          #order-form.form-group.submit
+            = f.submit "Submit", class: "btn btn-success submit"
+          p
 
 = javascript_include_tag "order-form-prices"
 /! jQuery"

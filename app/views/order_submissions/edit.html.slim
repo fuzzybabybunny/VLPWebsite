@@ -2,7 +2,7 @@ h1 Edit Order
 p
   = link_to "< Back to All Orders", {:action => 'index'}
 #left_even
-  = form_for :order_submission, :url => {:action => 'update', :id => @order_submission.id}, html: { id: "order_form"} do |f|
+  = form_for :order_submission, :url => {:action => 'update', :id => @order_submission.id} do |f|
     fieldset
       legend Basic Information
       #order-form.form-group

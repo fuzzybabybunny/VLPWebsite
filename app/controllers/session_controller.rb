@@ -7,7 +7,7 @@ class SessionController < ApplicationController
     # @messages = flash.inspect
     # @messages = flash.map {| key, value| "#{key.capitalize}: #{value}"}.join(";")
     # render text: "Display the log in form."
-    redirect_to admin_url, notice: "You are logged in." if current_user
+    redirect_to :controller => 'order_submissions', :action => 'index', notice: "You are logged in." if current_user
   end
 
   def create

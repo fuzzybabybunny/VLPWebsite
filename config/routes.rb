@@ -8,7 +8,7 @@ VLPRails::Application.routes.draw do
   get 'index' => 'site#index'
   get 'images' => 'site#images'
   get 'videos' => 'site#videos'
-  get 'single-property-websites' => 'site#single-property-websites'
+  get 'spw' => 'site#single-property-websites'
   get 'technique' => 'site#technique'
   get 'prices' => 'site#prices'
   get 'testimonials' => 'site#testimonials'
@@ -39,9 +39,11 @@ VLPRails::Application.routes.draw do
   put     'reset/:code' => 'password#update'
   patch   'reset/:code' => 'password#update'
 
-  # TEST
-  get 'newsite' => 'newsite#index'
+  # CRUD
+  get 'order_submissions/update/:id' => 'order_submissions#edit'
 
+  # TODO this should be patch and the form code should reference patch - how to do it?
+  post 'order_submissions/update/:id' => 'order_submissions#update'
   post 'order_submissions/destroy/:id' => 'order_submissions#destroy'
   match ':controller(/:action(/:id))', :via => :get
 

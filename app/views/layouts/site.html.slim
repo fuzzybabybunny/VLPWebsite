@@ -18,14 +18,14 @@ html
       .navbar.navbar-fixed-top
         .navbar-inner
           #top-nav.container.resize
-            a.nav-links href="images" Images
-            a.nav-links href="videos" Videos
-            a.nav-links href="single-property-websites" Single Property Websites
-            a.nav-links href="technique" Technique
-            a.nav-links href="testimonials" Testimonials
-            a.nav-links href="prices" Prices
-            a.nav-links href="contact" Contact
-            a.nav-links href="about" About
+            = link_to "Images", images_path, class: "nav-links"
+            = link_to "Videos", videos_path, class: "nav-links"
+            = link_to "Single Property Websites", spw_path, class: "nav-links"
+            = link_to "Technique", technique_path, class: "nav-links"
+            = link_to "Testimonials", testimonials_path, class: "nav-links"
+            = link_to "Prices", prices_path, class: "nav-links"
+            = link_to "Contact", contact_path, class: "nav-links"
+            = link_to "About", about_path, class: "nav-links"
       .container
         .content-container
           == yield

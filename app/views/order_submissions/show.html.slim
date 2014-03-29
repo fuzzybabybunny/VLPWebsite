@@ -1,0 +1,40 @@
+p
+  h1.center
+    = "Welcome, #{@current_user.email}"
+
+p
+  h2
+    | All Registered Users
+
+/ ol
+/   - @users.each do |some_user|
+/     li
+/       = some_user.email
+
+p
+  h2
+    | Order Submission
+  p
+    = link_to "< Back to All Orders", {:action => 'index'}
+
+table.table.table-bordered summary="Order Submission Details"
+  tr
+    th First Name
+    td = @order_submission.agentFirstName
+  tr
+    th Last Name
+    td = @order_submission.agentLastName
+  tr
+    th Property Address
+    td
+      span = @order_submission.address1Prop
+      br = @order_submission.address2Prop
+  tr
+    th City
+    td = @order_submission.city
+  tr
+    th State
+    td = @order_submission.state
+  tr
+    th Zip Code
+    td = @order_submission.zipcode

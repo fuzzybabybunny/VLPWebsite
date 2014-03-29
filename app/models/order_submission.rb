@@ -27,6 +27,10 @@ class OrderSubmission
   field :rush, type: String
   field :tourfactory, type: String
 
+  scope :search, lambda {|query|
+    where(["name LIKE ?", "%#{query}%"])
+  }
+
   def self.create_order(
     agentFirstName, agentLastName, agentEmail,
     agentPhone, otherEmail, address1Prop,

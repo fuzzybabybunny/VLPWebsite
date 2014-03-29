@@ -22,7 +22,7 @@ VLPRails::Application.routes.draw do
 
   # ORDER SUBMISSION FORM
   post    'order'     =>  'backend#create'
-
+  patch   'order' => 'backend#search' #, as: :charsearch
   get 'order' => 'site#order'
 
   # LOGIN / LOGOUT ROUTING
@@ -41,5 +41,8 @@ VLPRails::Application.routes.draw do
 
   # TEST
   get 'newsite' => 'newsite#index'
+
+  post 'order_submissions/destroy/:id' => 'order_submissions#destroy'
+  match ':controller(/:action(/:id))', :via => :get
 
 end

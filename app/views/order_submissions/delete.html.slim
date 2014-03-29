@@ -1,0 +1,29 @@
+h1 Delete Order
+p
+  = link_to "< Back to All Orders", {:action => 'index'}
+#left_even
+  = form_for :order_submission, :url => {:action => 'destroy', :id => @order_submission.id} do |f|
+    legend Are you sure you want to permanently delete this order?
+    table.table.table-bordered summary="Order Submission Details"
+      tr
+        th First Name
+        td = @order_submission.agentFirstName
+      tr
+        th Last Name
+        td = @order_submission.agentLastName
+      tr
+        th Property Address
+        td
+          span = @order_submission.address1Prop
+          br = @order_submission.address2Prop
+      tr
+        th City
+        td = @order_submission.city
+      tr
+        th State
+        td = @order_submission.state
+      tr
+        th Zip Code
+        td = @order_submission.zipcode
+    #order-form.form-group
+      = f.submit "Delete Order Permanently", class: "btn btn-danger"

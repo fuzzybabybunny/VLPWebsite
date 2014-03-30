@@ -10,7 +10,6 @@ VLPRails::Application.routes.draw do
   get 'videos' => 'site#videos'
   get 'spw' => 'site#single-property-websites'
   get 'technique' => 'site#technique'
-  get 'prices' => 'site#prices'
   get 'testimonials' => 'site#testimonials'
   get 'about' => 'site#about'
   get 'contact' => 'site#contact'
@@ -20,10 +19,18 @@ VLPRails::Application.routes.draw do
   post   'ordering/:id' =>  'backend#update', as: :update_order_submission
   get     'ordering/:id' => 'backend#edit', as: :ordering
 
-  # ORDER SUBMISSION FORM
-  post    'order'     =>  'backend#create'
-  patch   'order' => 'backend#search' #, as: :charsearch
-  get 'order' => 'site#order'
+  # BACKEND ORDER EDIT FORM
+  # post    'order'     =>  'backend#create'
+  # patch   'order' => 'backend#search' #, as: :charsearch
+
+  # FRONT END ORDER SUBMISSION FORM
+  get "order-form/index" => "order_form#index", as: :order
+  get "prices" => "order_form#prices", as: :prices
+  get "order_form/show"
+  get "order_form/new"
+  get "order_form/edit"
+  get "order_form/delete"
+
 
   # LOGIN / LOGOUT ROUTING
   get     'login' => 'session#new'
@@ -39,7 +46,7 @@ VLPRails::Application.routes.draw do
   put     'reset/:code' => 'password#update'
   patch   'reset/:code' => 'password#update'
 
-  # CRUD
+  # CRUD and ORDER_SUBMISSIONS
   get 'order_submissions/update/:id' => 'order_submissions#edit'
 
   # TODO this should be patch and the form code should reference patch - how to do it?

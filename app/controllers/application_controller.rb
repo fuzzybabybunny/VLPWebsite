@@ -21,7 +21,7 @@ class ApplicationController < ActionController::Base
   def log_user_in(user, notice = nil)
     if user
       session[:user_id] = user.id
-      redirect_to root_url, notice: notice
+      redirect_to admin_url, notice: notice
     end
   end
 

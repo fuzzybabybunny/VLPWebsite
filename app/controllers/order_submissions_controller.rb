@@ -10,6 +10,9 @@ class OrderSubmissionsController < ApplicationController
     @order_submissions = OrderSubmission.order("created_at ASC")
   end
 
+  def prices
+  end
+
   def show
     @order_submission = OrderSubmission.find( params[:id] )
   end

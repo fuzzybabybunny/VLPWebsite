@@ -38,9 +38,7 @@ html, body {
   text-align: center;
 }
 
-.container {
-  padding-top: 110px;
-}
+
 
 #content {
   width:1000px;
@@ -51,12 +49,19 @@ html, body {
   margin-right: auto;
   margin-top: 0px;
   font-size: 90%;
+  padding-top: 110px;
+}
 }
 
 .header {
   background-image: url(<%= asset_path 'header_images/banner1.jpg' %>);
   height: 250px;
   max-width: 100%;
+}
+
+.carousel {
+  margin: 0 auto;
+  min-width: 100%;
 }
 
 /* Wrapper for page content to push down footer */
@@ -115,6 +120,43 @@ html, body {
   text-shadow: 0px 1px 0px hsla(   0,   0.0%, 100.0%, 1 );
 }
 
+/*Main Styles*/
+
+.action {
+  color: white;
+  display: block;
+}
+
+a.action {
+  text-decoration: none;
+  color: hsla(   0,   0.0%, 100.0%, 1 );
+  text-shadow: 0px 1px 0px hsla(   0,   0.0%, 100.0%, 0.5 );
+}
+
+a:hover.action {
+  text-decoration: none;
+  color: hsla(   0,   0.0%, 100.0%, 1 );
+  text-shadow: 0px 1px 0px hsla(   0,   0.0%, 100.0%, 1 );
+}
+
+.area-select {
+  margin: 20px 0px;
+  color: white;
+  display: block;
+}
+
+a.area-select {
+  text-decoration: none;
+  color: hsla(   0,   0.0%, 100.0%, 1 );
+  text-shadow: 0px 1px 0px hsla(   0,   0.0%, 100.0%, 0.5 );
+}
+
+a:hover.area-select {
+  text-decoration: none;
+  color: hsla(   0,   0.0%, 100.0%, 1 );
+  text-shadow: 0px 1px 0px hsla(   0,   0.0%, 100.0%, 1 );
+}
+
 /*Forms*/
 
 legend {
@@ -142,10 +184,6 @@ legend {
   margin-bottom: 15px;
 }
 
-#push {
-  height: 45px;
-}
-
 /*Table Styles*/
 
 .table-property-address {
@@ -153,7 +191,7 @@ legend {
 }
 
 .table-actions {
-  width: 200px;
+  width: 100px;
 }
 
 .signature {
@@ -162,6 +200,10 @@ legend {
 }
 
 /*Footer*/
+
+#push {
+  height: 45px;
+}
 
 #footer {
   height: 45px;

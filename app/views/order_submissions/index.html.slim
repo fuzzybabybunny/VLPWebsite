@@ -36,7 +36,7 @@ table.table.table-bordered
         td = order_submission.city
         td = order_submission.state
         td = order_submission.zipcode
-        td
+        td.table-action
           span = link_to "Show", {:action => 'show', :id => order_submission.id}, :class => 'action show'
           span = link_to "Edit", {:action => 'edit', :id => order_submission.id}, :class => 'action edit'
           span = link_to "Delete", {:action => 'delete', :id => order_submission.id}, :class => 'action delete'

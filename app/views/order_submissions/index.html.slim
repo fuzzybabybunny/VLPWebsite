@@ -29,7 +29,6 @@
             td = order_submission.city
             td = order_submission.state
             td = order_submission.zipcode
-            td = order_submission.id
             td.table-actions
               p = link_to "Show", order_submission_path(order_submission.id)
               p = link_to "Edit", edit_order_submission_path(order_submission.id)

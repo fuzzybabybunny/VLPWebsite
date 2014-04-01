@@ -19,7 +19,6 @@ class OrderSubmissionsController < ApplicationController
   end
 
   def show
-    # @order_submission = OrderSubmission.find( params[:id] )
   end
 
   def new
@@ -27,16 +26,12 @@ class OrderSubmissionsController < ApplicationController
   end
 
   def edit
-    # @order_submission = OrderSubmission.find( params[:id] )
   end
 
   def update
 
-    # Find an existing order submission
-    # @order_submission = OrderSubmission.find( params[:id] )
-    # Update the order submission
     if @order_submission.update_attributes(order_submission_params)
-      redirect_to(:action => 'show', :id => @order_submission.id)
+      redirect_to order_submission_path
     else
       render :edit
     end
@@ -44,12 +39,11 @@ class OrderSubmissionsController < ApplicationController
   end
 
   def delete
-    # @order_submission = OrderSubmission.find( params[:id] )
   end
 
   def destroy
     @order_submission.destroy
-    redirect_to(:action => 'index')
+    redirect_to order_submissions_path
   end
 
   private

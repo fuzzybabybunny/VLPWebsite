@@ -1,0 +1,107 @@
+fieldset
+  legend.h2.fs-title Basic Information
+  #order-form
+    .form-group
+      = f.text_field :sqft, class: "form-control", placeholder: "Exact Square Footage of all Living Spaces", size: "40", autocomplete: "off", required: "required", value: @order_submission.sqft
+    .form-group
+      = f.text_field :agentFirstName, class: "form-control", class: "form-control", placeholder: "Agent's First Name", size: "40", autocomplete: "off", required: "required", value: @order_submission.agentFirstName
+    .form-group
+      = f.text_field :agentLastName, class: "form-control", class: "form-control", placeholder: "Agent's Last Name", size: "40", autocomplete: "off", required: "required", value: @order_submission.agentLastName
+    .form-group
+      = f.text_field :agentEmail, class: "form-control", placeholder: "Agent's Email", size: "40", autocomplete: "off", required: "required", value: @order_submission.agentEmail
+    .form-group
+      = f.text_field :agentPhone, class: "form-control", placeholder: "Agent's Phone Number", size: "40", autocomplete: "off", required: "required", value: @order_submission.agentPhone
+    .form-group
+      = f.text_field :otherEmail, class: "form-control", placeholder: "Your Email (If different from above)", size: "40", autocomplete: "off", value: @order_submission.otherEmail
+    .form-group
+      = f.text_field :address1Prop, class: "form-control", placeholder: "Address Line 1 of Property", size: "40", autocomplete: "off", required: "required", value: @order_submission.address1Prop
+    .form-group
+      = f.text_field :address2Prop, class: "form-control", placeholder: "Address Line 2 of Property", size: "40", autocomplete: "off", value: @order_submission.address2Prop
+    .form-group
+      = f.text_field :city, class: "form-control", placeholder: "City", size: "40", autocomplete: "off", required: "required", value: @order_submission.city
+    .form-group
+      = f.select(:state, options_for_select(us_states, "CA"))
+    .form-group
+      = f.text_field :zipcode, class: "form-control", placeholder: "Zip Code", size: "40", autocomplete: "off", required: "required", value: @order_submission.zipcode
+    .form-group
+      = f.text_field :sqft, class: "form-control", placeholder: "Total Square Footage of All Living Spaces", size: "40", autocomplete: "off", required: "required", value: @order_submission.sqft
+    .form-group
+      = f.text_field :sqft, class: "form-control", placeholder: "Exact Square Footage of all Living Spaces", size: "40", autocomplete: "off", required: "required", value: @order_submission.sqft
+    .input-group
+        span.input-group-addon
+          = f.check_box :hdrPhotos, value: @order_submission.hdrPhotos
+        = label_tag :hdrPhotos, "Unlimited HDR Photos", class: "form-control"
+    .input-group
+        span.input-group-addon
+          = f.check_box :panoramas, value: @order_submission.panoramas
+        = label_tag :panoramas, "Panoramas / Virtual Tour Effect:", class: "form-control"
+    .input-group
+        span.input-group-addon
+          = f.check_box :spw, value: @order_submission.spw
+        = label_tag :spw, "Single Property Website", class: "form-control"
+    .input-group
+      p.input-group-addon
+        = f.check_box :domain, value: @order_submission.domain
+      = label_tag :domain, "Custom Website Address", class: "form-control"
+    .form-group
+      p.white.form-text What would you like your custom website address for your Single Property Website to be?
+      = f.text_field :domainURL, class: "form-control", placeholder: "ex. www.1234MainSt.com", size: "40", autocomplete: "off", value: @order_submission.domainURL
+    .input-group
+      p.input-group-addon
+        = f.check_box :preliminaryPhotos, value: @order_submission.preliminaryPhotos
+      = label_tag :preliminaryPhotos, "Preliminary Exterior Shots", class: "form-control"
+    .input-group
+      p.input-group-addon
+        = f.check_box :fullVideo, value: @order_submission.fullVideo
+      = label_tag :fullVideo, "Full Motion Video Tour shot with Video Cameras", class: "form-control"
+    .input-group
+      p.input-group-addon
+        = f.check_box :fullTwilightVideo, value: @order_submission.fullTwilightVideo
+      = label_tag :fullTwilightVideo, "Twilight Video Tour shot with Video Cameras", class: "form-control"
+    .input-group
+      p.input-group-addon
+        = f.check_box :videoClips, value: @order_submission.videoClips
+      = label_tag :videoClips, "Tactical Video", class: "form-control"
+    .input-group
+      p.input-group-addon
+        = f.check_box :twilightVideoClips, value: @order_submission.twilightVideoClips
+      = label_tag :twilightVideoClips, "Tactical Twilight Video", class: "form-control"
+    .input-group
+      p.white.form-text How will we access the property? If there is a combo, what is it?
+      = f.text_field :access, class: "form-control", placeholder: "Access Instructions", size: "40", autocomplete: "off", required: "required", value: @order_submission.access
+    .form-group
+      p.white.form-text
+        b Date
+        |  and
+        b Time
+        | you would like to have this shot?
+      p.white.form-text Only schedule us for a time when the property is 100% photo-ready and vacant. We cannot coordinate directly with any of the stagers below for scheduling.
+      = f.text_field :date, class: "form-control", placeholder: "Date", size: "40", autocomplete: "off", required: "required", value: @order_submission.date
+      = f.text_field :time, class: "form-control", placeholder: "Time", size: "40", autocomplete: "off", required: "required", value: @order_submission.time
+    .input-group
+      p.white.form-text If someone referred you, who was it? They will earn a $50 credit on their next order with us!
+      = f.text_field :referral, class: "form-control", placeholder: "Referral's Name", size: "40", autocomplete: "off", required: "", value: @order_submission.referral
+    .input-group
+      p.white.form-text Additional notes such as areas to focus on?
+      = f.text_field :notes, class: "form-control", placeholder: "Additional Notes", size: "40", autocomplete: "off", required: "", value: @order_submission.notes
+    .input-group
+      p.white.form-text Vendors
+      p
+        input-group-addon
+          = f.radio_button :vendor, "126D"
+          |  OneTwoSixDesign
+      p
+        input-group-addon
+          = f.radio_button :vendor, "StagedCoop"
+          |  Staged Coop
+      p
+        input-group-addon
+          = f.radio_button :vendor, "DTMSM"
+          |  DTMSM
+      p
+        input-group-addon
+          = f.radio_button :vendor, "none"
+          |  None
+
+  .form-group
+    = f.submit "Update Order", class: "btn btn-success"

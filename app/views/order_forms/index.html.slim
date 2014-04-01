@@ -1,0 +1,16 @@
+
+#content
+  #left_even
+
+    h1 Order Inquiries
+    p Please submit an order inquiry and we will get in touch with you. Be sure to note our prices on the right.
+
+    .form-container
+      /! multistep form
+      = form_for :order_submission, url: order_submissions_path, method: :post, html: { id: "msform"} do |f|
+
+        = render :partial => "order_form", :locals => {:f => f }
+
+= javascript_include_tag "order-form-prices"
+= javascript_include_tag "vendor/jquery-multi-step-form/jquery-multi-step-form.js"
+= stylesheet_link_tag "jquery-multi-step-form.css"

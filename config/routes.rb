@@ -30,6 +30,7 @@ VLPRails::Application.routes.draw do
   get "order_form/new"
   get "order_form/edit"
   get "order_form/delete"
+  post "order_submissions" => "order_submissions#create"
 
 
   # LOGIN / LOGOUT ROUTING

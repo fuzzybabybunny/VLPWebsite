@@ -1,38 +1,17 @@
-p
-  h1.center
-    = "Welcome, #{@current_user.email}"
+#content
+  p
+    h1.center
+      = "Welcome, #{@current_user.email}"
 
-p
-  h2
-    | All Registered Users
+  p
+    h2
+      | All Registered Users
 
-ol
-  - @users.each do |some_user|
-    li
-      = some_user.email
+  ol
+    - @users.each do |some_user|
+      li
+        = some_user.email
 
-p
-  h2
-    | All Orders
-
-table.table.table-bordered
-  thead
-    tr
-      th First Name
-      th Last Name
-      th Address 1
-      th Address 2
-      th City
-      th State
-      th Zip Code
-  tbody
-    - @order_submissions.each do |order|
-      tr
-        td = order.agentFirstName
-        td = order.agentLastName
-        td = order.address1Prop
-        td = order.address2Prop
-        td = order.city
-        td = order.state
-        td = order.zipcode
-        td = link_to "edit", ordering_url(order)
+  p
+    h2
+      =link_to "View All Orders", {:controller => 'order_submissions', :action => 'index'}

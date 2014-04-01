@@ -9,98 +9,135 @@
 
     .form-container
       /! multistep form
-      = form_for :order_submission, url: order_url, html: { id: "msform"} do |f|
+      = form_for :order_submission, url: {:controller => "order_submissions", :action => 'create'}, html: { id: "msform"} do |f|
         /! progressbar
         ul#progressbar
           li.active Basic Information
           li Photography
           li Videography
-          li Order Review
-          li Terms of Service
+          li Extra Information
         /! fieldsets
         fieldset
           legend.h2.fs-title Basic Information
-          h3.fs-subtitle This is step 1
-          #order-form.form-group
-            = f.label "Interior square footage of all living spaces, including any basements or guest houses.", class: "sr-only"
-            = f.text_field :agentFirstName, class: "form-control", class: "form-control", placeholder: "Total Interior Square Footage", size: "40", autocomplete: "off", required: "required"
-          #order-form.form-group
-            = f.text_field :agentLastName, class: "form-control", class: "form-control", placeholder: "Agent's Last Name", size: "40", autocomplete: "off", required: "required"
-          #order-form.form-group
-            = f.text_field :agentEmail, class: "form-control", placeholder: "Agent's Email", size: "40", autocomplete: "off", required: "required"
-          #order-form.form-group
-            = f.text_field :agentPhone, class: "form-control", placeholder: "Agent's Phone Number", size: "40", autocomplete: "off", required: "required"
-          #order-form.form-group
-            = f.text_field :otherEmail, class: "form-control", placeholder: "Your Email (If different from above)", size: "40", autocomplete: "off"
-          #order-form.form-group
-            = f.text_field :address1Prop, class: "form-control", placeholder: "Address Line 1 of Property", size: "40", autocomplete: "off", required: "required"
-          #order-form.form-group
-            = f.text_field :address2Prop, class: "form-control", placeholder: "Address Line 2 of Property", size: "40", autocomplete: "off"
-          #order-form.form-group
-            = f.text_field :city, class: "form-control", placeholder: "City", size: "40", autocomplete: "off", required: "required"
-          #order-form.form-group
-            = f.select(:state, options_for_select(us_states, "CA"))
-          #order-form.form-group
-            = f.text_field :zipcode, class: "form-control", placeholder: "Zip Code", size: "40", autocomplete: "off", required: "required"
-          #order-form.form-group
-            = f.text_field :sqft, class: "form-control", placeholder: "Exact Square Footage of all Living Spaces", size: "40", autocomplete: "off", required: "required"
-          input.next.btn.btn-primary name="next" type="button" value="Next" /
+          #order-form
+            .form-group
+              /! TODO: MAKE SURE TO TURN INTO INTEGER
+              p.white Interior square footage of all living spaces, including any basements or guest houses
+              = f.text_field :sqft, class: "form-control", placeholder: "Total Interior Square Footage", size: "40", autocomplete: "off", required: "required"
+            .form-group
+              = f.text_field :agentFirstName, class: "form-control", placeholder: "Agent's First Name", size: "40", autocomplete: "off", required: "required"
+            .form-group
+              = f.text_field :agentLastName, class: "form-control", placeholder: "Agent's Last Name", size: "40", autocomplete: "off", required: "required"
+            .form-group
+              = f.text_field :agentEmail, class: "form-control", placeholder: "Agent's Email", size: "40", autocomplete: "off", required: "required"
+            .form-group
+              = f.text_field :agentPhone, class: "form-control", placeholder: "Agent's Phone Number", size: "40", autocomplete: "off", required: "required"
+            .form-group
+              = f.text_field :otherEmail, class: "form-control", placeholder: "Your Email (If different from above)", size: "40", autocomplete: "off"
+            .form-group
+              = f.text_field :address1Prop, class: "form-control", placeholder: "Address Line 1 of Property", size: "40", autocomplete: "off", required: "required"
+            .form-group
+              = f.text_field :address2Prop, class: "form-control", placeholder: "Address Line 2 of Property", size: "40", autocomplete: "off"
+            .form-group
+              = f.text_field :city, class: "form-control", placeholder: "City", size: "40", autocomplete: "off", required: "required"
+            .form-group
+              = f.select(:state, options_for_select(us_states, "CA"))
+            .form-group
+              = f.text_field :zipcode, class: "form-control", placeholder: "Zip Code", size: "40", autocomplete: "off", required: "required"
+          input.next.btn.btn-primary name="next" type="button" value="Next"
         fieldset
           legend.h2.fs-title Photography
           h3.fs-subtitle
-          #order-form.form-group
-            = f.text_field :agentFirstName, class: "form-control", class: "form-control", placeholder: "Agent's First Name", size: "40", autocomplete: "off", required: "required"
-          #order-form.form-group
-            = f.text_field :agentLastName, class: "form-control", class: "form-control", placeholder: "Agent's Last Name", size: "40", autocomplete: "off", required: "required"
-          #order-form.form-group
-            = f.text_field :agentEmail, class: "form-control", placeholder: "Agent's Email", size: "40", autocomplete: "off", required: "required"
-          #order-form.form-group
-            = f.text_field :agentPhone, class: "form-control", placeholder: "Agent's Phone Number", size: "40", autocomplete: "off", required: "required"
-          #order-form.form-group
-            = f.text_field :otherEmail, class: "form-control", placeholder: "Your Email (If different from above)", size: "40", autocomplete: "off"
-          #order-form.form-group
-            = f.text_field :address1Prop, class: "form-control", placeholder: "Address Line 1 of Property", size: "40", autocomplete: "off", required: "required"
-          #order-form.form-group
-            = f.text_field :address2Prop, class: "form-control", placeholder: "Address Line 2 of Property", size: "40", autocomplete: "off"
-          #order-form.form-group
-            = f.text_field :city, class: "form-control", placeholder: "City", size: "40", autocomplete: "off", required: "required"
-          #order-form.form-group
-            = f.select(:state, options_for_select(us_states, "CA"))
-          #order-form.form-group
-            = f.text_field :zipcode, class: "form-control", placeholder: "Zip Code", size: "40", autocomplete: "off", required: "required"
-          #order-form.form-group
-            = f.text_field :sqft, class: "form-control", placeholder: "Exact Square Footage of all Living Spaces", size: "40", autocomplete: "off", required: "required"
-          input.previous.btn.btn-warning name="previous" type="button" value="Previous" /
-          input.next.btn.btn-primary name="next" type="button" value="Next" /
+          #order-form
+            .input-group
+              span.input-group-addon
+                = f.check_box :hdrPhotos, checked: "checked"
+              = label_tag :hdrPhotos, "Unlimited HDR Photos", class: "form-control"
+            .input-group
+              span.input-group-addon
+                = f.check_box :panoramas, checked: "checked"
+              = label_tag :panoramas, "Panoramas / Virtual Tour Effect:", class: "form-control"
+            .input-group
+              span.input-group-addon
+                = f.check_box :spw, checked: "checked"
+              = label_tag :spw, "Single Property Website", class: "form-control"
+            .input-group
+              p.input-group-addon
+                = f.check_box :domain, checked: ""
+              = label_tag :domain, "Custom Website Address", class: "form-control"
+            .form-group
+              p.white.form-text What would you like your custom website address for your Single Property Website to be?
+              = f.text_field :domainURL, class: "form-control", placeholder: "ex. www.1234MainSt.com", size: "40", autocomplete: "off"
+            .input-group
+              p.input-group-addon
+                = f.check_box :preliminaryPhotos, checked: ""
+              = label_tag :preliminaryPhotos, "Preliminary Exterior Shots", class: "form-control"
+          input.previous.btn.btn-warning name="previous" type="button" value="Previous"
+          input.next.btn.btn-primary name="next" type="button" value="Next"
         fieldset
           legend.h2.fs-title Videography
           h3.fs-subtitle
-          #order-form.form-group
-            = f.text_field :agentFirstName, class: "form-control", class: "form-control", placeholder: "Agent's First Name", size: "40", autocomplete: "off", required: "required"
-          #order-form.form-group
-            = f.text_field :agentLastName, class: "form-control", class: "form-control", placeholder: "Agent's Last Name", size: "40", autocomplete: "off", required: "required"
-          #order-form.form-group
-            = f.text_field :agentEmail, class: "form-control", placeholder: "Agent's Email", size: "40", autocomplete: "off", required: "required"
-          #order-form.form-group
-            = f.text_field :agentPhone, class: "form-control", placeholder: "Agent's Phone Number", size: "40", autocomplete: "off", required: "required"
-          #order-form.form-group
-            = f.text_field :otherEmail, class: "form-control", placeholder: "Your Email (If different from above)", size: "40", autocomplete: "off"
-          #order-form.form-group
-            = f.text_field :address1Prop, class: "form-control", placeholder: "Address Line 1 of Property", size: "40", autocomplete: "off", required: "required"
-          #order-form.form-group
-            = f.text_field :address2Prop, class: "form-control", placeholder: "Address Line 2 of Property", size: "40", autocomplete: "off"
-          #order-form.form-group
-            = f.text_field :city, class: "form-control", placeholder: "City", size: "40", autocomplete: "off", required: "required"
-          #order-form.form-group
-            = f.select(:state, options_for_select(us_states, "CA"))
-          #order-form.form-group
-            = f.text_field :zipcode, class: "form-control", placeholder: "Zip Code", size: "40", autocomplete: "off", required: "required"
-          #order-form.form-group
-            = f.text_field :sqft, class: "form-control", placeholder: "Exact Square Footage of all Living Spaces", size: "40", autocomplete: "off", required: "required"
-          input.previous.btn.btn-warning name="previous" type="button" value="Previous" /
+          #order-form
+            .input-group
+              p.input-group-addon
+                = f.check_box :fullVideo, checked: ""
+              = label_tag :fullVideo, "Full Motion Video Tour shot with Video Cameras", class: "form-control"
+            .input-group
+              p.input-group-addon
+                = f.check_box :fullTwilightVideo, checked: ""
+              = label_tag :fullTwilightVideo, "Twilight Video Tour shot with Video Cameras", class: "form-control"
+            .input-group
+              p.input-group-addon
+                = f.check_box :videoClips, checked: ""
+              = label_tag :videoClips, "Tactical Video", class: "form-control"
+            .input-group
+              p.input-group-addon
+                = f.check_box :twilightVideoClips, checked: ""
+              = label_tag :twilightVideoClips, "Tactical Twilight Video", class: "form-control"
+          input.previous.btn.btn-warning name="previous" type="button" value="Previous"
+          input.next.btn.btn-primary name="next" type="button" value="Next"
+        fieldset
+          legend.h2.fs-title Extra Information
+          h3.fs-subtitle
+          #order-form
+            .input-group
+              p.white.form-text How will we access the property? If there is a combo, what is it?
+              = f.text_field :access, class: "form-control", placeholder: "Access Instructions", size: "40", autocomplete: "off", required: "required"
+          .form-group
+            p.white.form-text
+              b Date
+              |  and
+              b Time
+              | you would like to have this shot?
+            p.white.form-text Only schedule us for a time when the property is 100% photo-ready and vacant. We cannot coordinate directly with any of the stagers below for scheduling.
+            = f.text_field :date, class: "form-control", placeholder: "Date", size: "40", autocomplete: "off", required: "required"
+            = f.text_field :time, class: "form-control", placeholder: "Time", size: "40", autocomplete: "off", required: "required"
+          .input-group
+            p.white.form-text If someone referred you, who was it? They will earn a $50 credit on their next order with us!
+            = f.text_field :referral, class: "form-control", placeholder: "Referral's Name", size: "40", autocomplete: "off", required: ""
+          .input-group
+            p.white.form-text Additional notes such as areas to focus on?
+            = f.text_field :notes, class: "form-control", placeholder: "Additional Notes", size: "40", autocomplete: "off", required: ""
+          .input-group
+            p
+              input-group-addon
+                = f.radio_button :vendor, "126D"
+                |  OneTwoSixDesign
+            p
+              input-group-addon
+                = f.radio_button :vendor, "StagedCoop"
+                |  Staged Coop
+            p
+              input-group-addon
+                = f.radio_button :vendor, "DTMSM"
+                |  DTMSM
+            p
+              input-group-addon
+                = f.radio_button :vendor, "none"
+                |  None
+          input.previous.btn.btn-warning name="previous" type="button" value="Previous"
           #order-form.form-group.submit
             = f.submit "Submit", class: "btn btn-success submit"
-          p
 
 = javascript_include_tag "order-form-prices"
 /! jQuery"

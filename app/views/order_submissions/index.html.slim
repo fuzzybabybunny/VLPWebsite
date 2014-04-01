@@ -1,42 +1,35 @@
-p
-  h1.center
-    = "Welcome, #{@current_user.email}"
+.container
+  .content-container
+    p
+      h1.center
+        = "Welcome, #{@current_user.email}"
 
-p
-  h2
-    | All Registered Users
+    p
+      h2
+        | All Orders
 
-ol
-  - @users.each do |some_user|
-    li
-      = some_user.email
-
-p
-  h2
-    | All Orders
-
-table.table.table-bordered
-  thead
-    tr
-      th First Name
-      th Last Name
-      th.table-property-address Property Address
-      th City
-      th State
-      th Zip Code
-      th.table-actions Actions
-  tbody
-    - @order_submissions.each do |order_submission|
-      tr
-        td = order_submission.agentFirstName
-        td = order_submission.agentLastName
-        td
-          span = order_submission.address1Prop
-          br = order_submission.address2Prop
-        td = order_submission.city
-        td = order_submission.state
-        td = order_submission.zipcode
-        td.table-action
-          span = link_to "Show", {:action => 'show', :id => order_submission.id}, :class => 'action show'
-          span = link_to "Edit", {:action => 'edit', :id => order_submission.id}, :class => 'action edit'
-          span = link_to "Delete", {:action => 'delete', :id => order_submission.id}, :class => 'action delete'
+    table.table.table-bordered
+      thead
+        tr
+          th First Name
+          th Last Name
+          th.table-property-address Property Address
+          th City
+          th State
+          th Zip Code
+          th.table-actions Actions
+      tbody
+        - @order_submissions.each do |order_submission|
+          tr
+            td = order_submission.agentFirstName
+            td = order_submission.agentLastName
+            td
+              span = order_submission.address1Prop
+              br = order_submission.address2Prop
+            td = order_submission.city
+            td = order_submission.state
+            td = order_submission.zipcode
+            td.table-actions
+              span = link_to "Show", {:action => 'show', :id => order_submission.id}, :class => 'action show'
+              span = link_to "Edit", {:action => 'edit', :id => order_submission.id}, :class => 'action edit'
+              span = link_to "Delete", {:action => 'delete', :id => order_submission.id}, :class => 'action delete'

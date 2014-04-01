@@ -9,7 +9,7 @@
 
     .form-container
       /! multistep form
-      = form_for :order_submission, url: {:controller => "order_submissions", :action => 'create'}, html: { id: "msform"} do |f|
+      = form_for :order_submission, url: order_submission_path(@order_submission.id), method: :post, html: { id: "msform"} do |f|
         /! progressbar
         ul#progressbar
           li.active Basic Information

@@ -1,9 +1,9 @@
 #content
   h1 Delete Order
   p
-    = link_to "< Back to All Orders", {:action => 'index'}
+    = link_to "< Back to All Orders", order_submissions_path
   #left_even
-    = form_for :order_submission, :url => {:action => 'destroy', :id => @order_submission.id} do |f|
+    = form_for :order_submission, url: order_submission_path(@order_submission.id), method: :delete do |f|
       legend Are you sure you want to permanently delete this order?
       table.table.table-bordered summary="Order Submission Details"
         colgroup.columns span="2"

@@ -1,9 +1,9 @@
 #content
   h1 Edit Order
   p
-    = link_to "< Back to All Orders", {:action => 'index'}
+    = link_to "< Back to All Orders", order_submissions_path
   #left_even
-    = form_for :order_submission, :url => {:action => 'update', :id => @order_submission.id} do |f|
+    = form_for @order_submission, url: order_submission_path(@order_submission.id), method: :patch do |f|
       fieldset
         legend.h2.fs-title Basic Information
         #order-form

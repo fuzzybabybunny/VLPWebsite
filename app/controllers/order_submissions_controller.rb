@@ -54,6 +54,10 @@ class OrderSubmissionsController < ApplicationController
 
   private
 
+  def get_current_order_submission
+    @order_submission = OrderSubmission.find( params[:id] )
+  end
+
   def order_submission_params
     params.require(:order_submission).permit(
     :sqft, :agentFirstName, :agentLastName, :agentEmail,
@@ -63,10 +67,5 @@ class OrderSubmissionsController < ApplicationController
     :fullVideo, :fullTwilightVideo, :videoClips, :twilightVideoClips,
     :access, :date, :time, :referral, :notes, :vendor)
   end
-
-  def get_current_order_submission
-    @order_submission = OrderSubmission.find( params[:id] )
-  end
-
 
 end

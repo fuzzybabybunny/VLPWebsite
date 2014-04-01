@@ -29,7 +29,8 @@
             td = order_submission.city
             td = order_submission.state
             td = order_submission.zipcode
+            td = order_submission.id
             td.table-actions
-              span = link_to "Show", {:action => 'show', :id => order_submission.id}, :class => 'action show'
-              span = link_to "Edit", {:action => 'edit', :id => order_submission.id}, :class => 'action edit'
-              span = link_to "Delete", {:action => 'delete', :id => order_submission.id}, :class => 'action delete'
+              p = link_to "Show", order_submission_path(order_submission.id)
+              p = link_to "Edit", edit_order_submission_path(order_submission.id)
+              p = link_to "Delete", delete_order_submission_path(order_submission.id)

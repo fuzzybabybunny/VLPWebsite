@@ -2,7 +2,7 @@ class OrderSubmissionsController < ApplicationController
 
   before_action :is_authenticated?
   before_action :get_current_order_submission, except: [ :index, :new, :create, :admin ]
-
+                                              # only: [ :show, :edit, :update, :destroy]
   layout "site"
 
   def index

@@ -18,7 +18,7 @@ VLPRails::Application.routes.draw do
   # FRONT END ORDER SUBMISSION FORM
   get "prices"              => "order_forms#prices"
   resources :order_forms
-  get 'order_forms/:id/delete'  => 'order_forms#delete', as: :delete_order_form
+  # get 'order_forms/:id/delete'  => 'order_forms#delete', as: :delete_order_form
 
   # BACKEND ROUTING
   get 'admin' => 'backend#index'

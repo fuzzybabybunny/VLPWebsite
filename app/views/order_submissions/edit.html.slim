@@ -3,6 +3,4 @@
   p
     = link_to "< Back to All Orders", order_submissions_path
   #left_even
-    = form_for @order_submission, url: order_submission_path(@order_submission.id), method: :patch do |f|
-
-      = render :partial => "order_edit_form", :locals => {:f => f }
+  = render :partial => "order_edit_form"

@@ -7,9 +7,7 @@
 
     .form-container
       /! multistep form
-      = form_for :order_submission, url: order_submissions_path, method: :post, html: { id: "msform"} do |f|
-
-        = render :partial => "order_form", :locals => {:f => f }
+      = render :partial => "order_form"
 
 = javascript_include_tag "order-form-prices"
 = javascript_include_tag "vendor/jquery-multi-step-form/jquery-multi-step-form.js"

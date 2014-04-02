@@ -16,12 +16,17 @@ VLPRails::Application.routes.draw do
   get 'register'      => 'site#register'
 
   # FRONT END ORDER SUBMISSION FORM
-  get "prices"              => "order_forms#prices"
+  get "prices"  => "order_forms#prices"
   resources :order_forms
   # get 'order_forms/:id/delete'  => 'order_forms#delete', as: :delete_order_form
 
   # BACKEND ROUTING
-  get 'admin' => 'backend#index'
+  get 'admin'   => 'backend#index'
+  get 'backend' => 'backend#index'
+
+  # REGISTERING USERS AND USER LEVELS
+  get   'super_registration'  =>   'backend#super_registration'
+  post  'super_register'      =>   'registrations#registration'
 
   # CRUD and ORDER_SUBMISSIONS
   resources :order_submissions

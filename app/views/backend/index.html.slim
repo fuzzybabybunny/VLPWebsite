@@ -11,7 +11,13 @@
     - @users.each do |some_user|
       li
         = some_user.email
+        |  and they are a
+        = some_user.role
 
   p
     h2
       = link_to "View All Orders", order_submissions_path
+
+  p
+    h2
+      = link_to "Register New User Account", super_registration_path

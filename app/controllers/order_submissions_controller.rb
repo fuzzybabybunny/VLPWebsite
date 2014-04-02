@@ -7,7 +7,7 @@ class OrderSubmissionsController < ApplicationController
 
   def index
     @users = User.all.entries
-    @order_submissions = OrderSubmission.order("created_at ASC")
+    @order_submissions = OrderSubmission.order("created_at ASC").page(params[:page]).per(5)
   end
 
   def prices

@@ -17,10 +17,12 @@ class User
   field :fish, type: String
   field :code, type: String
   field :expires_at, type: Time
+  field :role, type: String
 
   before_save :set_random_password, :encrypt_password
   validates :email, presence: true, uniqueness: {case_sensitive: false}
   validates :password, confirmation: true
+  validates :role, presence: true
 
   # Used to authenticate a user
 

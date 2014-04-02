@@ -7,82 +7,84 @@
     p
       = link_to "Edit Order >", edit_order_submission_path
 
-  table.table.table-bordered summary="Order Submission Details"
-    colgroup.columns span="2"
-    tr
-      th First Name
-      td = @order_submission.agentFirstName
-    tr
-      th Last Name
-      td = @order_submission.agentLastName
-    tr
-      th Email
-      td = @order_submission.agentEmail
-    tr
-      th Phone Number
-      td = @order_submission.agentPhone
-    tr
-      th Submitter's Email
-      td = @order_submission.otherEmail
-    tr
-      th Property Address
-      td
-        span = @order_submission.address1Prop
-        br = @order_submission.address2Prop
-    tr
-      th City
-      td = @order_submission.city
-    tr
-      th State
-      td = @order_submission.state
-    tr
-      th Zip Code
-      td = @order_submission.zipcode
-    tr
-      th Total Square Footage of all Interiors
-      td = @order_submission.sqft
-    tr
-      th Unlimited HDR Photos
-      td = @order_submission.hdrPhotos
-    tr
-      th Panoramas
-      td = @order_submission.panoramas
-    tr
-      th Single Property Website
-      td = @order_submission.spw
-    tr
-      th Custom Website Address
-      td = @order_submission.domainURL
-    tr
-      th Preliminary Exterior Photos
-      td = @order_submission.preliminaryPhotos
-    tr
-      th Full Video Tour
-      td = @order_submission.fullVideo
-    tr
-      th Full Video Twilight Tour
-      td = @order_submission.fullTwilightVideo
-    tr
-      th Tactical Video Clips
-      td = @order_submission.videoClips
-    tr
-      th Tactical Twilight Video Clips
-      td = @order_submission.twilightVideoClips
-    tr
-      th Access Instructions
-      td = @order_submission.access
-    tr
-      th Date of Shoot
-      td = @order_submission.date
-    tr
-      th Time of Shoot
-      td = @order_submission.time
-    tr
-      th Referral Name
-      td = @order_submission.referral
-    tr
-      th Notes
-      td = @order_submission.notes
-    tr
-      th Vendor
-      td = @order_submission.vendor
+
+  .table-responsive
+    table.table.table-bordered summary="Order Submission Details"
+      colgroup.columns span="2"
+      tr
+        th First Name
+        td = @order_submission.agentFirstName
+      tr
+        th Last Name
+        td = @order_submission.agentLastName
+      tr
+        th Email
+        td = @order_submission.agentEmail
+      tr
+        th Phone Number
+        td = @order_submission.agentPhone
+      tr
+        th Submitter's Email
+        td = @order_submission.otherEmail
+      tr
+        th Property Address
+        td
+          span = @order_submission.address1Prop
+          br = @order_submission.address2Prop
+      tr
+        th City
+        td = @order_submission.city
+      tr
+        th State
+        td = @order_submission.state
+      tr
+        th Zip Code
+        td = @order_submission.zipcode
+      tr
+        th Total Square Footage of all Interiors
+        td = @order_submission.sqft
+      tr
+        th Unlimited HDR Photos
+        td = @order_submission.hdrPhotos
+      tr
+        th Panoramas
+        td = @order_submission.panoramas
+      tr
+        th Single Property Website
+        td = @order_submission.spw
+      tr
+        th Custom Website Address
+        td = @order_submission.domainURL
+      tr
+        th Preliminary Exterior Photos
+        td = @order_submission.preliminaryPhotos
+      tr
+        th Full Video Tour
+        td = @order_submission.fullVideo
+      tr
+        th Full Video Twilight Tour
+        td = @order_submission.fullTwilightVideo
+      tr
+        th Tactical Video Clips
+        td = @order_submission.videoClips
+      tr
+        th Tactical Twilight Video Clips
+        td = @order_submission.twilightVideoClips
+      tr
+        th Access Instructions
+        td = @order_submission.access
+      tr
+        th Date of Shoot
+        td = @order_submission.date
+      tr
+        th Time of Shoot
+        td = @order_submission.time
+      tr
+        th Referral Name
+        td = @order_submission.referral
+      tr
+        th Notes
+        td = @order_submission.notes
+      tr
+        th Vendor
+        td = @order_submission.vendor

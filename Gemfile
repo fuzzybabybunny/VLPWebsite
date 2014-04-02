@@ -12,6 +12,9 @@ gem 'bcrypt'
 gem 'sprockets'
 gem 'carmen'
 gem 'carmen-rails'
+gem 'sass-rails', '>= 3.2'
+gem 'bootstrap-sass', '~> 3.1.1'
+gem 'kaminari'
 
 group :development, :test do
   # gem "better_errors"

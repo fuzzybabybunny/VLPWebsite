@@ -1,0 +1,30 @@
+#content
+  = form_for :user, url: super_register_url, html: { id: "registerform" } do |f|
+    fieldset
+      legend Register New System Users Here
+      #login.form-group
+        = f.text_field :email, class: "form-control input-md", placeholder: "Email Address", id: "user_email"
+      #login.form-group
+        = f.password_field :password, class: "form-control input-md", placeholder: "Password", id: "user_password"
+      #login.form-group
+        = f.password_field :password_confirmation, class: "form-control input-md", placeholder: "Confirm Password", id: "user_password"
+      #login.input-group
+        = f.radio_button :role, "superuser"
+        |  Super User
+      #login.input-group
+        = f.radio_button :role, "assistant"
+        |  Assistant
+      #login.input-group
+        = f.radio_button :role, "processor"
+        |  Processor
+      #login.input-group
+        = f.radio_button :role, "photographer"
+        |  Photographer
+      #login.input-group
+        = f.radio_button :role, "videographer"
+        |  Videographer
+      #login.input-group
+        = f.radio_button :role, "realtor"
+        |  Real Estate Agent
+      #login.form-group
+        = f.submit "Register", class: "btn btn-success"

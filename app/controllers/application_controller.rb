@@ -25,6 +25,10 @@ class ApplicationController < ActionController::Base
     end
   end
 
+  def flash_notice_user_created(notice = nil)
+    redirect_to admin_url, notice: notice
+  end
+
   def log_user_out
     session[:user_id] = nil
     redirect_to login_url, notice: "You've successfully logged out."

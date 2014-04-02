@@ -26,7 +26,7 @@ VLPRails::Application.routes.draw do
 
   # REGISTERING USERS AND USER LEVELS
   get   'super_registration'  =>   'backend#super_registration'
-  post  'super_register'      =>   'registrations#registration'
+  post  'super_register'      =>   'super_registrations#super_registration'
 
   # CRUD and ORDER_SUBMISSIONS
   resources :order_submissions
